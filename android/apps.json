@@ -1,0 +1,98 @@
+[
+    {
+        "id": "anone",
+        "title": "AN1",
+        "category": "APK Library",
+        "icon": "https://an1.com/templates/an1/images/favicon/apple-touch-icon.png",
+        "description": "Free Games and Programs, you can download for free, a lot popular games with MOD for Android.",
+        "get_link": "https://an1.com",
+        "type": "Website",
+        "screenshots": [
+            "https://i.imgur.com/LrKTl0E.jpeg"
+        ]
+    },
+    {
+        "id": "aptoide",
+        "title": "Aptoide",
+        "category": "APK Library",
+        "icon": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcScgdi3OyLJulqegNf0zwXlw1-4gsqcs9xZbg&s",
+        "description": "Find, discover and download the best apps and games for Android in the official Aptoide app store.",
+        "get_link": "https://en.aptoide.com/",
+        "type": "Website",
+        "screenshots": [
+            "https://i.imgur.com/oQJe7YJ.jpeg"
+        ]
+    }, 
+    {
+        "id": "happymod",
+        "title": "HappyMod",
+        "category": "APK Library",
+        "icon": "https://yt3.googleusercontent.com/ytc/AIdro_kNpdVQcm8z7OxM8MGKBHEvg5DvJwh2A5NyU4-RNXwKow=s900-c-k-c0x00ffffff-no-rj",
+        "description": "What is HappyMod? HappyMod is paltform for mod lovers to download, request and test android mods.",
+        "get_link": "https://spdn.poumod.com/HappyMod-Download-3-1-1.apk",
+        "type": "App",
+        "screenshots": [
+            "https://www.happymod.cloud/static/img/shouji1.png"
+        ]
+    }, 
+    {
+        "id": "apkpure",
+        "title": "ApkPure",
+        "category": "APK Library",
+        "icon": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPwiBXV3AGzqTneOBHwmwgRd_XqO9MC6pJ8g&s",
+        "description": "Discover and update Android apps and games with APKPure APK online downloader for Android",
+        "get_link": "https://apkpure.com",
+        "type": "Website",
+        "screenshots": [
+            "https://i.imgur.com/nbE3VGn.jpeg"
+        ]
+    }, 
+    {
+        "id": "xapksinstaller",
+        "title": "Xapks Installer",
+        "category": "Other",
+        "icon": "https://play-lh.googleusercontent.com/YgspwEljj2_NNdcwhBaAfjGtU3DcB_33pB9oUlHgzIFcccxeZArxD5-BcoPDWVtm2Q=w480-h960",
+        "description": "This app allows you to install OBB, XAPK, APK an other files. ",
+        "get_link": "https://play.google.com/store/apps/details?id=io.apkmody.sai&hl=en&referrer=utm_source%3Dgoogle%26utm_medium%3Dorganic%26utm_term%3Dxapks+installer&pcampaignid=APPU_1_G0uFZtStD82Jxc8PoqGxgAc",
+        "type": "App",
+        "screenshots": [
+            "https://play-lh.googleusercontent.com/LYzP-AjQsaFFIRCPBPz36urqq-EvVlJZ8KOuGpViXC8OFSw7Zuv3DyhFJARlX6YSXg=w1052-h592-rw", "https://play-lh.googleusercontent.com/LYzP-AjQsaFFIRCPBPz36urqq-EvVlJZ8KOuGpViXC8OFSw7Zuv3DyhFJARlX6YSXg=w5120-h2880-rw"
+        ]
+    }, 
+    {
+        "id": "lawnchair",
+        "title": "Lawnchair",
+        "category": "Launcher",
+        "icon": "https://lawnchair.app/images/lawnchair.webp",
+        "description": "No clever tagline needed",
+        "get_link": "https://github.com/LawnchairLauncher/lawnchair/releases/download/v14.0.0-beta2/Lawnchair.14.0.0.Beta.2.apk",
+        "type": "App",
+        "screenshots": [
+            "https://lawnchair.app/images/phone-pixel.webp"
+        ]
+    }, 
+    {
+        "id": "revanced",
+        "title": "ReVanced",
+        "category": "Other",
+        "icon": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTCF_Ah2bNSFnr4S3iUzpuPZxk8eYgSXDHIMw&s",
+        "description": "Customize your mobile experience through ReVanced by applying patches to your applications.",
+        "get_link": "https://github.com/ReVanced/revanced-manager/releases/download/v1.20.1/revanced-manager-v1.20.1.apk",
+        "type": "App",
+        "screenshots": [
+            "https://revanced.app/_app/immutable/assets/manager.mcb2h-hC.avif"
+        ]
+    }, 
+    {
+        "id": "apkmirror",
+        "title": "APKMirror",
+        "category": "APK Library",
+        "icon": "https://play-lh.googleusercontent.com/04zdh0xwgkxR0kTE_pAzURKJjihHjR9Nz5RSU1R7toS9W8-QCLE1RtJBS4Csl-ueEUU=w240-h480-rw",
+        "description": "Free and safe Android APK downloads.",
+        "get_link": "https://apkmirror.com",
+        "type": "Website",
+        "screenshots": [
+            ""
+        ]
+    }
+]
