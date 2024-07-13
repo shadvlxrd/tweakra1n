@@ -1,4 +1,16 @@
 [
+       {
+        "id": "paperswallpapers",
+        "title": "Papers Wallpapers",
+        "category": "Personalisatiom",
+        "icon": "https://i.imgur.com/XGMDzXD.png",
+        "description": "Free Games and Programs, you can download for free, a lot popular games with MOD for Android.",
+        "get_link": "https://play.google.com/store/apps/details?id=com.wallpapers.papers&pcampaignid=web_share",
+        "type": "Website",
+        "screenshots": [
+            "https://i.imgur.com/IwSjB2L.jpeg"
+        ]
+    },
     {
         "id": "anone",
         "title": "AN1",
