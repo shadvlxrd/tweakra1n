@@ -1,14 +1,37 @@
 [
        {
-        "id": "paperswallpapers",
-        "title": "Papers Wallpapers",
-        "category": "Personalisatiom",
-        "icon": "https://i.imgur.com/XGMDzXD.png",
+        "id": "canta",
+        "title": "Canta",
+        "category": "Other",
+        "icon": "https://raw.githubusercontent.com/samolego/Canta/master/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png",
         "description": "Free Games and Programs, you can download for free, a lot popular games with MOD for Android.",
-        "get_link": "https://play.google.com/store/apps/details?id=com.wallpapers.papers&pcampaignid=web_share",
-        "type": "Website",
+        "get_link": "https://github.com/samolego/Canta/releases/",
+        "type": "App",
         "screenshots": [
             "https://i.imgur.com/IwSjB2L.jpeg"
+        ]
+    },
+       {
+        "id": "shizuku",
+        "title": "Shizuku",
+        "category": "Other",
+        "icon": "https://shizuku.rikka.app/logo.png",
+        "description": "Forget about root shell, you can use APIs with higher privileges directly. Also, Shizuku is significantly faster than shell.",
+        "get_link": "https://github.com/RikkaApps/Shizuku/releases",
+        "type": "App",
+        "screenshots": [
+            "https://i.imgur.com/IwSjB2L.jpeg"
+        ]
+    },  
+       {
+        "id": "aurorastore",
+        "title": "AuroraStore",
+        "category": "App Store",
+        "icon": "https://gitlab.com/uploads/-/system/project/avatar/6922885/icon.png?width=96",
+        "description": "An unofficial FOSS client to Google Play",
+        "get_link": "https://auroraoss.com/downloads/AuroraStore/",
+        "type": "App",
+        "screenshots": ["https://gitlab.com/AuroraOSS/AuroraStore/-/raw/master/fastlane/metadata/android/en-US/images/phoneScreenshots/screenshot-01.png", "https://gitlab.com/AuroraOSS/AuroraStore/-/raw/master/fastlane/metadata/android/en-US/images/phoneScreenshots/screenshot-03.png"
         ]
     },
     {
@@ -57,18 +80,6 @@
         "type": "Website",
         "screenshots": [
             "https://i.imgur.com/nbE3VGn.jpeg"
-        ]
-    }, 
-    {
-        "id": "xapksinstaller",
-        "title": "Xapks Installer",
-        "category": "Other",
-        "icon": "https://play-lh.googleusercontent.com/YgspwEljj2_NNdcwhBaAfjGtU3DcB_33pB9oUlHgzIFcccxeZArxD5-BcoPDWVtm2Q=w480-h960",
-        "description": "This app allows you to install OBB, XAPK, APK an other files. ",
-        "get_link": "https://play.google.com/store/apps/details?id=io.apkmody.sai&hl=en&referrer=utm_source%3Dgoogle%26utm_medium%3Dorganic%26utm_term%3Dxapks+installer&pcampaignid=APPU_1_G0uFZtStD82Jxc8PoqGxgAc",
-        "type": "App",
-        "screenshots": [
-            "https://play-lh.googleusercontent.com/LYzP-AjQsaFFIRCPBPz36urqq-EvVlJZ8KOuGpViXC8OFSw7Zuv3DyhFJARlX6YSXg=w1052-h592-rw", "https://play-lh.googleusercontent.com/LYzP-AjQsaFFIRCPBPz36urqq-EvVlJZ8KOuGpViXC8OFSw7Zuv3DyhFJARlX6YSXg=w5120-h2880-rw"
         ]
     }, 
     {
