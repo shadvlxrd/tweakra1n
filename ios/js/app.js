@@ -224,9 +224,9 @@ function checkConnection() {
 
             titleRightText: "now",
 
-            subtitle: "Cannot connect to the server.",
+            subtitle: "Unable to connect to the server.",
 
-            text: "Check your connection and try again."
+            text: "Check your internet connection and try again."
 
          }).open();
 
@@ -440,7 +440,7 @@ function createPopupHtml(item) {
 
 <ul>
 
-<li>
+<li style="background:none;">
 
 <div class="item-content">
 
