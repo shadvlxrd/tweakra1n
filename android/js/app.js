@@ -166,7 +166,7 @@ function createPopupHtml(item) {
     return `
     <div class="popup" id="${item.id}">
         <div class="page">
-            <div class="swipe-nav"><div><i class="material-icons">remove</i></div></div>
+            <div class="swipe-nav"><div><i class="material-icons" style="border-radius:100%;">remove</i></div></div>
             <div class="page-content">
                 <div style="margin-top: 20px; padding: 0px;">
                     <div class="list separated media-list no-chevron inset">
