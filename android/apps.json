@@ -1,5 +1,17 @@
 [
        {
+        "id": "zfont",
+        "title": "ZFont 3",
+        "category": "Customisation",
+        "icon": "https://i.imgur.com/ca9TemU.jpeg",
+        "description": "💜 Free Emoji, Cool, Stylish, and Font Changer for Android! Change custom font styles on Samsung, Vivo, iQOO, LG, Huawei, Honor, OnePlus, ASUS, OPPO, Realme, Xiaomi, Tecno, and Infinix devices without ROOT ⚡ If you have ROOT (Magisk, KernelSU, APatch), you can create a systemless flashable font module with this app to change system-wide emojis and fonts 😉",
+        "get_link": "https://zfont-3.en.uptodown.com/android/download",
+        "type": "App",
+        "screenshots": [
+            "https://i.imgur.com/R203ELq.jpeg"
+        ]
+    },
+       {
         "id": "canta",
         "title": "Canta",
         "category": "Other",
