@@ -1,0 +1,283 @@
+<!DOCTYPE html>
+<html lang="en" class="ios ios-translucent-bars ios-translucent-modals device-pixel-ratio-2 device-ios ios">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, minimum-scale=1, user-scalable=no, viewport-fit=cover">
+    <title>AppMarket</title>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/framework7@8.3.4/framework7-bundle.min.css">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/Outland3r2007/harmonyicons@latest/hmicons.css">
+    <link rel="stylesheet" href="css/styles.css">
+    <link rel="manifest" href="/manifest.json">
+  </head>
+  <body>
+    <div id="app">
+      <div class="view view-main">
+        <div data-name="home" class="page">
+<div class="navbar navbar-large-transparent">
+                    <div class="navbar-bg"></div>
+                    <div class="navbar-inner">
+                        <div class="left"></div>
+                        <div class="title hm-title">Home</div>
+                        <div class="right"></div>
+                        <div class="title-large">
+                            <div class="title-large-text">Home</div>
+                        </div>
+                    </div>
+                </div>
+          <div class="toolbar tabbar-icons toolbar-bottom no-outline">
+      <div class="toolbar-inner translucent">
+        <a href="#homeTab" class="tab-link tab-link-active" data-tab-title="Home">
+          <i class="hm-icons hm-public-home-filled"></i>
+          <span class="tabbar-label">Home</span>
+        </a>
+         <a href="#browseTab" class="tab-link" data-tab-title="Browse">
+          <i class="hm-icons hm-public-appstore-filled"></i>
+          <span class="tabbar-label">Browse</span>
+        </a>
+        <a href="#favoritesTab" class="tab-link" data-tab-title="Favorites">
+          <i class="hm-icons hm-public-favorites-filled"></i>
+          <span class="tabbar-label">Favorites</span>
+        </a>
+        <a href="#settingsTab" class="tab-link" data-tab-title="Settings">
+          <i class="hm-icons hm-public-settings-filled"></i>
+          <span class="tabbar-label">Settings</span>
+        </a>
+      </div>
+    </div>
+    <div class="tabs">
+                    <div id="homeTab" class="page-content tab tab-active ptr-content" data-ptr-distance="56" style="">
+                        <div class="ptr-preloader">
+                            <div class="preloader"></div>
+                            <div class="ptr-arrow"></div>
+                        </div>
+                        <div>
+                            <div class="swiper swiper-padding featured swiper-initialized swiper-horizontal swiper-ios swiper-backface-hidden">
+                                <div class="swiper-wrapper" aria-live="polite">
+                                    <div class="swiper-slide featured" role="group" aria-label="1 / 5">
+                                        <a class="link popup-open" data-popup="#soon">
+                                            <div class="title-container">
+                                                <div class="swiper-title">Coming Soon</div>
+                                            </div><img loading="lazy" src="https://i.imgur.com/9Q6I1fe.jpeg ">
+                                            <div class="backout"></div>
+                                        </a>
+                                    </div>
+                                    <div class="swiper-slide featured" role="group" aria-label="2 / 5">
+                                        <a class="link popup-open" data-popup="#eonhub">
+                                            <div class="title-container">
+                                                <div class="swiper-title">Coming Soon</div>
+                                            </div><img loading="lazy" src="https://i.imgur.com/9Q6I1fe.jpeg">
+                                            <div class="backout"></div>
+                                        </a>
+                                    </div>
+                                    <div class="swiper-slide featured" role="group" aria-label="3 / 5">
+                                        <a class="link popup-open" data-popup="#soon">
+                                            <div class="title-container">
+                                                <div class="swiper-title">Coming soon</div>
+                                            </div><img loading="lazy" src="https://i.imgur.com/9Q6I1fe.jpeg">
+                                            <div class="backout"></div>
+                                        </a>
+                                    </div>
+                                    <div class="swiper-slide featured" role="group" aria-label="4 / 5">
+                                        <a class="link popup-open" data-popup="#soon">
+                                            <div class="title-container">
+                                                <div class="swiper-title">Coming soon</div>
+                                            </div><img loading="lazy" src="https://i.imgur.com/9Q6I1fe.jpeg">
+                                            <div class="backout"></div>
+                                        </a>
+                                    </div>
+                                    <div class="swiper-slide featured" role="group" aria-label="5 / 5">
+                                        <a class="link popup-open" data-popup="#soon">
+                                            <div class="title-container">
+                                                <div class="swiper-title">Coming soon</div>
+                                            </div><img loading="lazy" src="https://i.imgur.com/9Q6I1fe.jpeg">
+                                            <div class="backout"></div>
+                                        </a>
+                                    </div>
+                                </div><br>
+                                <div class="swiper-pagination swiper-pagination-bullets swiper-pagination-horizontal"><span class="swiper-pagination-bullet swiper-pagination-bullet-active" aria-current="true"></span><span class="swiper-pagination-bullet"></span><span class="swiper-pagination-bullet"></span><span class="swiper-pagination-bullet"></span></div>
+                                <span
+                                    class="swiper-notification" aria-live="assertive" aria-atomic="true"></span>
+                            </div>
+                            <div class="block-title">News</div>
+                            <div id="news"></div><br></div>
+                    </div>
+                    <div id="browseTab" class="page-content tab ptr-content" data-ptr-distance="56">
+                        <div class="ptr-preloader">
+                            <div class="preloader"></div>
+                            <div class="ptr-arrow"></div>
+                        </div>
+                        <form class="searchbar searchbar-init" data-search-container=".virtual-list" data-search-item="li" data-search-in=".item-title">
+                            <div class="searchbar-inner">
+                                <div class="searchbar-input-wrap"><input type="search" placeholder="Search apps or tweaks"><i class="searchbar-icon"></i><span class="input-clear-button"></span></div><span class="searchbar-disable-button color-blue">Cancel</span></div>
+                        </form> 
+                       <h2 id="favempty">Coming soon</h2> 
+                    </div>
+                    <div id="favoritesTab" class="page-content tab ptr-content" data-ptr-distance="56">
+                        <div class="ptr-preloader">
+                            <div class="preloader"></div>
+                            <div class="ptr-arrow"></div>
+                        </div>
+                        <div class="list list-strong simple-list searchbar-not-found inset">
+                            <ul>
+                                <li>Unfortunately, no items were found.</li>
+                            </ul>
+                        </div>
+                        <h2 id="favempty">No favorites</h2>
+                        <div class="list media-list inset" id="fav">
+                            <ul></ul>
+                        </div>
+                    </div>
+                    
+                    <div id="settingsTab" class="page-content tab ptr-content" data-ptr-distance="56">
+                        <div class="ptr-preloader">
+                            <div class="preloader"></div>
+                        
+                            <div class="ptr-arrow"></div>
+                        </div>
+                        
+                        <div class="list list-strong list-dividers media-list inset">
+                            <ul>
+                                <li>
+                                    <div class="item-content">
+                                        <div class="item-media"><a class="popup-open" data-popup="#icon"><img loading="lazy" id="faviconimg2" src="https://appmarkt.pages.dev/ios/assets/favicon.ico"></a></div>
+                                        <div class="item-inner">
+                                            <div class="item-title-row">
+                                                <div class="item-title" id="greeting">
+                                                    <script>
+                                                        function getGreeting() {
+  const today = new Date();
+  const hour = today.getHours();
+  let greeting;
+
+  if (hour < 12) {
+    greeting = "Good morning!";
+  } else if (hour < 18) {
+    greeting = "Good afternoon!";
+  } else {
+    greeting = "Good evening!";
+  }
+
+  document.getElementById("greeting").innerText = greeting;
+}
+
+window.onload = getGreeting;
+
+                                                    </script>
+                                                </div>
+                                            </div>
+                                            <div style="font-size:12px" class="item-subtitle">
+                                                <script>
+                                                    var mydate = new Date,
+                                                        year = mydate.getYear(),
+                                                        day = mydate.getDay(),
+                                                        month = mydate.getMonth(),
+                                                        daym = mydate.getDate();
+                                                    daym < 10 && (daym = "0" + daym);
+                                                    var dayarray = new Array("Sunday", "Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday"),
+                                                        montharray = new Array("January", "February", "March", "April", "May", "June", "July", "August", "September", "October", "November", "December");
+                                                    document.write(dayarray[day] + ", " + montharray[month] + " " + daym)
+                                                </script>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </li>
+                                <li style="display:flex;align-items:center;justify-content:space-between;padding-left:16px;padding-right:15px">
+                                    <div style="display:flex;align-items:center">
+                                        <div class="item-media"><i class="hm-icons hm-public-themes-filled"></i></div>
+                                        <div style="padding-left:14px;font-weight:var(--f7-list-media-item-title-font-weight,var(--f7-list-item-title-font-weight,inherit))">Accent color</div>
+                                    </div>
+                                    <div style=""><span class="accent-color-indicator" id="accent-color"></span></div>
+                                </li>
+                                </ul>
+                                </div>
+                                <div class="list list-strong list-dividers inset media-list">
+                                    <ul>
+                                        
+                                <li>
+                                    <a onclick="shareURL()" class="item-link item-content">
+                                        <div class="item-media"><i class="hm-icons hm-share-filled"></i></div>
+                                        <div class="item-inner">
+                                            <div class="item-title-row">
+                                                <div class="item-title">Share AppMarket</div>
+                                            </div>
+                                        </div>
+                                    </a>
+                                </li>
+                                
+                                <li>
+                                    <a onclick="reset()" class="item-link item-content">
+                                        <div class="item-media"><i style="color:red;" class="hm-icons hm-delete-filled"></i></div>
+                                        <div class="item-inner">
+                                            <div class="item-title-row">
+                                                <div class="item-title">Reset</div>
+                                            </div>
+                                        </div>
+                                    </a>
+                                </li>
+                            </ul>
+                        </div>
+                        <div class="block-title">Other</div>
+                        <div class="list list-strong list-dividers media-list inset">
+                            <p>
+                                <ul>
+                                    <li>
+                                        <a href="https://x.com/Outland3r2007/" class="item-link item-content external">
+                                            <div class="item-media"><i class="hm-icons hm-contacts-add-filled"></i></div>
+                                            <div class="item-inner">
+                                                <div class="item-title-row">
+                                                    <div class="item-title">Follow Us</div>
+                                                </div>
+                                            </div>
+                                        </a>
+                                    </li>
+                                    <li>
+                                        <a href="https://www.paypal.com/donate/?hosted_button_id=764DYR9PAFGUY" class="item-link item-content external">
+                                            <div class="item-media"><i class="hm-icons hm-nickname-filled"></i></div>
+                                            <div class="item-inner">
+                                                <div class="item-title-row">
+                                                    <div class="item-title">Donate</div>
+                                                </div>
+                                            </div>
+                                        </a>
+                                    </li>
+                                    <li>
+                                        <a class="item-link item-content sheet-open" data-sheet="#changelog">
+                                            <div class="item-media"><i class="hm-icons hm-public-fast-filled"></i></div>
+                                            <div class="item-inner">
+                                                <div class="item-title-row">
+                                                    <div class="item-title">What's new?</div>
+                                                </div>
+                                            </div>
+                                        </a>
+                                    </li>
+                                    <li>
+                                        <a class="item-link item-content popup-open" data-popup="#terms">
+                                            <div class="item-media"><i class="hm-icons hm-privacy-statement"></i></div>
+                                            <div class="item-inner">
+                                                <div class="item-title-row">
+                                                    <div class="item-title">Terms of service</div>
+                                                </div>
+                                            </div>
+                                        </a>
+                                    </li>
+                                    <li>
+                                        <a href="#" class="item-link item-content external">
+                                            <div class="item-media"><i class="hm-icons hm-public-cards-filled"></i></div>
+                                            <div class="item-inner">
+                                                <div class="item-title-row">
+                                                    <div class="item-title">Buy source code (Unavailable)</div>
+                                                </div>
+                                            </div>
+                                        </a>
+                                    </li>
+                                </ul>
+                                <center>
+                                    <h4>AppMarket OpenHarmony v0.1 Beta</div>
+                    </div>
+                </div>
+                </div>
+                </div>
+    <script src="https://cdn.jsdelivr.net/npm/framework7@8.3.4/framework7-bundle.min.js"></script>
+    <script type="text/javascript" src="js/app.js"></script>
+  </body>
+</html>
