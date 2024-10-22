@@ -1,0 +1,306 @@
+:root{
+    --f7-ios-primary: #0404f8;
+    --f7-block-inset-border-radius: 25px; 
+    --f7-list-inset-border-radius: 18px;
+    --f7-searchbar-input-border-radius: 25px;
+ --f7-searchbar-in-page-content-input-border-radius: 25px;
+    --f7-dialog-border-radius: 18px;
+    --f7-dialog-input-border-radius: 25px;
+    --f7-actions-border-radius: 18px;
+    --f7-actions-button-border-color: transparent;
+    --f7-card-border-radius: 17px;
+    --f7-dialog-width: 93%;
+    --f7-toggle-width: 44px;
+    --f7-toggle-height: 23px;
+    --f7-tooltip-border-radius: 20px;
+    --f7-range-bar-size: 20px;
+    --f7-range-knob-size: 18px;
+    --f7-range-bar-border-radius: 10px;
+    --f7-card-border-radius: 11px;
+    --f7-dialog-border-divider-color: transparent;
+    --f7-dialog-border-divider-color: transparent;
+    --f7-picker-item-selected-bg-color: transparent;
+    --f7-sheet-border-radius: 20px; 
+    --f7-sheet-border-color: transparent;
+    --f7-sheet-push-border-radius: 20px;
+    --f7-notification-border-radius: 20px;
+    --f7-sheet-height: 400px;
+    --f7-popup-border-radius: 20px;
+    --f7-bars-translucent-blur: 6px;
+    --f7-card-border-radius: 30px;
+}
+.ios .dark,
+.ios.dark {
+    --f7-block-inset-border-radius: 25px; 
+    --f7-list-inset-border-radius: 23px;
+    --f7-searchbar-input-border-radius: 25px; 
+ --f7-searchbar-in-page-content-input-border-radius: 25px;
+    --f7-dialog-border-radius: 18px;
+    --f7-dialog-input-border-radius: 25px;
+    --f7-actions-border-radius: 18px;
+    --f7-actions-button-border-color: transparent;
+    --f7-card-border-radius: 17px;
+    --f7-dialog-width: 93%;
+    --f7-toggle-width: 44px;
+    --f7-toggle-height: 23px;
+    --f7-tooltip-border-radius: 20px;
+    --f7-range-bar-size: 20px;
+    --f7-range-knob-size: 18px;
+    --f7-range-bar-border-radius: 10px;
+    --f7-card-border-radius: 11px;
+    --f7-dialog-border-divider-color: transparent;
+    --f7-picker-item-selected-bg-color: transparent;
+    --f7-sheet-border-radius: 20px; 
+    --f7-sheet-border-color: transparent;
+    --f7-sheet-push-border-radius: 20px;
+    --f7-notification-border-radius: 23px;
+    --f7-sheet-height: 400px;
+    --f7-popup-border-radius: 20px;
+}
+.navbar .hm-title {
+  position: relative;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+  flex-shrink: 10;
+  font-weight: var(--f7-navbar-title-font-weight);
+  display: inline-block;!important
+  line-height: var(--f7-navbar-title-line-height);
+  text-align: left;
+  font-size: var(--f7-navbar-title-font-size);
+  margin-left: 0;
+  margin-right: auto;
+}
+.list.separated li{margin-top:10px;background:var(--f7-list-strong-bg-color);transition:background-color 1s;transform:translateZ(0)}.list.separated ul{background:0 0}.list.separated .item-inner:after{content:none}.list.separated .item-content,.list.separated .item-link,.list.separated li{border-radius:var(--f7-list-inset-border-radius)!important}
+.button {
+  text-transform: none; !important
+}
+.dialog{margin-top:280px;}
+.notification{height:83px;}
+.dark .sheet-modal {
+  background-color: rgba(0, 0, 0, 0.5); 
+  color: white;
+  backdrop-filter: blur(13px);
+  -webkit-backdrop-filter: blur(13px);
+}
+.sheet-modal {
+  background-color: rgba(255, 255, 255, 0.8);
+  backdrop-filter: blur(13px);
+  -webkit-backdrop-filter: blur(13px);
+}
+.inline{display: inline-block;}
+.popup{margin-top:30px;}
+.link.popup-close{font-size:auto;color:grey;}
+.list-dividers .item-inner:after {
+ transform-origin: initial;!important
+}
+.searchbar {
+    overflow-x: hidden;
+}
+
+.title-container {
+
+position: absolute;
+
+bottom: 10px;
+
+left: 10px;
+
+padding: 5px;
+
+}
+
+
+.swiper-title {
+
+margin: 0;
+
+font-size: 26px;
+
+font-weight: 700;
+
+color: #fff;
+
+}
+
+
+.swiper-padding {
+
+padding: 10px;
+
+}
+
+
+.inline {
+
+display: inline-block;
+
+}
+
+
+.swiper .guides {
+
+width: 85%;
+
+height: 50%;
+
+border-radius: 20px
+
+}
+
+
+.swiper .featured {
+
+width: 85%;
+
+height: 50%;
+
+border-radius: 20px;
+
+}
+
+
+.swiper-slide img {
+
+width: 100%;
+
+height: 100%;
+border-radius: 30px;
+
+}
+
+
+.swipe-nav {
+
+background: var(--handler-navbar-bg);
+
+position: absolute;
+
+justify-content: center;
+
+-webkit-backdrop-filter: saturate(180%) blur(var(--f7-bars-translucent-blur));
+
+z-index: 500;
+
+display: flex;
+
+height: 17px;
+
+width: 100%;
+
+backdrop-filter: saturate(180%) blur(var(--f7-bars-translucent-blur));
+
+align-items: center
+
+}
+
+
+.swipe-nav i {
+
+font-size: 60px;
+
+color: gray
+
+}
+
+
+.newsimg {
+
+width: 100%;
+
+border-top-right-radius: 30px;
+
+border-top-left-radius: 30px;
+
+}
+
+
+.sidebar {
+
+position: fixed;
+
+left: 0;
+
+top: 0;
+
+width: 60px;
+
+height: 100%;
+
+background-color: #f7f7f8;
+
+display: flex;
+
+flex-direction: column;
+
+align-items: center;
+
+box-shadow: 2px 0 5px rgb(0 0 0 / .1);
+
+z-index: 1000;
+
+display: none;
+
+}
+
+
+.sidebar-inner {
+
+display: flex;
+
+flex-direction: column;
+
+align-items: center;
+
+padding-top: 20px;
+
+}
+
+
+.sidebar .tab-link {
+
+margin: 10px 0;
+
+text-align: center
+
+}
+
+
+.sidebar .tab-link .icon {
+
+font-size: 24px
+
+}
+
+
+.sidebar .tab-link-active {
+
+color: #3E84F7;
+
+}
+
+.item-media img {
+    width: 60px;
+    height: 60px;
+    background-image: url(https://appmarkt.pages.dev/ios/assets/default.png);
+    background-size: cover;
+    border-radius: 26%;
+}
+.accent-color-indicator {
+    display: inline-block;
+    width: 27px;
+    height: 27px;
+    border-radius: 100%;
+    border: 1px solid grey;
+    background-color:var(--f7-ios-primary); 
+}
+#favempty {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  text-align: center;
+}
+.searchbar .searchbar-input-wrap {
+  border-radius: 50px;!important
+}
