@@ -8,7 +8,7 @@
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/Outland3r2007/harmonyicons@latest/hmicons.css">
     <link rel="icon" type="image/x-icon" href="https://appmarkt.pages.dev/ios/assets/favicon.ico">
     <link rel="stylesheet" href="css/styles.css">
-    <link rel="manifest" href="data.webmanifest">
+    <link rel="manifest" href="https://progressier.app/E46gv8g7DfdUTj03pA3N/progressier.json"/>
   </head>
   <body>
     <div id="app">
@@ -98,9 +98,7 @@
                                 <div class="swiper-pagination swiper-pagination-bullets swiper-pagination-horizontal"><span class="swiper-pagination-bullet swiper-pagination-bullet-active" aria-current="true"></span><span class="swiper-pagination-bullet"></span><span class="swiper-pagination-bullet"></span><span class="swiper-pagination-bullet"></span></div>
                                 <span
                                     class="swiper-notification" aria-live="assertive" aria-atomic="true"></span>
-                            </div>
-                            <button id="installButton">Test</button>
-
+                            </div>                     
                             <div class="block-title">News</div>
                             <div id="news"></div><br></div>
                     </div>
@@ -281,39 +279,7 @@ window.onload = getGreeting;
                 </div>
                 </div>
     <script src="https://cdn.jsdelivr.net/npm/framework7@8.3.4/framework7-bundle.min.js"></script>
+    <script defer src="https://progressier.app/E46gv8g7DfdUTj03pA3N/script.js"></script>
     <script type="text/javascript" src="js/app.js"></script>
   </body>
 </html>
-<script>let deferredPrompt;
-
-// Listen for the beforeinstallprompt event
-window.addEventListener('beforeinstallprompt', (e) => {
-  // Prevent the default prompt from appearing
-  e.preventDefault();
-  // Store the event so it can be triggered later
-  deferredPrompt = e;
-
-  // Show your install button or trigger the prompt at a later point
-  const installButton = document.getElementById('installButton');
-  installButton.style.display = 'block';
-
-  installButton.addEventListener('click', () => {
-    // Hide the install button after it’s clicked
-    installButton.style.display = 'none';
-    
-    // Show the native install prompt
-    deferredPrompt.prompt();
-
-    // Wait for the user's response to the prompt
-    deferredPrompt.userChoice.then((choiceResult) => {
-      if (choiceResult.outcome === 'accepted') {
-        console.log('User accepted the install prompt');
-      } else {
-        console.log('User dismissed the install prompt');
-      }
-      // Clear the deferredPrompt variable
-      deferredPrompt = null;
-    });
-  });
-});
- </script>
