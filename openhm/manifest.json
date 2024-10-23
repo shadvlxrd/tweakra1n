@@ -2,7 +2,7 @@
   "name": "AppMarket",
   "short_name": "AppMarket",
   "start_url": "/app.html",
-  "display": "fullscreen", 
+  "display": "standalone", 
   "icons": [
     {
       "src": "https://appmarkt.pages.dev/ios/assets/favicon.ico",
