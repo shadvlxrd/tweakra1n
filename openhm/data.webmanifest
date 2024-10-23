@@ -7,8 +7,7 @@
       "src": "https://appmarkt.pages.dev/ios/assets/favicon.ico",
       "sizes": "32x32",
       "type": "image/x-icon"
-    },
-    // ...
+    }, 
     {
       "src": "https://appmarkt.pages.dev/ios/assets/favicon.ico ",
       "sizes": "512x512",
