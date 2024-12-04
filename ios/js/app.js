@@ -24,7 +24,7 @@ var app = new Framework7({
       routes: [{
 
          path: "/miscellaneous/",
-         content: '<div class="page"><div class="navbar"><div class="navbar-bg"></div><div class="navbar-inner sliding"><div class="left"><a href="#" class="link back"><i class="icon icon-back"></i></a></div><div class="title">Miscellaneous</div></div></div><div class="page-content"><div class="list media-list separated inset"><ul><li><a href="https://ios.cfw.guide" class="item-link item-content external"><div class="item-media"><i class="f7-icons">lock_open_fill</i></div><div class="item-inner"><div class="item-title-row"><div class="item-title">Jailbreak guide</div></div></div></a></li><li><a href="itms-services://?action=download-manifest&url=https://gitlab.com/Forelps/respring/-/raw/main/app.plist" class="item-link item-content external"><div class="item-media"><i class="f7-icons">rays</i></div><div class="item-inner"><div class="item-title-row"><div class="item-title">Respring</div></div></div></a></li><li><li><a href="https://udid.tech/config/udid_tech.signed.mobileconfig" class="item-link item-content external"><div class="item-media"><i class="f7-icons">gear_alt</i></div><div class="item-inner"><div class="item-title-row"><div class="item-title">Get UDID</div></div></div></a></li><li><a href="https://www.dropbox.com/scl/fi/4khxifa6dmyxtna7e8p9t/blockrevokes.mobileconfig?rlkey=kzc1wlts0u5vfkco1q5pyihb3&dl=1" class="item-link item-content external"><div class="item-media"><i class="f7-icons">shield_lefthalf_fill</i></div><div class="item-inner"><div class="item-title-row"><div class="item-title">Block revokes</div></div></div></a></li><li><a href="https://cdn.adtidy.org/public/Dns/adguard-dns.mobileconfig" class="item-link item-content external"><div class="item-media"><i class="f7-icons">rectangle_3_offgrid_fill</i></div><div class="item-inner"><div class="item-title-row"><div class="item-title">Block ADS</div></div></div></a></li><li><a href="https://www.dropbox.com/scl/fi/9mpbzim7x6sogk65e5jai/Block_OTA.mobileconfig?rlkey=86frs6v7zrhwzvrbwrqgo04m6&dl=1" class="item-link item-content external"><div class="item-media"><i class="f7-icons">lock_shield_fill</i></div><div class="item-inner"><div class="item-title-row"><div class="item-title">Block OTA</div></div></div></a></li></ul></div><div class="block block-title">Supervision required</div><div class="list media-list separated inset"><ul><li><a href="https://www.dropbox.com/scl/fi/sbjxg9q6w6za17s94ommj/Skip_Setup.mobileconfig?rlkey=l4eojv7qyh6gb0jul53h8o08h&dl=1" class="item-link item-content external"><div class="item-media"><i class="icon f7-icons">device_phone_portrait</i></div><div class="item-inner"><div class="item-title-row"><div class="item-title">Skip Setup</div></div></div></a></li><li><a href="https://www.dropbox.com/scl/fi/xmcduai5mhnyp7pznd0mb/Disable_Screen_Time.mobileconfig?rlkey=7s2vqp4kfccna8etuj57lbr2w&dl=1" class="item-link item-content external"><div class="item-media"><i class="f7-icons">hourglass</i></div><div class="item-inner"><div class="item-title-row"><div class="item-title">Disable Screen Time</div></div></div></a></li></ul></div><br></div>',
+         content: '<div class="page"><div class="navbar"><div class="navbar-bg"></div><div class="navbar-inner sliding"><div class="left"><a href="#" class="link back"><i class="icon icon-back"></i></a></div><div class="title">Miscellaneous</div></div></div><div class="page-content"><div class="list media-list separated inset"><ul><li><a href="https://ios.cfw.guide" class="item-link item-content external"><div class="item-media"><i class="f7-icons">lock_open_fill</i></div><div class="item-inner"><div class="item-title-row"><div class="item-title">Jailbreak guide</div></div></div></a></li><li><li><a href="https://udid.tech/config/udid_tech.signed.mobileconfig" class="item-link item-content external"><div class="item-media"><i class="f7-icons">gear_alt</i></div><div class="item-inner"><div class="item-title-row"><div class="item-title">Get UDID</div></div></div></a></li><li><a href="https://www.dropbox.com/scl/fi/4khxifa6dmyxtna7e8p9t/blockrevokes.mobileconfig?rlkey=kzc1wlts0u5vfkco1q5pyihb3&dl=1" class="item-link item-content external"><div class="item-media"><i class="f7-icons">shield_lefthalf_fill</i></div><div class="item-inner"><div class="item-title-row"><div class="item-title">Block revokes</div></div></div></a></li><li><a href="https://cdn.adtidy.org/public/Dns/adguard-dns.mobileconfig" class="item-link item-content external"><div class="item-media"><i class="f7-icons">rectangle_3_offgrid_fill</i></div><div class="item-inner"><div class="item-title-row"><div class="item-title">Block ADS</div></div></div></a></li><li><a href="https://www.dropbox.com/scl/fi/9mpbzim7x6sogk65e5jai/Block_OTA.mobileconfig?rlkey=86frs6v7zrhwzvrbwrqgo04m6&dl=1" class="item-link item-content external"><div class="item-media"><i class="f7-icons">lock_shield_fill</i></div><div class="item-inner"><div class="item-title-row"><div class="item-title">Block OTA</div></div></div></a></li></ul></div><div class="block block-title">Supervision required</div><div class="list media-list separated inset"><ul><li><a href="https://www.dropbox.com/scl/fi/sbjxg9q6w6za17s94ommj/Skip_Setup.mobileconfig?rlkey=l4eojv7qyh6gb0jul53h8o08h&dl=1" class="item-link item-content external"><div class="item-media"><i class="icon f7-icons">device_phone_portrait</i></div><div class="item-inner"><div class="item-title-row"><div class="item-title">Skip Setup</div></div></div></a></li><li><a href="https://www.dropbox.com/scl/fi/xmcduai5mhnyp7pznd0mb/Disable_Screen_Time.mobileconfig?rlkey=7s2vqp4kfccna8etuj57lbr2w&dl=1" class="item-link item-content external"><div class="item-media"><i class="f7-icons">hourglass</i></div><div class="item-inner"><div class="item-title-row"><div class="item-title">Disable Screen Time</div></div></div></a></li></ul></div><br></div>',
          options: {
 
             transition: "f7-cover"
@@ -33,7 +33,7 @@ var app = new Framework7({
       }, {
 
          path: "/trustcert/",
-         content: '<div class="page" data-name="miscellaneous"><div class="navbar"><div class="navbar-bg"></div><div class="navbar-inner sliding"><div class="left"><a href="#" class="link back"><i class="icon icon-back"></i></a></div><div class="title">"Untrusted Enterprise Developer"</div></div></div><div class="page-content"><div class="block block-strong inset"><center><img loading="lazy" src="https://i.imgur.com/YQxY1aO.png" style="width:97%;border-radius:20px;"></center><strong>How to trust a certificate?</strong><br>To establish trust in a certificate, navigate to your device\'s Settings, locate the General tab, and select VPN & Device Management. Once there, identify the specific certificate and proceed by clicking on it. Finally, complete the trust verification process by selecting the "Verify" option. This ensures the authentication and reliability of the certificate on your device.</div><div class="list separated inset"><ul><li><a href="com.apple.Preferences://" class="item-link item-content external"><div class="item-media"><i class="f7-icons">gear</i></div><div class="item-inner"><div class="item-title-row"><div class="item-title">Open Settings</div></li></a></ul></div><br><br><br></div></div></div></div><div class="popup" id="devmode"><div class="page"><div class="swipe-nav"><div><i class="f7-icons">minus</i></div></div><div class="page-content"><div class="block-title block-title">"Developer Mode required"</div><div class="block block-strong inset"><center><img loading="lazy" src="https://i.imgur.com/qLbsliJ.png" style="width:97%;border-radius:20px;"></center><strong>How to enable Developer Mode?</strong><br>To activate Developer mode, navigate to your device\'s settings, specifically within the "Privacy & Security" section. Once there, locate the option labeled "Developer Mode" and toggle the switch to enable it.</div><div class="list separated inset"><ul><li><a href="com.apple.Preferences://" class="item-link item-content external"><div class="item-media"><i class="f7-icons">gear</i></div><div class="item-inner"><div class="item-title-row"><div class="item-title">Open Settings</div></li></a></ul></div>',
+         content: '<div class="page" data-name="miscellaneous"><div class="navbar"><div class="navbar-bg"></div><div class="navbar-inner sliding"><div class="left"><a href="#" class="link back"><i class="icon icon-back"></i></a></div><div class="title">"Untrusted Enterprise Developer"</div></div></div><div class="page-content"><div class="block block-strong inset"><center><img loading="lazy" src="https://i.imgur.com/YQxY1aO.png" style="width:97%;border-radius:20px;"></center><strong>How to trust a certificate?</strong><br>To establish trust in a certificate, navigate to your device Settings, locate the General tab, and select VPN & Device Management. Once there, identify the specific certificate and proceed by clicking on it. Finally, complete the trust verification process by selecting the "Verify" option. This ensures the authentication and reliability of the certificate on your device.</div><div class="list separated inset"><ul><li><a href="com.apple.Preferences://" class="item-link item-content external"><div class="item-media"><i class="f7-icons">gear</i></div><div class="item-inner"><div class="item-title-row"><div class="item-title">Open Settings</div></li></a></ul></div><br><br><br></div></div></div></div><div class="popup" id="devmode"><div class="page"><div class="swipe-nav"><div><i class="f7-icons">minus</i></div></div><div class="page-content"><div class="block-title block-title">"Developer Mode required"</div><div class="block block-strong inset"><center><img loading="lazy" src="https://i.imgur.com/qLbsliJ.png" style="width:97%;border-radius:20px;"></center><strong>How to enable Developer Mode?</strong><br>To activate Developer Mode, navigate to your device Settings, specifically within the Privacy & Security section. Once there, locate the option labeled Developer Mode and toggle the switch to enable it.</div><div class="list separated inset"><ul><li><a href="com.apple.Preferences://" class="item-link item-content external"><div class="item-media"><i class="f7-icons">gear</i></div><div class="item-inner"><div class="item-title-row"><div class="item-title">Open Settings</div></li></a></ul></div>',
          options: {
 
             transition: "f7-cover"
@@ -42,16 +42,27 @@ var app = new Framework7({
       }, {
 
          path: "/verifyintegrity/",
-         content: '<div class="page"><div class="navbar"><div class="navbar-bg"></div><div class="navbar-inner sliding"><div class="left"><a href="#" class="link back"><i class="icon icon-back"></i></a></div><div class="title">"Unable to install {app}"</div></div></div><div class="page-content"><div class="block block-strong inset"><center><img loading="lazy" src="https://i.imgur.com/tETxFue.png" style="width:97%;border-radius:20px;"></center><strong>How. an i fix this error?</strong><br>If you encounter this error, it suggests a potential blacklisting from the certificate. To resolve, either reset your iDevice to factory settings or employ the <a class="popup-open" data-popup="#blacklist">Blacklist app</a>.</div>',
+         content: '<div class="page"><div class="navbar"><div class="navbar-bg"></div><div class="navbar-inner sliding"><div class="left"><a href="#" class="link back"><i class="icon icon-back"></i></a></div><div class="title">"Unable to install {app}"</div></div></div><div class="page-content"><div class="block block-strong inset"><center><img loading="lazy" src="https://i.imgur.com/tETxFue.png" style="width:97%;border-radius:20px;"></center><strong>How do I fix this error?</strong><br>If you happen to encounter this error, it may suggest a potential blacklisting from the certificate. To resolve this issue, reset your iDevice to factory settings, ensuring that you back up all your data beforehand.</div><div class="list separated inset"><ul><li><a href="com.apple.Preferences://" class="item-link item-content external"><div class="item-media"><i class="f7-icons">gear</i></div><div class="item-inner"><div class="item-title-row"><div class="item-title">Open Settings</div></li></a></ul></div>',
          options: {
 
-            transition: "f7-flip"
+            transition: "f7-cover"
 
          }
-      }, {
+      },
+      {
+
+         path: "/truststore/",
+         content: '<div class="page" data-name="miscellaneous"><div class="navbar"><div class="navbar-bg"></div><div class="navbar-inner sliding"><div class="left"><a href="#" class="link back"><i class="icon icon-back"></i></a></div><div class="title">"Allow Marketplace from {name}"</div></div></div><div class="page-content"><div class="block block-strong inset"><center><img loading="lazy" src="https://i.imgur.com/UQTwAyS.jpeg" style="width:97%;border-radius:20px;"></center><strong>How to allow a 3rd Party App Store?</strong><br><br><strong>Click OK <img loading="lazy" src="https://i.imgur.com/6B57i5A.jpeg" style="width:97%;border-radius:20px;"><strong>Just open up Settings and trust the Store, no worries! <img loading="lazy" src="https://i.imgur.com/QAFnPr1.jpeg" style="width:97%;border-radius:20px;"><br><strong>Head back to the website where you’re trying to install the store and hit Install App Marketplace. <img loading="lazy" src="https://i.imgur.com/WclZ4so.jpeg" style="width:97%;border-radius:20px;"></div><div class="list separated inset"><ul><li><a href="com.apple.Preferences://" class="item-link item-content external"><div class="item-media"><i class="f7-icons">gear</i></div><div class="item-inner"><div class="item-title-row"><div class="item-title">Open Settings</div></li></a></ul></div><br><br><br></div></div></div></div><div class="popup" id="devmode"><div class="page"><div class="swipe-nav"><div><i class="f7-icons">minus</i></div></div><div class="page-content"><div class="block-title block-title">"Developer Mode required"</div><div class="block block-strong inset"><center><img loading="lazy" src="https://i.imgur.com/qLbsliJ.png" style="width:97%;border-radius:20px;"></center><strong>How to enable Developer Mode?</strong><br>To activate Developer mode, navigate to your device Settings, specifically within the "Privacy & Security" section. Once there, locate the option labeled "Developer Mode" and toggle the switch to enable it.</div><div class="list separated inset"><ul><li><a href="com.apple.Preferences://" class="item-link item-content external"><div class="item-media"><i class="f7-icons">gear</i></div><div class="item-inner"><div class="item-title-row"><div class="item-title">Open Settings</div></li></a></ul></div>',
+         options: {
+
+            transition: "f7-cover"
+
+         }
+      },
+       {
 
          path: "/devmode/",
-         content: '<div class="page"><div class="navbar"><div class="navbar-bg"></div><div class="navbar-inner sliding"><div class="left"><a href="#" class="link back"><i class="icon icon-back"></i></a></div><div class="title">"Developer Mode required"</div></div></div><div class="page-content"><div class="block block-strong inset"><center><img loading="lazy" src="https://i.imgur.com/qLbsliJ.png" style="width:97%;border-radius:20px;"></center><strong>How to enable Developer Mode?</strong><br>To activate Developer mode, navigate to your device\'s settings, specifically within the "Privacy & Security" section. Once there, locate the option labeled "Developer Mode" and toggle the switch to enable it.</div><div class="list separated inset"><ul><li><a href="com.apple.Preferences://" class="item-link item-content external"><div class="item-media"><i class="f7-icons">gear</i></div><div class="item-inner"><div class="item-title-row"><div class="item-title">Open Settings</div></li></a></ul></div>',
+         content: '<div class="page"><div class="navbar"><div class="navbar-bg"></div><div class="navbar-inner sliding"><div class="left"><a href="#" class="link back"><i class="icon icon-back"></i></a></div><div class="title">"Developer Mode required"</div></div></div><div class="page-content"><div class="block block-strong inset"><center><img loading="lazy" src="https://i.imgur.com/qLbsliJ.png" style="width:97%;border-radius:20px;"></center><strong>How to enable Developer Mode?</strong><br>To activate Developer mode, navigate to your device settings, specifically within the "Privacy & Security" section. Once there, locate the option labeled "Developer Mode" and toggle the switch to enable it.</div><div class="list separated inset"><ul><li><a href="com.apple.Preferences://" class="item-link item-content external"><div class="item-media"><i class="f7-icons">gear</i></div><div class="item-inner"><div class="item-title-row"><div class="item-title">Open Settings</div></li></a></ul></div>',
          options: {
 
             transition: "f7-cover"
@@ -73,63 +84,32 @@ document.addEventListener("DOMContentLoaded", () => {
          var navbarLargeTitle = document.querySelector(".navbar .title-large-text");
 
          if (navbarTitle) {
-
             navbarTitle.textContent = tabTitle;
-
          }
-
          if (navbarLargeTitle) {
-
             navbarLargeTitle.textContent = tabTitle;
-
          }
-
       });
-
    });
-
 });
-
-
-
-
-
-function toggleDarkMode() {
-
-   document.querySelector("html").classList.toggle("dark");
-
+function toggleDarkMode() {   document.querySelector("html").classList.toggle("dark");
 }
-
-
 function applyDarkModeSetting() {
-
    const htmlElement = document.querySelector("html");
-
    const darkModeQuery = window.matchMedia("(prefers-color-scheme: dark)");
-
-
    const applyDarkMode = (e) => {
-
       if (e.matches) {
 
          htmlElement.classList.add("dark");
-
       } else {
 
          htmlElement.classList.remove("dark");
-
       }
-
    };
-
-
    darkModeQuery.addListener(applyDarkMode);
 
    applyDarkMode(darkModeQuery);
-
 }
-
-
 applyDarkModeSetting();
 
 fetch("https://www.idownloadblog.com/feed/")
@@ -224,9 +204,9 @@ function checkConnection() {
 
             titleRightText: "now",
 
-            subtitle: "Unable to connect to the server.",
+            subtitle: " Connection to the server could not be established.",
 
-            text: "Check your internet connection and try again."
+            text: "Please check your internet connection and try again."
 
          }).open();
 
@@ -732,7 +712,7 @@ function displayFavorites() {
                 <a class="item-link popup-open" href="#" data-popup="#${fav.id}">
                     <div class="item-content">
                         <div class="item-media">
-                            <img loading="lazy" src="${fav.image}" style="background-color:#C2C2C2;">
+                            <img loading="lazy" src="${fav.image}">
                         </div>
                         <div class="item-inner">
                             <div class="item-title-row">
@@ -876,7 +856,7 @@ function shareURL() {
 
          title: "AppMarkt",
 
-         text: "Elevate your iDevice experience with our advanced store.",
+         text: "Take your iDevice experience to the next level with our awesome store!",
 
          url: "https://appmarkt.pages.dev/"
 
@@ -915,7 +895,7 @@ function reset() {
 
                   app.dialog.confirm(
 
-                     "Please confirm if you want to Erase All Data and Settings. This action cannot be undone.",
+                     "Please confirm if you want to erase all data and settings. This action cannot be undone. ",
 
                      "Reset",
 
