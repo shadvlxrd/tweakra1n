@@ -131,45 +131,6 @@ function applyDarkModeSetting() {
 
 applyDarkModeSetting();
 
-fetch("https://rss.app/feeds/ICYZldLJFOQPAKst.xml")
-  .then(response => response.text())
-  .then(data => {
-    const items = (new DOMParser()).parseFromString(data, "text/xml").getElementsByTagName("item");
-    const newsContainer = document.getElementById("news");
-
-    for (let i = 0; i < items.length; i++) {
-      const title = items[i].getElementsByTagName("title")[0].textContent;
-      const link = items[i].getElementsByTagName("link")[0].textContent;
-      const enclosure = items[i].getElementsByTagName("enclosure")[0]; 
-      const imgSrc = enclosure ? enclosure.getAttribute("url") : "#"; 
-
-     
-      const card = document.createElement("div");
-      card.classList.add("card", "card-raised");
-
-      card.innerHTML = `
-        <div class="card-content">
-          <div class="card-image" style="text-align: center;">
-            <img class="newsimg" src="${imgSrc}" alt="News Image" loading="lazy">
-          </div>
-          <div class="card-header">${title}</div>
-          <div class="card-footer">
-            <a onclick="navigator.share({ title: '${title}', url: '${link}' })">
-              <i class="hm-icons hm-share-filled "></i>
-            </a>
-            <a href="${link}" class="external">
-              <i class="hm-icons hm-set"></i>
-            </a>
-          </div>
-        </div>`;
-
-     
-      newsContainer.appendChild(card);
-    }
-  })
-  .catch(error => console.error('Error fetching or parsing RSS feed:', error));
-
-
 notificationShown = false;
 
 
@@ -429,7 +390,7 @@ function createPopupHtml(item) {
 
 <div class="item-title">
 
-${item.title} <i style="font-size: 21px; color: ${item.badgecolor};" class="f7-icons">${item.badge}</i>
+${item.title}
 
 </div>
 
@@ -488,15 +449,11 @@ ${item.title} <i style="font-size: 21px; color: ${item.badgecolor};" class="f7-i
 
 id: '${item.id}',
 
-icon: '${item.badge}',
-
 image: '${item.icon}',
 
 title: '${item.title}',
 
-subtitle: '${item.category}',
-
-color: '${item.badgecolor}'
+subtitle: '${item.category}'
 
 })" class="item-link item-content">
 
@@ -623,7 +580,7 @@ function addToFavorites(item) {
 
    app.toast.create({
 
-      icon: '<i class="f7-icons">heart_fill</i>',
+      icon: '<i class="hm-icons hm-public-favorites-filled"></i>',
 
       text: "Added to Favorites",
 
@@ -666,12 +623,12 @@ function displayFavorites() {
                 <a class="item-link popup-open" href="#" data-popup="#${fav.id}">
                     <div class="item-content">
                         <div class="item-media">
-                            <img loading="lazy" src="${fav.image}" style="background-color:#C2C2C2;">
+                            <img loading="lazy" src="${fav.image}">
                         </div>
                         <div class="item-inner">
                             <div class="item-title-row">
                                 <div class="item-title">
-                                    ${fav.title} <i style="font-size: 17px; color: ${fav.color};" class="f7-icons">${fav.icon}</i>
+                                    ${fav.title}
                                 </div>
                             </div>
                             <div class="item-subtitle">${fav.subtitle}</div>
@@ -684,6 +641,7 @@ function displayFavorites() {
                 <a href="#" class="swipeout-delete" onclick="removeFromFavorites('${fav.title}')">Remove</a>
             </div>
         </li>`;
+
 
       favList.insertAdjacentHTML("beforeend", favItemHtml);
 
@@ -719,7 +677,6 @@ function removeFromFavorites(title) {
 document.addEventListener("DOMContentLoaded", function () {
 
    fetchAndLoadApps();
-   fetchAndLoadTroll();
    displayFavorites();
 
 });
