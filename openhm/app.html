@@ -18,23 +18,20 @@
                     <div class="navbar-bg"></div>
                     <div class="navbar-inner">
                         <div class="left"></div>
-                        <div class="title hm-title">Home</div>
+                        <div class="title hm-title">Browse</div>
                         <div class="right"></div>
                         <div class="title-large">
-                            <div class="title-large-text">Home</div>
+                            <div class="title-large-text">Browse</div>
                         </div>
                     </div>
                 </div>
-          <div class="toolbar tabbar-icons toolbar-bottom no-outline">
+          <div class="toolbar tabbar-icons toolbar-bottom no-outline searchbar-hide-on-enable">
       <div class="toolbar-inner translucent">
-        <a href="#homeTab" class="tab-link tab-link-active" data-tab-title="Home">
-          <i class="hm-icons hm-public-home-filled"></i>
-          <span class="tabbar-label">Home</span>
-        </a>
-         <a href="#browseTab" class="tab-link" data-tab-title="Browse">
+        <a href="#homeTab" class="tab-link tab-link-active" data-tab-title="Browse">
           <i class="hm-icons hm-public-appstore-filled"></i>
           <span class="tabbar-label">Browse</span>
         </a>
+         
         <a href="#favoritesTab" class="tab-link" data-tab-title="Favorites">
           <i class="hm-icons hm-public-favorites-filled"></i>
           <span class="tabbar-label">Favorites</span>
@@ -51,8 +48,17 @@
                             <div class="preloader"></div>
                             <div class="ptr-arrow"></div>
                         </div>
+                        <form class="searchbar searchbar-init" data-search-container=".virtual-list" data-search-item="li" data-search-in=".item-title">
+                            <div class="searchbar-inner">
+                                <div class="searchbar-input-wrap"><input type="search" placeholder="Search apps or tweaks"><i class="searchbar-icon"></i><span class="input-clear-button"></span></div><span class="searchbar-disable-button color-blue">Cancel</span></div>
+                        </form> 
+                        <div class="list list-strong simple-list searchbar-not-found inset">
+                            <ul>
+                                <li>Unfortunately, no items were found.</li>
+                            </ul>
+                        </div>
                         <div>
-                            <div class="swiper swiper-padding featured swiper-initialized swiper-horizontal swiper-ios swiper-backface-hidden">
+                            <div class="swiper swiper-padding featured swiper-initialized swiper-horizontal swiper-ios swiper-backface-hidden searchbar-hide-on-enable">
                                 <div class="swiper-wrapper" aria-live="polite">
                                     <div class="swiper-slide featured" role="group" aria-label="1 / 5">
                                         <a class="link popup-open" data-popup="#easyabroad">
@@ -99,25 +105,13 @@
                                 <span
                                     class="swiper-notification" aria-live="assertive" aria-atomic="true"></span>
                             </div>                     
-                            <div class="block-title">News</div>
-                            <div id="news"></div><br></div>
-                    </div>
-                    <div id="browseTab" class="page-content tab ptr-content" data-ptr-distance="56">
-                        <div class="ptr-preloader">
-                            <div class="preloader"></div>
-                            <div class="ptr-arrow"></div>
-                        </div>
-                        <form class="searchbar searchbar-init" data-search-container=".virtual-list" data-search-item="li" data-search-in=".item-title">
-                            <div class="searchbar-inner">
-                                <div class="searchbar-input-wrap"><input type="search" placeholder="Search apps or tweaks"><i class="searchbar-icon"></i><span class="input-clear-button"></span></div><span class="searchbar-disable-button color-blue">Cancel</span></div>
-                        </form> 
-                        <div class="list list-strong simple-list searchbar-not-found inset">
-                            <ul>
-                                <li>Unfortunately, no items were found.</li>
-                            </ul>
-                        </div>
+                            <div class="block-title searchbar-hide-on-enable">Apps & Tweaks</div>
+                            
                        <div class="list media-list virtual-list separated inset grid-list"><ul></ul></div>
                     </div>
+                    </div>
+                    
+                        
                     <div id="favoritesTab" class="page-content tab ptr-content" data-ptr-distance="56">
                         <div class="ptr-preloader">
                             <div class="preloader"></div>
