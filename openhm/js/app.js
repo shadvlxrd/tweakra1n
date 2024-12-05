@@ -361,133 +361,71 @@ function createPopupHtml(item) {
    return `
 
 <div class="popup" id="${item.id}">
-
-<div class="page">
-
-<div class="swipe-nav"><div><i class="hm-icons hm-screenshot-line"></i></div></div>
-
-<div class="page-content">
-
-<div style="margin-top: 20px; padding: 0px;">
-
-<div class="list separated media-list no-chevron inset">
-
-<ul>
-
-<li style="background:none;">
-
-<div class="item-content">
-
-<div class="item-media">
-
-<img loading="lazy" src="${item.icon}" style="width: 100px; height: 100px;">
-
+  <div class="page">
+    <div class="swipe-nav">
+      <div>
+        <i class="hm-icons hm-screenshot-line"></i>
+      </div>
+    </div>
+    <div class="page-content">
+      <div style="margin-top: 20px; padding: 0px;">
+        <div class="list separated media-list no-chevron inset">
+          <ul>
+            <li style="background:none;">
+              <div class="item-content">
+                <div class="item-media">
+                  <img loading="lazy" src="${item.icon}" style="width: 100px; height: 100px;">
+                </div>
+                <div class="item-inner">
+                  <div class="item-title-row" style="font-size: 21px;">
+                    <div class="item-title">${item.title}</div>
+                  </div>
+                  <div class="item-subtitle">
+                    <span class="badge">${item.category}</span>
+                  </div>
+                </div>
+              </div>
+            </li>
+          </ul>
+        </div>
+        <div class="block block-strong inset">
+          <h2>Description</h2>
+          <p>${item.description}</p>
+          <h2>Preview</h2>
+          <center>
+            <div class="screenshot" onclick="openPhotoBrowser(${JSON.stringify(item.screenshots).replace(/"/g, "&quot;")})">
+              ${generateScreenshotElements(item.screenshots)}
+            </div>
+          </center>
+        </div>
+          <br>
+          <br>
+        </div>
+      </div>
+      <div class="block block-strong" 
+     style="position: fixed; bottom: 0; left: 0; right: 0; width: 100%; 
+            border: 1px solid rgba(255,255,255,0.1); z-index: 1000; 
+            display: flex; justify-content: space-between; align-items: center; 
+            padding: 10px; box-sizing: border-box; margin: 0;">
+  <a onclick="addToFavorites({
+                  id: '${item.id}',
+                  image: '${item.icon}',
+                  title: '${item.title}',
+                  subtitle: '${item.category}'
+                })" 
+     style="background: none; color: var(--f7-ios-primary); flex: 0; margin-right: 10px;">
+    <i class="hm-icons hm-public-favorites-filled"></i>
+  </a>
+  <a href="${item.get_link}" 
+     class="button button-fill button-raised button-round external" 
+     style="flex-grow: 1; margin: 0 10px; text-align: center;">
+    INSTALL
+  </a>
+  <a onclick="navigator.share({ title: '${item.title}', url: '${item.get_link}' })" 
+     style="background: none; color: var(--f7-ios-primary); flex: 0; margin-left: 10px;">
+    <i class="hm-icons hm-share-filled"></i>
+  </a>
 </div>
-
-<div class="item-inner">
-
-<div class="item-title-row" style="font-size: 21px;">
-
-<div class="item-title">
-
-${item.title}
-
-</div>
-
-</div>
-
-<div class="item-subtitle"><span class="badge">${item.category}</span></div>
-
-<div class="item-text">
-
-<a href="${item.get_link}" class="button button-fill button-round get inline external">GET</a>
-
-<a onclick="navigator.share({ title: '${item.title}', url: '${item.get_link}' })" class="button button-fill button-round get inline" style="background:none;float:right;">
-
-<i class="hm-icons hm-share-filled" style="color:var(--f7-ios-primary);"></i>
-
-</a>
-
-</div>
-
-</div>
-
-</div>
-
-</li>
-
-</ul>
-
-</div>
-
-<div class="block block-strong inset">
-
-<h2>Description</h2>
-
-<p>${item.description}</p>
-
-<h2>Preview</h2>
-
-<center>
-
-<div class="screenshot" onclick="openPhotoBrowser(${JSON.stringify(item.screenshots).replace(/"/g, "&quot;")})">
-                                ${generateScreenshotElements(item.screenshots)}
-                            </div>
-
-</center>
-
-</div>
-
-
-<div class="list media-list separated inset">
-
-<ul>
-
-<li>
-
-<a onclick="addToFavorites({
-
-id: '${item.id}',
-
-image: '${item.icon}',
-
-title: '${item.title}',
-
-subtitle: '${item.category}'
-
-})" class="item-link item-content">
-
-<div class="item-media"><i class="hm-icons hm-public-favorites-filled"></i></div>
-
-<div class="item-inner">
-
-<div class="item-title-row">
-
-<div class="item-title">Add to favorites</div>
-
-</div>
-
-</div>
-
-</a>
-
-</li>
-
-</ul>
-
-</div>
-
-<br>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-
 
 `;
 
