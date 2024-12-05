@@ -97,6 +97,7 @@
 .searchbar {
     overflow-x: hidden;
 }
+.screenshot{display:flex;overflow-x:auto;-webkit-overflow-scrolling:auto}.screenshot div{flex-shrink:0;width:230px;height:auto}.screenshot img{width:230px;border-radius:16px;margin:5px}
 
 .title-container {
 
@@ -119,7 +120,7 @@ font-size: 26px;
 
 font-weight: 700;
 
-color: #fff;
+color: #767c8e;
 
 }
 
