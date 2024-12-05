@@ -33,7 +33,7 @@ var app = new Framework7({
       }, {
 
          path: "/trustcert/",
-         content: '<div class="page" data-name="miscellaneous"><div class="navbar"><div class="navbar-bg"></div><div class="navbar-inner sliding"><div class="left"><a href="#" class="link back"><i class="icon icon-back"></i></a></div><div class="title">"Untrusted Enterprise Developer"</div></div></div><div class="page-content"><div class="block block-strong inset"><center><img loading="lazy" src="https://i.imgur.com/YQxY1aO.png" style="width:97%;border-radius:20px;"></center><strong>How to trust a certificate?</strong><br>To establish trust in a certificate, navigate to your device\'s Settings, locate the General tab, and select VPN & Device Management. Once there, identify the specific certificate and proceed by clicking on it. Finally, complete the trust verification process by selecting the "Verify" option. This ensures the authentication and reliability of the certificate on your device.</div><div class="list separated inset"><ul><li><a href="com.apple.Preferences://" class="item-link item-content external"><div class="item-media"><i class="f7-icons">gear</i></div><div class="item-inner"><div class="item-title-row"><div class="item-title">Open Settings</div></li></a></ul></div><br><br><br></div></div></div></div><div class="popup" id="devmode"><div class="page"><div class="swipe-nav"><div><i class="f7-icons">minus</i></div></div><div class="page-content"><div class="block-title block-title">"Developer Mode required"</div><div class="block block-strong inset"><center><img loading="lazy" src="https://i.imgur.com/qLbsliJ.png" style="width:97%;border-radius:20px;"></center><strong>How to enable Developer Mode?</strong><br>To activate Developer mode, navigate to your device\'s settings, specifically within the "Privacy & Security" section. Once there, locate the option labeled "Developer Mode" and toggle the switch to enable it.</div><div class="list separated inset"><ul><li><a href="com.apple.Preferences://" class="item-link item-content external"><div class="item-media"><i class="f7-icons">gear</i></div><div class="item-inner"><div class="item-title-row"><div class="item-title">Open Settings</div></li></a></ul></div>',
+         content: '<div class="page" data-name="miscellaneous"><div class="navbar"><div class="navbar-bg"></div><div class="navbar-inner sliding"><div class="left"><a href="#" class="link back"><i class="icon icon-back"></i></a></div><div class="title">"Untrusted Enterprise Developer"</div></div></div><div class="page-content"><div class="block block-strong inset"><center><img loading="lazy" src="https://i.imgur.com/YQxY1aO.png" style="width:97%;border-radius:20px;"></center><strong>How to trust a certificate?</strong><br>To establish trust in a certificate, navigate to your device\'s Settings, locate the General tab, and select VPN & Device Management. Once there, identify the specific certificate and proceed by clicking on it. Finally, complete the trust verification process by selecting the "Verify" option. This ensures the authentication and reliability of the certificate on your device.</div><div class="list separated inset"><ul><li><a href="com.apple.Preferences://" class="item-link item-content external"><div class="item-media"><i class="f7-icons">gear</i></div><div class="item-inner"><div class="item-title-row"><div class="item-title">Open Settings</div></li></a></ul></div><br><br><br></div></div></div></div><div class="popup" id="devmode"><div class="page"><div class="swipe-nav"><div><i class="hm-icons hm-screenshot-line"></i></div></div><div class="page-content"><div class="block-title block-title">"Developer Mode required"</div><div class="block block-strong inset"><center><img loading="lazy" src="https://i.imgur.com/qLbsliJ.png" style="width:97%;border-radius:20px;"></center><strong>How to enable Developer Mode?</strong><br>To activate Developer mode, navigate to your device\'s settings, specifically within the "Privacy & Security" section. Once there, locate the option labeled "Developer Mode" and toggle the switch to enable it.</div><div class="list separated inset"><ul><li><a href="com.apple.Preferences://" class="item-link item-content external"><div class="item-media"><i class="f7-icons">gear</i></div><div class="item-inner"><div class="item-title-row"><div class="item-title">Open Settings</div></li></a></ul></div>',
          options: {
 
             transition: "f7-cover"
@@ -380,7 +380,7 @@ function createItemHtml(item) {
                 <div class="item-inner">
                     <div class="item-title-row">
                         <div class="item-title">
-                            ${item.title} <i style="font-size: 17px; color: ${item.badgeColor};" class="f7-icons">${item.badge}</i>
+                            ${item.title}
                         </div>
                     </div>
                     <div class="item-subtitle">${item.category}</div>
@@ -403,7 +403,7 @@ function createPopupHtml(item) {
 
 <div class="page">
 
-<div class="swipe-nav"><div><i class="f7-icons">minus</i></div></div>
+<div class="swipe-nav"><div><i class="hm-icons hm-screenshot-line"></i></div></div>
 
 <div class="page-content">
 
@@ -439,11 +439,11 @@ ${item.title} <i style="font-size: 21px; color: ${item.badgecolor};" class="f7-i
 
 <div class="item-text">
 
-<a href="${item.get_link}" class="button button-fill button-round get inline external">GETâ†“</a>
+<a href="${item.get_link}" class="button button-fill button-round get inline external">GET</a>
 
 <a onclick="navigator.share({ title: '${item.title}', url: '${item.get_link}' })" class="button button-fill button-round get inline" style="background:none;float:right;">
 
-<i class="f7-icons" style="color:var(--f7-ios-primary);">square_arrow_up</i>
+<i class="hm-icons hm-share-filled" style="color:var(--f7-ios-primary);"></i>
 
 </a>
 
@@ -477,17 +477,6 @@ ${item.title} <i style="font-size: 21px; color: ${item.badgecolor};" class="f7-i
 
 </div>
 
-<div class="list list-strong list-dividers simple-list inset">
-
-<ul>
-
-<li><span>Type</span><span style="float: right">${item.type}</span></li>
-
-<li><span>OS</span><span style="float: right">${item.compatible}</span></li>
-
-</ul>
-
-</div>
 
 <div class="list media-list separated inset">
 
@@ -511,7 +500,7 @@ color: '${item.badgecolor}'
 
 })" class="item-link item-content">
 
-<div class="item-media"><i class="icon f7-icons color-red">heart_fill</i></div>
+<div class="item-media"><i class="hm-icons hm-public-favorites-filled"></i></div>
 
 <div class="item-inner">
 
@@ -594,34 +583,6 @@ function initVirtualList(containerSelector, items) {
    });
 
 }
-
-
-async function fetchAndLoadTroll() {
-
-   try {
-
-      const response = await fetch("troll.json");
-
-      const trollstore = (await response.json()).sort((a, b) => a.title.localeCompare(b.title));
-
-      const trollCountElement = document.getElementById("trollcount");
-
-      if (trollCountElement) {
-
-         trollCountElement.textContent = trollstore.length;
-
-      }
-
-      initVirtualList(".virtual-troll-list", trollstore);
-
-   } catch (error) {
-
-      console.error("Could not load trollstore:", error);
-
-   }
-
-}
-
 async function fetchAndLoadApps() {
 
    try {
