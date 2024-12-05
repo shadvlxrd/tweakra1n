@@ -89,7 +89,6 @@
   -webkit-backdrop-filter: blur(13px);
 }
 .inline{display: inline-block;}
-.popup{margin-top:30px;}
 .link.popup-close{font-size:auto;color:grey;}
 .list-dividers .item-inner:after {
  transform-origin: initial;!important
