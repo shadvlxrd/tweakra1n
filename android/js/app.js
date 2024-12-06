@@ -5,6 +5,7 @@ var app = new Framework7({
   theme: 'md', 
   popup: {
     swipeToClose: 'to-bottom',
+    push: 'true'
   },
   routes: [
     {
@@ -16,13 +17,6 @@ var app = new Framework7({
 
 var mainView = app.views.create('.view-main');
 notificationShown = false;
-document.addEventListener('DOMContentLoaded', function () {
-            const preloaderDialog = app.dialog.preloader("Loading data");
-            preloaderDialog.open();
-            setTimeout(() => {
-                preloaderDialog.close();
-            }, 2000);
-        });
 function checkConnection() {
     setInterval(() => {
         if (navigator.onLine) {
@@ -35,55 +29,12 @@ function checkConnection() {
                 icon: '<i class="icon material-icons color-red">wifi_off</i>',
                 title: "No Internet Connection",
                 titleRightText: "now",
-                subtitle: "Cannot connect to the server.",
+                subtitle: "Unable to establish a connection with the server.",
                 text: "Check your connection and try again."
             }).open();
         }
     }, 1000);
 }
-
-function updateIcon(url) {
-    document.querySelectorAll("#favicon").forEach(favicon => {
-        favicon.href = url;
-    });
-    document.querySelectorAll("#faviconimg").forEach(faviconImg => {
-        faviconImg.src = url;
-    });
-    localStorage.setItem("customicon", url);
-}
-
-function customicon(e, t) {
-    const preloader = app.dialog.preloader("Applying icon");
-    preloader.open();
-    updateIcon(t);
-    setTimeout(() => {
-        preloader.close();
-        window.location.reload();
-    }, 2000);
-}
-
-function loadIcon() {
-    const customIcon = localStorage.getItem("customicon");
-    if (customIcon) {
-        updateIcon(customIcon);
-    }
-}
-
-function setupTerms() {
-    if (window.navigator.standalone && localStorage.getItem("termsShown") !== "true") {
-        app.popup.open("#terms");
-        localStorage.setItem("termsShown", "true");
-    }
-}
-
-function setupChangelog() {
-    if (window.navigator.standalone && localStorage.getItem("changelogShown") !== "true") {
-        app.popup.open("#changelog");
-        localStorage.setItem("changelogShown", "true");
-    }
-}
-
-
 document.addEventListener("DOMContentLoaded", () => {
     document.querySelectorAll(".ptr-content").forEach(element => {
         element.addEventListener("ptr:refresh", () => {
@@ -93,25 +44,8 @@ document.addEventListener("DOMContentLoaded", () => {
     checkConnection();
 });
 
-if ("serviceWorker" in navigator) {
-    navigator.serviceWorker.getRegistration().then(registration => {
-        if (!registration) {
-            navigator.serviceWorker.register("service-worker.js").then(() => {}).catch(() => {});
-        }
-    });
-}
 
-window.addEventListener("load", loadIcon);
 
-if (window.navigator.standalone) {
-    const preloaderDialog = app.dialog.preloader("Reloading data");
-    preloaderDialog.open();
-    setTimeout(() => {
-        preloaderDialog.close();
-    }, 2000);
-} else {
-    app.popup.open("#hs");
-}
 
 function initPhotoBrowser(urls) {
     const photos = urls.map(url => ({ url }));
@@ -370,8 +304,6 @@ function debounce(func, wait, immediate) {
     };
 }
 
-setupTerms();
-setupChangelog();
 
 
 loadApps();
