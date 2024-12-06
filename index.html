@@ -64,6 +64,22 @@ AOS.init();
 </script>
 </body>
 </html>
+<script>
+                                                            function e() {
+                                                                const e = document.createElement('div'); e.className = 'snowflake',
+                                                                e.innerHTML = '❄',
+                                                                e.style.fontSize = Math.random()*20+'px',
+                                                                e.style.left = Math.random()*innerWidth+'px',
+                                                                e.style.animationDuration = Math.random()*3+2+'s',
+                                                                document.body.appendChild(e),
+                                                                e.addEventListener('animationend', ()=> {
+                                                                    e.remove()})}function t() {
+                                                                const e = new Date,
+                                                                t = e.getMonth()+1; return t >= 12 || 2 >= t
+                                                            }t() && (setInterval(e, 500), document.head.appendChild(function() {
+                                                                    const e = document.createElement('style'); return e.innerHTML = ".snowflake{position:fixed;top:-10px;user-select:none;pointer-events:none;color:#fff;z-index:9999}@keyframes snowfall{to{transform:translateY("+innerHeight+"px)}}.snowflake{animation:snowfall linear infinite}", e
+                                                                }()))
+                                                        </script>
 <style>
     body{
     font-family: system-ui;
