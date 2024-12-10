@@ -5,11 +5,10 @@
         "category": "Utility",
         "icon": "https://i.imgur.com/io9cmGF.png",
         "description": "Bootstrap utility for advanced configurations.",
-        "compatible": "N/A",
+        "compatible": "Unknown",
         "get_link": "https://github.com/roothide/Bootstrap/releases/download/1.2.1/Bootstrap.tipa",
         "type": "App",
-        "screenshots": [],
-        "badge": ""
+        "screenshots": [] 
     },
     {
         "id": "trollleds",
@@ -17,11 +16,10 @@
         "category": "Utility",
         "icon": "https://i.imgur.com/QzvX6Yn.png",
         "description": "Control LED notifications with customizable settings.",
-        "compatible": "N/A",
+        "compatible": "Unknown",
         "get_link": "https://github.com/PoomSmart/TrollLEDs/releases/download/1.8.0/TrollLEDs.tipa",
         "type": "App",
-        "screenshots": [],
-        "badge": ""
+        "screenshots": [] 
     },
     {
         "id": "dopamine",
@@ -29,11 +27,10 @@
         "category": "Utility",
         "icon": "https://ellekit.space/dopamine/assets/icon.png",
         "description": "Latest version of Dopamine for enhanced performance.",
-        "compatible": "N/A",
+        "compatible": "Unknown",
         "get_link": "https://github.com/opa334/Dopamine/releases/latest/download/Dopamine.ipa",
         "type": "App",
-        "screenshots": [],
-        "badge": ""
+        "screenshots": [] 
     },
     {
         "id": "trolldecrypt",
@@ -41,11 +38,10 @@
         "category": "Security",
         "icon": "https://i.imgur.com/0IaRQqJ.jpg",
         "description": "Decrypt applications with TrollDecrypt utility.",
-        "compatible": "N/A",
+        "compatible": "Unknown",
         "get_link": "https://github.com/donato-fiore/TrollDecrypt/releases/download/v1.1/TrollDecrypt.tipa",
         "type": "App",
-        "screenshots": [],
-        "badge": ""
+        "screenshots": [] 
     },
     {
         "id": "trolltools",
@@ -53,23 +49,21 @@
         "category": "Utility",
         "icon": "https://alexdunndev.files.wordpress.com/2020/01/empty_app_icon_512.png?w=512&h=510&crop=1",
         "description": "TrollTools for various system utilities and tweaks.",
-        "compatible": "N/A",
+        "compatible": "Unknown",
         "get_link": "https://github.com/sourcelocation/TrollTools/releases/download/3.0/TrollTools.tipa",
         "type": "App",
-        "screenshots": [],
-        "badge": ""
+        "screenshots": [] 
     },
     {
         "id": "airtroller",
         "title": "AirTroller",
         "category": "Utility",
-        "icon": "https://repo.sourceloc.net/icons/airtroller.png",
+        "icon": "https://raw.githubusercontent.com/sourcelocation/AirTroller/refs/heads/main/AirTroller/Assets.xcassets/AppIcon.appiconset/Artboard.png",
         "description": "Manage and control AirDrop settings with AirTroller.",
-        "compatible": "N/A",
-        "get_link": "https://github.com/sourcelocation/AirTroller/releases/download/1.1.1/AirTroller-1.1.1.tipa",
+        "compatible": "Unknown",
+        "get_link": "https://github.com/sourcelocatioUnknownirTroller/releases/download/1.1.1/AirTroller-1.1.1.tipa",
         "type": "App",
-        "screenshots": [],
-        "badge": ""
+        "screenshots": [] 
     },
     {
         "id": "filza",
@@ -77,23 +71,21 @@
         "category": "File Management",
         "icon": "https://ipaomtk.com/wp-content/uploads/2023/02/filza-1.jpg",
         "description": "Powerful file manager for iOS devices.",
-        "compatible": "N/A",
+        "compatible": "Unknown",
         "get_link": "https://tigisoftware.com/download/Filza_4.0.0.ipa",
         "type": "App",
-        "screenshots": [],
-        "badge": ""
+        "screenshots": [] 
     },
     {
         "id": "evyrest",
         "title": "Evyrest",
         "category": "Utility",
-        "icon": "https://repo.sourceloc.net/icons/evyrest.png",
+        "icon": "https://raw.githubusercontent.com/sourcelocation/Evyrest/refs/heads/main/Evyrest/Assets.xcassets/AppIcon.appiconset/Artboard.png",
         "description": "Evyrest offers a range of customization options.",
-        "compatible": "N/A",
+        "compatible": "Unknown",
         "get_link": "https://github.com/sourcelocation/Evyrest/releases/download/0.1/Evyrest-0.1.tipa",
         "type": "App",
-        "screenshots": [],
-        "badge": ""
+        "screenshots": ["https://user-images.githubusercontent.com/52459150/210447490-02d73567-41dd-437e-ad7f-a5a17934f55b.png"] 
     },
     {
         "id": "cocoatop",
@@ -101,11 +93,10 @@
         "category": "Utility",
         "icon": "https://ds-blobs-3.cdn.devapps.ru/17238171.png",
         "description": "Monitor system processes and performance with CocoaTop.",
-        "compatible": "N/A",
+        "compatible": "Unknown",
         "get_link": "https://raw.githubusercontent.com/baziex/TrollStoreApps/main/TrollStoreApps/CocoaTopTS_BZ.ipa",
         "type": "App",
-        "screenshots": [],
-        "badge": ""
+        "screenshots": [] 
     },
     {
         "id": "trollapps",
@@ -113,11 +104,10 @@
         "category": "Store",
         "icon": "https://github.com/TheResonanceTeam/TrollApps/blob/2.1/assets/ResonanceStoreIcon.png?raw=true",
         "description": "Browse and download TrollStore applications with TrollApps.",
-        "compatible": "N/A",
+        "compatible": "Unknown",
         "get_link": "https://github.com/TheResonanceTeam/TrollApps/releases/download/2.1/org.resonance.store_TrollApps_2.1.ipa",
         "type": "App",
-        "screenshots": [],
-        "badge": ""
+        "screenshots": [] 
     },
     {
         "id": "meow",
@@ -125,11 +115,10 @@
         "category": "Utility",
         "icon": "assets/default.png",
         "description": "meow is a beta tool for various tweaks and utilities.",
-        "compatible": "N/A",
+        "compatible": "Unknown",
         "get_link": "https://kok3shidoll.github.io/download/secret/8F38F948-BCF6-46AF-8926-C95D823107B0/meowbrek2_1.1.7_TS.tipa",
         "type": "App",
-        "screenshots": [],
-        "badge": ""
+        "screenshots": [] 
     },
     {
         "id": "mugunghwa",
@@ -137,23 +126,21 @@
         "category": "Utility",
         "icon": "https://i.imgur.com/phfEQoi.jpg",
         "description": "Mugunghwa offers advanced system customization options.",
-        "compatible": "N/A",
+        "compatible": "Unknown",
         "get_link": "https://github.com/s8ngyu/Mugunghwa/releases/download/3.0.2/Mugunghwa.tipa",
         "type": "App",
-        "screenshots": [],
-        "badge": ""
+        "screenshots": [] 
     },
     {
         "id": "picasso",
         "title": "Picasso v3",
         "category": "Utility",
-        "icon": "https://repo.sourceloc.net/icons/picasso.png",
+        "icon": "https://raw.githubusercontent.com/sourcelocation/Picasso-v3/main/assets/rounded.png",
         "description": "Picasso v3 offers advanced graphical customization.",
-        "compatible": "N/A",
+        "compatible": "Unknown",
         "get_link": "https://github.com/sourcelocation/Picasso-v3/releases/download/3.1/Picasso.v3.1.ipa",
         "type": "App",
-        "screenshots": [],
-        "badge": ""
+        "screenshots": [] 
     },
     {
         "id": "appstoreplus",
@@ -161,11 +148,10 @@
         "category": "Utility",
         "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/App_Store_%28iOS%29.svg/768px-App_Store_%28iOS%29.svg.png",
         "description": "Enhance your App Store experience with AppStore++.",
-        "compatible": "N/A",
+        "compatible": "Unknown",
         "get_link": "https://github.com/CokePokes/AppStorePlus-TrollStore/releases/download/v1.2-1/AppStore++_TrollStore_v1.0.3-2.ipa",
         "type": "App",
-        "screenshots": [],
-        "badge": ""
+        "screenshots": [] 
     },
     {
         "id": "appsmanager",
@@ -173,11 +159,10 @@
         "category": "Management",
         "icon": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQgWICjXqiYKnBEwFFkU1lyeIq4OEk520ayOw&usqp=CAU",
         "description": "Manage your apps efficiently with AppsManager.",
-        "compatible": "N/A",
+        "compatible": "Unknown",
         "get_link": "https://tigisoftware.com/download/AppsManager_1.8.4.ipa",
         "type": "App",
-        "screenshots": [],
-        "badge": ""
+        "screenshots": [] 
     },
     {
         "id": "bootstrap",
@@ -185,11 +170,10 @@
         "category": "Utility",
         "icon": "https://i.imgur.com/io9cmGF.png",
         "description": "Bootstrap utility for advanced configurations.",
-        "compatible": "N/A",
+        "compatible": "Unknown",
         "get_link": "https://github.com/roothide/Bootstrap/releases/download/1.2.1/Bootstrap.tipa",
         "type": "App",
-        "screenshots": [],
-        "badge": ""
+        "screenshots": [] 
     },
     {
         "id": "serotonin",
@@ -197,11 +181,10 @@
         "category": "Utility",
         "icon": "https://raw.githubusercontent.com/mineek/Serotonin/main/artwork/serotonin-precomposed.png",
         "description": "Manage your device settings with Serotonin.",
-        "compatible": "N/A",
+        "compatible": "Unknown",
         "get_link": "https://github.com/mineek/Serotonin/releases/download/1.2.1/Serotonin.tipa",
         "type": "App",
-        "screenshots": [],
-        "badge": ""
+        "screenshots": [] 
     },
     {
         "id": "geranium",
@@ -209,11 +192,10 @@
         "category": "Utility",
         "icon": "https://raw.githubusercontent.com/c22dev/Geranium/main/Geranium/Assets.xcassets/AppIcon.appiconset/geranium.png",
         "description": "Enhance your system with Geranium's customization tools.",
-        "compatible": "N/A",
+        "compatible": "Unknown",
         "get_link": "https://github.com/c22dev/Geranium/releases/download/1.1/Geranium.tipa",
         "type": "App",
-        "screenshots": [],
-        "badge": ""
+        "screenshots": [] 
     }
 ]
  
