@@ -1,5 +1,18 @@
 [
      {
+        "id": "ipagalaxy",
+        "title": "iPA Galaxy",
+        "category": "iPA Library",
+        "icon": "https://ipagalaxy.com/icon.png",
+        "description": "Discover various apps, tweaks, utilities, and games for iOS.",
+        "compatible": "Unknown",
+        "get_link": "https://ipagalaxy.com/",
+        "type": "Website",
+        "screenshots": [
+            "https://i.imgur.com/gK8VtWW.png"
+        ]
+    },
+     {
         "id": "walls",
         "title": "Show Walls",
         "category": "Customisation",
