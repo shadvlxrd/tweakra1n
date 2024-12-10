@@ -123,10 +123,22 @@ background-image: radial-gradient(18% 28% at 24% 50%, #CEFAFFFF 7%, #073AFF00 10
 
 .title {
     font-size: 60px;
-    color: #fff;
-    font-family: "Audiowide", sans-serif;
+   font-family: "Audiowide", sans-serif;
   font-weight: 400;
   font-style: normal;
+  background: linear-gradient(90deg, #ffcb52, #f37055, 
+        #ef4e7b, #a166ab, #c165dd, #1de5e2, #5581f1, #ffcb52);
+    background-size: 200% 200%;
+    -webkit-background-clip: text;
+    background-clip: text;
+    color: transparent;
+    animation: gradientShift 6s infinite linear;
+}
+
+@keyframes gradientShift {
+    0% { background-position: 0% 50%; }
+    50% { background-position: 100% 50%; }
+    100% { background-position: 0% 50%; }
 }
 .bi-phone-flip{font-size:40px;}
 .bi-emoji-smile-fill{font-size:40px;} 
