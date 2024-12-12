@@ -1,4 +1,28 @@
-[
+[       
+        {
+        "id": "awesomeshizuku",
+        "title": "Awesome Shizuku",
+        "category": "Other",
+        "icon": "assets/default.png",
+        "description": "Curated list of awesome Android apps making use of Shizuku",
+        "get_link": "https://github.com/timschneeb/awesome-shizuku",
+        "type": "Website",
+        "screenshots": []
+    },
+        {
+        "id": "eclipse",
+        "title": "Eclipse",
+        "category": "Emulator",
+        "icon": "https://eclipseemu.me/play/static/icons/apple-touch-icon.png",
+        "description": "Eclipse is web-based, meaning you can play games on any modern web browser device. If you're on iOS or iPadOS, you'll never have to worry about revokes. And best of all, you can still play offline; you just need to use games from your local files instead of the Library.",
+        "get_link": "https://eclipseemu.me/play",
+        "type": "Website",
+        "screenshots": [
+            "https://eclipseemu.me/library.webp",
+            "https://eclipseemu.me/systems.webp",
+            "https://eclipseemu.me/controls.webp"
+        ]
+    },
        {
         "id": "zfont",
         "title": "ZFont 3",
