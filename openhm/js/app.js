@@ -391,7 +391,6 @@ function createPopupHtml(item) {
         <div class="block block-strong inset">
           <h2>Description</h2>
           <p>${item.description}</p>
-          <h2>Preview</h2>
           <center>
             <div class="screenshot" onclick="openPhotoBrowser(${JSON.stringify(item.screenshots).replace(/"/g, "&quot;")})">
               ${generateScreenshotElements(item.screenshots)}
