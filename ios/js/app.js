@@ -471,9 +471,6 @@ ${item.title} <i style="font-size: 21px; color: ${item.badgecolor};" class="f7-i
 <h2>Description</h2>
 
 <p>${item.description}</p>
-
-<h2>Preview</h2>
-
 <center>
 
 <div class="screenshot" onclick="openPhotoBrowser(${JSON.stringify(item.screenshots).replace(/"/g, "&quot;")})">
