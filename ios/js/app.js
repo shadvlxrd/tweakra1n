@@ -2,8 +2,8 @@ var app = new Framework7({
 
       el: "#app",
       theme: "ios",
-      name: "AppMarkt",
-      id: "com.outlander.AppMarkt",
+      name: "tweakra1n",
+      id: "com.shadvlxrd.tweakra1n",
       popup: {
 
          push: !0,
@@ -851,11 +851,11 @@ function shareURL() {
 
       navigator.share({
 
-         title: "AppMarkt",
+         title: "tweakra1n",
 
          text: "Take your iDevice experience to the next level with our awesome store!",
 
-         url: "https://appmarkt.pages.dev/"
+         url: "https://tweakrain.pages.dev/"
 
       });
 
