@@ -1,7 +1,7 @@
 
 var app = new Framework7({
   el: '#app',
-  name: 'AppMarkt',
+  name: 'tweakra1n',
   theme: 'md', 
   popup: {
     swipeToClose: 'to-bottom',
