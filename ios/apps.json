@@ -160,19 +160,7 @@
             "https://i.imgur.com/1lisoqN.jpeg"
         ]
     },
-    {
-        "id": "twoecustomservices",
-        "title": "2eCustomServices",
-        "category": "Other",
-        "icon": "https://www.2escustomservices.com/2es_Pages/2e.png",
-        "description": "An impressive website featuring both jailbreak and non-jailbreak content.",
-        "compatible": "Unknown",
-        "get_link": "https://www.2escustomservices.com/2es_Pages/",
-        "type": "Website",
-        "screenshots": [
-            "https://i.imgur.com/VV2AsFZ.png"
-        ]
-    },
+
     {
         "id": "odin",
         "title": "Od1n",
@@ -1039,4 +1027,4 @@
             "https://i.imgur.com/0qObDTb.png"
         ]
     }
-         ]
+]
