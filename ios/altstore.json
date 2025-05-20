@@ -1,0 +1,783 @@
+{
+  "name": "tweakra1n",
+  "subtitle": "",
+  "description": "Official AltStore source provided by tweakra1n. ",
+  "iconURL": "https://tweakrain.pages.dev/favicon.ico",
+  "website": "https://tweakrain.pages.dev",
+  "patreonURL": "",
+  "tintColor": "#00a5ff",
+  "featuredApps": [
+    "com.atebits.Tweetie2",
+    "com.kdt.livecontainer",
+    "com.spotify.client",
+    "com.zurac.OldOS",
+    "dev.casp.ScreenSaver"
+  ],
+  "apps": [
+    {
+      "name": "Feather",
+      "bundleIdentifier": "thewonderofyou.Feather",
+      "marketplaceID": "",
+      "developerName": "Unknown",
+      "subtitle": "",
+      "localizedDescription": "Feather is a free on-device iOS application manager/installer, using certificates part of the Apple Developer Program.",
+      "iconURL": "https://i.imgur.com/YJqfuVA.png",
+      "tintColor": "#7736c8",
+      "category": "utilities",
+      "screenshots": [],
+      "versions": [
+        {
+          "downloadURL": "https://github.com/khcrysalis/Feather/releases/download/v2.0/Feather-default.ipa",
+          "size": 10000000,
+          "version": "2.0",
+          "buildVersion": null,
+          "date": "2025-05-19T05:06:00+03:00",
+          "localizedDescription": null,
+          "minOSVersion": null
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {
+          "NSAccentColorName": "AccentColor",
+          "NSHumanReadableCopyright": "Copyright (c) 2024 Samara M"
+        }
+      },
+      "patreon": {}
+    },
+    {
+      "name": "Eevee Spotify",
+      "bundleIdentifier": "com.spotify.client",
+      "marketplaceID": "",
+      "developerName": "Eevee",
+      "subtitle": "An awesome app.",
+      "localizedDescription": "This is an awesome app only available on AltStore.",
+      "iconURL": "https://i.imgur.com/XuK4XDn.png",
+      "tintColor": "#1cd464",
+      "category": "other",
+      "screenshots": [],
+      "versions": [
+        {
+          "version": "9.0.42",
+          "date": "2025-05-18T08:58:00+03:00",
+          "localizedDescription": null,
+          "downloadURL": "https://github.com/whoeevee/EeveeSpotify/releases/download/swift5.9.7/EeveeSpotify-5.9.7-9.0.42.ipa",
+          "size": 85000000,
+          "buildVersion": null,
+          "minOSVersion": null
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {
+          "NSBluetoothAlwaysUsageDescription": "This lets you unlock new ways of interacting with other devices compatible with Spotify via Bluetooth.",
+          "NSCameraUsageDescription": "This lets you scan Spotify Codes.",
+          "NSUserTrackingUsageDescription": "Your data will be used to deliver personalized ads or content to you.",
+          "NSHealthUpdateUsageDescription": "Spotify will use HealthKit data to provide personalised audio recommendations for your workouts.",
+          "NSMotionUsageDescription": "We will use this to understand which audio motivates you most.",
+          "NSBluetoothPeripheralUsageDescription": "This lets you unlock new ways of interacting with other devices compatible with Spotify via Bluetooth.",
+          "NSPhotoLibraryAddUsageDescription": "This lets you save images to your Photo Library.",
+          "NSLocalNetworkUsageDescription": "This lets you listen on different devices. Spotify will also get access to local audio files.",
+          "NSHealthShareUsageDescription": "Spotify will use HealthKit data to provide personalised audio recommendations for your workouts.",
+          "NSAppleMusicUsageDescription": "This will let you play your imported music on Spotify.",
+          "NSCalendarsUsageDescription": "This lets Spotify view and add events to your calendar.",
+          "NSMicrophoneUsageDescription": "This lets you control Spotify using your voice.",
+          "NSCalendarsWriteOnlyAccessUsageDescription": "This lets Spotify add events to your calendar.",
+          "NSFaceIDUsageDescription": "This lets you set access restrictions using Face ID.",
+          "NSContactsUsageDescription": "This lets Spotify access calendars you may have shared with your contacts.",
+          "NSPhotoLibraryUsageDescription": "This lets you select images from your Photo Library."
+        }
+      },
+      "patreon": {}
+    },
+    {
+      "name": "Watusi",
+      "bundleIdentifier": "net.whatsapp.WhatsApp",
+      "marketplaceID": "",
+      "developerName": "FouadRaheb",
+      "subtitle": "An awesome app.",
+      "localizedDescription": "The all-in-one tweak for WhatsApp Messenger!",
+      "iconURL": "https://i.imgur.com/ydCUkWY.png",
+      "tintColor": "#5cfc7c",
+      "category": "social",
+      "screenshots": [],
+      "versions": [
+        {
+          "version": "25.13.77",
+          "date": "2025-05-18T08:56:00+03:00",
+          "localizedDescription": null,
+          "downloadURL": "https://cdn.fouadraheb.com/ipas/watusi/1.2.70/net.whatsapp.WhatsApp_25.13.77_watusi3_1.2.70_sl.ipa",
+          "size": 117800000,
+          "buildVersion": null,
+          "minOSVersion": null
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {
+          "NSBluetoothAlwaysUsageDescription": "This lets you connect to supported Bluetooth devices",
+          "NSLocationAlwaysUsageDescription": "‎If you always allow access to your location, you can choose to share your live location, and it will update even when you're not using the app. This also lets you send your current location or a nearby place.",
+          "NSSiriUsageDescription": "‎This lets you use Siri to quickly send and read messages and make calls.",
+          "NSCameraUsageDescription": "‎This lets you make video calls, take photos, and record videos.",
+          "NSRemindersUsageDescription": "‎This lets you set reminders to call your friends back.",
+          "NSBluetoothPeripheralUsageDescription": "This lets you connect to supported Bluetooth devices",
+          "NSPhotoLibraryAddUsageDescription": "‎This lets you save photos and videos to your library.",
+          "NSLocalNetworkUsageDescription": "‎This will let you use WhatsApp to place and receive calls through devices that are on the same Wi-Fi or local access networks.",
+          "NSSpeechRecognitionUsageDescription": "WhatsApp does on-device recognition for Voice Messages. In this mode, no voice data is sent to Apple despite this alert, which is unexpected. Select \"Don't Allow\" and report to WhatsApp.",
+          "NSLocationUsageDescription": "‎This lets you send your current location or nearby places in chats.",
+          "NSCalendarsUsageDescription": "‎This lets you create events on your calendar.",
+          "NSMicrophoneUsageDescription": "‎This lets you make calls, send voice messages, and record videos with sound.",
+          "NSLocationWhenInUseUsageDescription": "‎This lets you send your current location or nearby places in chats.",
+          "NSFaceIDUsageDescription": "‎Use Face ID to authenticate on WhatsApp.",
+          "NSLocationAlwaysAndWhenInUseUsageDescription": "‎If you always allow access to your location, you can choose to share your live location, and it will update even when you're not using the app. If you only allow access while using the app, you can only send your current location or a nearby place.",
+          "NSContactsUsageDescription": "‎Upload your contacts to WhatsApp's servers to help you quickly get in touch with your friends and help us provide a better experience.",
+          "NSPhotoLibraryUsageDescription": "‎This lets you send photos and videos from your library and save the ones you capture."
+        }
+      },
+      "patreon": {}
+    },
+    {
+      "name": "Dopamine",
+      "bundleIdentifier": "com.opa334.Dopamine",
+      "marketplaceID": "",
+      "developerName": "Opa334",
+      "subtitle": "An awesome app.",
+      "localizedDescription": "A jailbreak for arm64 (A8 - A11) and arm64e (A12 - A16, M1 - M2)\nSupported on devices on iOS 15.0 - 16.6.1*",
+      "iconURL": "https://i.imgur.com/Y6wmju6.png",
+      "tintColor": "#00a5ff",
+      "category": "utilities",
+      "screenshots": [],
+      "versions": [
+        {
+          "version": "Latest",
+          "date": "2025-05-18T05:49:00+03:00",
+          "localizedDescription": null,
+          "downloadURL": "https://github.com/opa334/Dopamine/releases/latest/download/Dopamine.ipa",
+          "size": 53200000,
+          "buildVersion": null,
+          "minOSVersion": "15.0"
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {}
+      },
+      "patreon": {}
+    },
+    {
+      "name": "PojavLauncher",
+      "bundleIdentifier": "net.kdt.pojavlauncher",
+      "marketplaceID": "",
+      "developerName": "Unknown",
+      "subtitle": "An awesome app.",
+      "localizedDescription": "A flexible, fast and open-source Minecraft Java Edition launcher for Android and iOS",
+      "iconURL": "https://i.imgur.com/peER7HY.png",
+      "tintColor": "#b4745c",
+      "category": "other",
+      "screenshots": [],
+      "versions": [
+        {
+          "version": "2.2",
+          "date": "2025-05-18T08:45:00+03:00",
+          "localizedDescription": null,
+          "downloadURL": "https://github.com/PojavLauncherTeam/PojavLauncher_iOS/releases/download/v2.2/net.kdt.pojavlauncher-2.2-ios.ipa",
+          "size": 108200000,
+          "buildVersion": null,
+          "minOSVersion": null
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {
+          "NSLocalNetworkUsageDescription": "PojavLauncher uses the local network to find and communicate with AltServer and LAN servers.",
+          "NSMicrophoneUsageDescription": "PojavLauncher uses the microphone to enable support for voice chat mods."
+        }
+      },
+      "patreon": {}
+    },
+    {
+      "name": "DebToIPA",
+      "bundleIdentifier": "net.sourceloc.DebToIPA",
+      "marketplaceID": "",
+      "developerName": "Sourcelocation",
+      "subtitle": "An awesome app.",
+      "localizedDescription": "Convert .deb apps to .ipa files, on iOS, locally",
+      "iconURL": "https://i.imgur.com/cy22whi.jpeg",
+      "tintColor": "#00a5ff",
+      "category": "utilities",
+      "screenshots": [
+        "https://i.imgur.com/4ap0eVP.png"
+      ],
+      "versions": [
+        {
+          "version": "1.0.2",
+          "date": "2025-05-18T08:39:00+03:00",
+          "localizedDescription": null,
+          "downloadURL": "https://github.com/sourcelocation/DebToIPA/releases/download/1.1.1/DebToIPA-1.1.1.ipa",
+          "size": 1200000,
+          "buildVersion": null,
+          "minOSVersion": null
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {
+          "NSPhotoLibraryUsageDescription": "This app requires library permission"
+        }
+      },
+      "patreon": {}
+    },
+    {
+      "name": "haptics",
+      "bundleIdentifier": "com.timi2506.haptics",
+      "marketplaceID": "",
+      "developerName": "timi2506",
+      "subtitle": "An awesome app.",
+      "localizedDescription": "Haptics is a simple little App to Test Haptics available with the Swift Package \"HapticEase\" and create + copy code for it with ease, it also has a quick little guide on how to add the Package and it's Haptics to your Project!",
+      "iconURL": "https://i.imgur.com/lp1wrFp.png",
+      "tintColor": "#f46047",
+      "category": "developer",
+      "screenshots": [],
+      "versions": [
+        {
+          "version": "1.0",
+          "date": "2025-05-18T08:35:00+03:00",
+          "localizedDescription": null,
+          "downloadURL": "https://github.com/timi2506/swiftui-haptics-helper/releases/download/1.0.0/haptics-1.0.0.ipa",
+          "size": 4000000,
+          "buildVersion": null,
+          "minOSVersion": null
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {}
+      },
+      "patreon": {}
+    },
+    {
+      "name": "Browser",
+      "bundleIdentifier": "com.timi2506.VisionOSBrowser",
+      "marketplaceID": "",
+      "developerName": "timi2506",
+      "subtitle": "An awesome app.",
+      "localizedDescription": "visionOS Style Browser Built with SwiftUI and WebView",
+      "iconURL": "https://i.imgur.com/097p5Wa.png",
+      "tintColor": "#4c98e4",
+      "category": "other",
+      "screenshots": [
+        "https://i.imgur.com/2XOiukD.png"
+      ],
+      "versions": [
+        {
+          "version": "0.5",
+          "date": "2025-05-18T08:29:00+03:00",
+          "localizedDescription": null,
+          "downloadURL": "https://github.com/timi2506/Browser/releases/download/0.5/Browser-0.5-beta-iOS.ipa",
+          "size": 3000000,
+          "buildVersion": null,
+          "minOSVersion": "15.0"
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {
+          "NSCameraUsageDescription": "visionOS Style New Tab Background using Live Camera Feed",
+          "NSPhotoLibraryUsageDescription": "Custom New Tab Background"
+        }
+      },
+      "patreon": {}
+    },
+    {
+      "name": "New OS",
+      "bundleIdentifier": "com.AppInstalleriOS.New-OS",
+      "marketplaceID": "",
+      "developerName": "AppInstalleriOS",
+      "subtitle": "An awesome app.",
+      "localizedDescription": "iOS 11 Experience in an app. ",
+      "iconURL": "https://i.imgur.com/MyuGkQe.png",
+      "tintColor": "#33a8cb",
+      "category": "entertainment",
+      "screenshots": [],
+      "versions": [
+        {
+          "version": "1.0",
+          "date": "2025-05-18T07:44:00+03:00",
+          "localizedDescription": null,
+          "downloadURL": "https://ipa.cypwn.xyz/serve/get.php?md5=ce9f2608947cd0204595bdd55395633b",
+          "size": 16400000,
+          "buildVersion": null,
+          "minOSVersion": null
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {
+          "NSContactsUsageDescription": "To Use Contacts In New OS",
+          "NSFaceIDUsageDescription": "To Unlock New OS"
+        }
+      },
+      "patreon": {}
+    },
+    {
+      "name": "UTM",
+      "bundleIdentifier": "com.utmapp.UTM",
+      "marketplaceID": "",
+      "developerName": "Unknown",
+      "subtitle": "An awesome app.",
+      "localizedDescription": "UTM is a full featured system emulator and virtual machine host for iOS and macOS. It is based off of QEMU. In short, it allows you to run Windows, Linux, and more on your Mac, iPhone, and iPad.",
+      "iconURL": "https://i.imgur.com/dXp6G24.png",
+      "tintColor": "#3c7cec",
+      "category": "other",
+      "screenshots": [],
+      "versions": [
+        {
+          "version": "4.6.5",
+          "date": "2025-05-18T07:36:00+03:00",
+          "localizedDescription": null,
+          "downloadURL": "https://github.com/utmapp/UTM/releases/download/v4.6.5/UTM.ipa",
+          "size": 126200000,
+          "buildVersion": null,
+          "minOSVersion": null
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {
+          "NSAccentColorName": "AccentColor",
+          "NSLocalNetworkUsageDescription": "The virtual machine may access the local network. UTM may also use the network to communicate with local servers.",
+          "NSLocationAlwaysAndWhenInUseUsageDescription": "UTM requests location data periodically to ensure the system keeps the background process active. Location data will never leave the device.",
+          "NSLocationAlwaysUsageDescription": "UTM requests location data periodically to ensure the system keeps the background process active. Location data will never leave the device.",
+          "NSLocationWhenInUseUsageDescription": "UTM requests location data periodically to ensure the system keeps the background process active. Location data will never leave the device.",
+          "NSMicrophoneUsageDescription": "Permission is required for any virtual machine to record from the microphone."
+        }
+      },
+      "patreon": {}
+    },
+    {
+      "name": "FL Studio Mobile",
+      "bundleIdentifier": "com.imageline.FLStudioMobileHD",
+      "marketplaceID": "",
+      "developerName": "Image-Line",
+      "subtitle": "An awesome app.",
+      "localizedDescription": "FL Studio Mobile is a digital audio workstation available for Android, iOS and Windows UWP. ",
+      "iconURL": "https://i.imgur.com/AJl2VZi.png",
+      "tintColor": "#ccdc54",
+      "category": "entertainment",
+      "screenshots": [],
+      "versions": [
+        {
+          "version": "4.7.7",
+          "date": "2025-05-18T07:28:00+03:00",
+          "localizedDescription": null,
+          "downloadURL": "https://ipa.cypwn.xyz/serve/get.php?md5=db8c8974feba7a7d79395bcdde74173a",
+          "size": 234400000,
+          "buildVersion": null,
+          "minOSVersion": null
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {
+          "NSBluetoothAlwaysUsageDescription": "FL Studio Mobile uses Bluetooth to discover Bluetooth MIDI devices.",
+          "NSBluetoothPeripheralUsageDescription": "FL Studio Mobile uses Bluetooth to discover Bluetooth MIDI devices.",
+          "NSLocalNetworkUsageDescription": "FL Studio Mobile uses networking to communicate with Audiobus and other music apps.",
+          "NSMicrophoneUsageDescription": "FL Studio Mobile uses the microphone for recording vocal & instrument tracks."
+        }
+      },
+      "patreon": {}
+    },
+    {
+      "name": "ScreenSaver",
+      "bundleIdentifier": "dev.casp.ScreenSaver",
+      "marketplaceID": "",
+      "developerName": "DevCasp",
+      "subtitle": "An awesome app.",
+      "localizedDescription": "Apple ScreenSaver without Demo Unit. ",
+      "iconURL": "https://i.imgur.com/Rnnr7bW.png",
+      "tintColor": "#ee5a1c",
+      "category": "other",
+      "screenshots": [],
+      "versions": [
+        {
+          "version": "1.3.0",
+          "date": "2025-05-18T07:25:00+03:00",
+          "localizedDescription": null,
+          "downloadURL": "https://github.com/caspd3v/SleepSaverJailed/releases/download/1.3.1/SleepSaver.Jailed.1.3.1.ipa",
+          "size": 31900000,
+          "buildVersion": null,
+          "minOSVersion": null
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {}
+      },
+      "patreon": {}
+    },
+    {
+      "name": "PostBox",
+      "bundleIdentifier": "com.simplycode.PostBox",
+      "marketplaceID": "",
+      "developerName": "Example Developer",
+      "subtitle": "An awesome app.",
+      "localizedDescription": "PostBox brings the latest jailbreak news to your fingertips. Use PostBox to access your favorite packages and repositories while unjailbroken, all without the hassle of constantly searching on the web. With in-app .deb download and extraction, you can install themes using only your phone.",
+      "iconURL": "https://i.imgur.com/Yu9CUjp.png",
+      "tintColor": "#515151",
+      "category": "utilities",
+      "screenshots": [
+        "https://i.imgur.com/mWOT84r.png"
+      ],
+      "versions": [
+        {
+          "version": "0.8.1",
+          "date": "2025-05-18T07:22:00+03:00",
+          "localizedDescription": null,
+          "downloadURL": "https://github.com/PostBox-Team/PostBox-Releases/releases/download/beta-8.1/PostBox-0.8.1-beta.ipa",
+          "size": 8500000,
+          "buildVersion": null,
+          "minOSVersion": null
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {
+          "NSAccentColorName": "AccentColor",
+          "NSPhotoLibraryAddUsageDescription": "Please allow PostBox to save media into your photo library.",
+          "NSPhotoLibraryUsageDescription": "PostBox can save media (such as screenshots and banners) to your photo library."
+        }
+      },
+      "patreon": {}
+    },
+    {
+      "name": "iDevice Toolkit",
+      "bundleIdentifier": "com.idevicecentral.toolkit",
+      "marketplaceID": "",
+      "developerName": "GeoSnow",
+      "subtitle": "An awesome app.",
+      "localizedDescription": "A powerful iOS tweaking and customization tool for iOS 16.0 – 18.3.2, powered by CVE-2025-24203.",
+      "iconURL": "https://i.imgur.com/VQ0fVx8.png",
+      "tintColor": "#344c74",
+      "category": "other",
+      "screenshots": [
+        "https://i.imgur.com/wkpk1jw.png"
+      ],
+      "versions": [
+        {
+          "version": "1.5.0",
+          "date": "2025-05-17T19:26:00+03:00",
+          "localizedDescription": null,
+          "downloadURL": "https://github.com/GeoSn0w/iDevice-Toolkit/releases/download/v1.5.0/iDevice.Toolkit.v1.5.0-idevicecentral.ipa",
+          "size": 1200000,
+          "buildVersion": null,
+          "minOSVersion": "16.0"
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {}
+      },
+      "patreon": {}
+    },
+    {
+      "name": "TrollInstallerX",
+      "bundleIdentifier": "com.Alfie.TrollInstallerX",
+      "marketplaceID": "",
+      "developerName": "Alfie",
+      "subtitle": "An awesome app.",
+      "localizedDescription": "TrollInstallerX is a universal TrollStore installer. It focuses on being extremely reliable and easy to use. It is also very fast, being able to install TrollStore and/or its persistence helper in a matter of seconds on the latest devices.\n\nTrollInstallerX supports all devices running iOS 14.0 - 16.6.1, both arm64 and arm64e. ",
+      "iconURL": "https://i.imgur.com/w3Y28Vm.png",
+      "tintColor": "#04b9fc",
+      "category": "other",
+      "screenshots": [],
+      "versions": [
+        {
+          "version": "1.0.3",
+          "date": "2025-05-17T19:19:00+03:00",
+          "localizedDescription": null,
+          "downloadURL": "https://github.com/alfiecg24/TrollInstallerX/releases/download/1.0.3/TrollInstallerX.ipa",
+          "size": 6900000,
+          "buildVersion": null,
+          "minOSVersion": null
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {
+          "NSAppleMusicUsageDescription": "Unsandboxing with MacDirtyCow"
+        }
+      },
+      "patreon": {}
+    },
+    {
+      "name": "ClassicPlayer",
+      "bundleIdentifier": "me.gmoran.ClassicPlayer",
+      "marketplaceID": "",
+      "developerName": "Unknown",
+      "subtitle": "An awesome app.",
+      "localizedDescription": "ClassicPlayer - The Clickwheel Music Player\n\nRelive the good old days where listening to music was simple. Introducing ClassicPlayer, a music player that emulates the classic music player experience on your iPhone or iPod Touch!\n\nClassicPlayer provides a simple, easy to use interface that makes listening to music a breeze! Simply open the app, slide your finger around, and listen to your favorite tunes!",
+      "iconURL": "https://i.imgur.com/8HNXGH7.png",
+      "tintColor": "#0c8cf4",
+      "category": "other",
+      "screenshots": [
+        "https://i.imgur.com/DzgaV3u.png",
+        "https://i.imgur.com/Yqe81n9.png"
+      ],
+      "versions": [
+        {
+          "version": "1.0.3",
+          "date": "2025-05-17T19:16:00+03:00",
+          "localizedDescription": null,
+          "downloadURL": "https://github.com/guillermo-moran/ClassicPlayer/releases/download/1.0.3/ClassicPlayer_103.ipa",
+          "size": 130300000,
+          "buildVersion": null,
+          "minOSVersion": null
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {
+          "NSAppleMusicUsageDescription": "Classic Player needs access to your library in order to work properly."
+        }
+      },
+      "patreon": {}
+    },
+    {
+      "name": "OldOS",
+      "bundleIdentifier": "com.zurac.OldOS",
+      "marketplaceID": "",
+      "developerName": "Unknown",
+      "subtitle": "An awesome app.",
+      "localizedDescription": "iOS 4 beautifully rebuilt in SwiftUI",
+      "iconURL": "https://i.imgur.com/e7XuE3f.png",
+      "tintColor": "#00a5ff",
+      "category": "other",
+      "screenshots": [
+        "https://i.imgur.com/xZmhFgL.png",
+        "https://i.imgur.com/uuvnJwL.png",
+        "https://i.imgur.com/wz0Irbu.png",
+        "https://i.imgur.com/BfH3YB1.png"
+      ],
+      "versions": [
+        {
+          "version": "1.0",
+          "date": "2025-05-17T19:07:00+03:00",
+          "localizedDescription": null,
+          "downloadURL": "https://github.com/zzanehip/The-OldOS-Project/releases/download/1.0_18/OldOS.ipa",
+          "size": 88200000,
+          "buildVersion": null,
+          "minOSVersion": null
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {
+          "NSAppleMusicUsageDescription": "To view, play, and experience your music in OldOS, please enable access to your music library. ",
+          "NSCameraUsageDescription": "To take photos in OldOS, please enable access to your camera.",
+          "NSContactsUsageDescription": "To view and manage your contacts in OldOS, please enable access to your contacts list.",
+          "NSLocationAlwaysAndWhenInUseUsageDescription": "To enable maps to work properly, and see your current wifi network in Settings, please enable access to your location. Then close and re-open the Maps app.",
+          "NSLocationAlwaysUsageDescription": "To enable maps to work properly, and see your current wifi network in Settings, please enable access to your location. Then close and re-open the Maps app.",
+          "NSLocationWhenInUseUsageDescription": "To enable maps to work properly, and see your current wifi network in Settings, please enable access to your location. Then close and re-open the Maps app.",
+          "NSMicrophoneUsageDescription": "To record your audio while filming a video in OldOS, please in enable microphone access.",
+          "NSPhotoLibraryAddUsageDescription": "To view, manage, and add photos to your photo library in OldOS, please enable access. Then close and re-open the Photos app.",
+          "NSPhotoLibraryUsageDescription": "To view, manage, and add photos to your photo library in OldOS, please enable access. Then close and re-open the Photos app."
+        }
+      },
+      "patreon": {}
+    },
+    {
+      "name": "GBox",
+      "bundleIdentifier": "com.ncs.gbox",
+      "marketplaceID": "",
+      "developerName": "GBox",
+      "subtitle": "An awesome app.",
+      "localizedDescription": "GBox is an iOS signing tool that does not require a pc, used for installing and testing third-party iOS Apps.",
+      "iconURL": "https://i.imgur.com/PAUCtbq.png",
+      "tintColor": "#04e464",
+      "category": "utilities",
+      "screenshots": [
+        "https://i.imgur.com/gKHwpgF.png"
+      ],
+      "versions": [
+        {
+          "version": "5.7.3",
+          "date": "2025-05-17T19:04:00+03:00",
+          "localizedDescription": null,
+          "downloadURL": "https://github.com/SimpleWood217/GBoxSource",
+          "size": 6800000,
+          "buildVersion": null,
+          "minOSVersion": null
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {
+          "NSAppleMusicUsageDescription": "Grant access to the sandbox. Required for app functionality.",
+          "NSCameraUsageDescription": "是否权允许访问相机，以导入照片",
+          "NSFaceIDUsageDescription": "是否授权允许使用面容ID，以加密您的资料",
+          "NSPhotoLibraryAddUsageDescription": "是否权允许相册授权，以导入相册或者视频",
+          "NSPhotoLibraryUsageDescription": "是否权允许访问相册，以导入相册或者视频"
+        }
+      },
+      "patreon": {}
+    },
+    {
+      "name": "Folium",
+      "bundleIdentifier": "com.antique.Folium-iOS",
+      "marketplaceID": "",
+      "developerName": "Jarrod Norwell",
+      "subtitle": "An awesome app.",
+      "localizedDescription": "This is an awesome app only available on AltStore.",
+      "iconURL": "https://i.imgur.com/5ERpc7y.png",
+      "tintColor": "#64e474",
+      "category": "games",
+      "screenshots": [],
+      "versions": [
+        {
+          "version": "1.20",
+          "date": "2025-05-17T18:59:00+03:00",
+          "localizedDescription": null,
+          "downloadURL": "https://github.com/emuplace/folium.emuplace.app/releases/download/v1.20/folium-sideload-v1.20.ipa.zip",
+          "size": 24800000,
+          "buildVersion": null,
+          "minOSVersion": null
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {
+          "NSAccentColorName": "AccentColor",
+          "NSBluetoothAlwaysUsageDescription": "Folium uses Bluetooth when connecting to controllers and gamepads",
+          "NSCameraUsageDescription": "Folium uses your devices camera for certain functionality within its cores",
+          "NSMicrophoneUsageDescription": "Folium uses your devices microphone for certain functionality within its cores",
+          "NSMotionUsageDescription": "Folium uses your devices motion data for some core functionality such as step count in Cytrus"
+        }
+      },
+      "patreon": {}
+    },
+    {
+      "name": "LiveContainer",
+      "bundleIdentifier": "com.kdt.livecontainer",
+      "marketplaceID": "",
+      "developerName": "Unknown",
+      "subtitle": "An awesome app.",
+      "localizedDescription": "An app launcher that runs iOS app without actually installing it!",
+      "iconURL": "https://i.imgur.com/MYtvY7o.png",
+      "tintColor": "#047bfc",
+      "category": "utilities",
+      "screenshots": [
+        "https://i.imgur.com/KTQsbdl.png"
+      ],
+      "versions": [
+        {
+          "version": "3.4.0",
+          "date": "2025-05-17T18:45:00+03:00",
+          "localizedDescription": null,
+          "downloadURL": "https://github.com/LiveContainer/LiveContainer/releases/download/3.4.0/LiveContainer.ipa",
+          "size": 2800000,
+          "buildVersion": null,
+          "minOSVersion": null
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {
+          "NSAccentColorName": "AccentColor",
+          "NSAppleMusicUsageDescription": "The guest app is requesting for this permission.",
+          "NSBluetoothAlwaysUsageDescription": "The guest app is requesting for this permission.",
+          "NSBluetoothPeripheralUsageDescription": "The guest app is requesting for this permission.",
+          "NSCalendarsFullAccessUsageDescription": "The guest app is requesting for this permission.",
+          "NSCalendarsWriteOnlyAccessUsageDescription": "The guest app is requesting for this permission.",
+          "NSCameraUsageDescription": "The guest app is requesting for this permission.",
+          "NSContactsUsageDescription": "The guest app is requesting for this permission.",
+          "NSFaceIDUsageDescription": "The guest app is requesting for this permission.",
+          "NSFallDetectionUsageDescription": "The guest app is requesting for this permission.",
+          "NSGKFriendListUsageDescription": "The guest app is requesting for this permission.",
+          "NSHealthClinicalHealthRecordsShareUsageDescription": "The guest app is requesting for this permission.",
+          "NSHealthRequiredReadAuthorizationTypeIdentifiers": "The guest app is requesting for this permission.",
+          "NSHealthShareUsageDescription": "The guest app is requesting for this permission.",
+          "NSHealthUpdateUsageDescription": "The guest app is requesting for this permission.",
+          "NSHomeKitUsageDescription": "The guest app is requesting for this permission.",
+          "NSIdentityUsageDescription": "The guest app is requesting for this permission.",
+          "NSLocalNetworkUsageDescription": "The guest app is requesting for this permission.",
+          "NSLocationAlwaysAndWhenInUseUsageDescription": "The guest app is requesting for this permission.",
+          "NSLocationDefaultAccuracyReduced": "The guest app is requesting for this permission.",
+          "NSLocationTemporaryUsageDescriptionDictionary": "The guest app is requesting for this permission.",
+          "NSLocationUsageDescription": "The guest app is requesting for this permission.",
+          "NSLocationWhenInUseUsageDescription": "The guest app is requesting for this permission.",
+          "NSMicrophoneUsageDescription": "The guest app is requesting for this permission.",
+          "NSMotionUsageDescription": "The guest app is requesting for this permission.",
+          "NSNearbyInteractionAllowOnceUsageDescription": "The guest app is requesting for this permission.",
+          "NSNearbyInteractionUsageDescription": "The guest app is requesting for this permission.",
+          "NSPhotoLibraryAddUsageDescription": "The guest app is requesting for this permission.",
+          "NSPhotoLibraryUsageDescription": "The guest app is requesting for this permission.",
+          "NSRemindersFullAccessUsageDescription": "The guest app is requesting for this permission.",
+          "NSSensorKitUsageDescription": "The guest app is requesting for this permission.",
+          "NSSiriUsageDescription": "The guest app is requesting for this permission.",
+          "NSSpeechRecognitionUsageDescription": "The guest app is requesting for this permission.",
+          "NSUserTrackingUsageDescription": "The guest app is requesting for this permission."
+        }
+      },
+      "patreon": {}
+    },
+    {
+      "name": "NeoFreeBird",
+      "bundleIdentifier": "com.atebits.Tweetie2",
+      "marketplaceID": "",
+      "developerName": "Aridan",
+      "subtitle": "An awesome app.",
+      "localizedDescription": "A modified Twitter app, with branding reverts, BHTwitter and other QoL modifications.",
+      "iconURL": "https://i.imgur.com/T2iu5c1.png",
+      "tintColor": "#1c9cf4",
+      "category": "social",
+      "screenshots": [
+        "https://neofreebird.aridan.net/images/IMG_9219.png",
+        "https://neofreebird.aridan.net/images/IMG_9220.png"
+      ],
+      "versions": [
+        {
+          "version": "10.94",
+          "date": "2025-05-17T12:46:00+03:00",
+          "localizedDescription": null,
+          "downloadURL": "https://github.com/actuallyaridan/NeoFreeBird/releases/download/1.0/NeoFreeBird-1.0-Twitter-10.94-rev3.ipa",
+          "size": 151100000,
+          "buildVersion": null,
+          "minOSVersion": null
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {
+          "NSAdvertisingAttributionReportEndpoint": "https://singular-bi.net",
+          "NSBluetoothAlwaysUsageDescription": "Twitter uses Bluetooth to discover Cast-enabled devices near you.",
+          "NSCameraUsageDescription": "Capture and post photos and videos from Twitter.",
+          "NSUserTrackingUsageDescription": "This helps Twitter show you more relevant ads.",
+          "NSPhotoLibraryAddUsageDescription": "This lets you download photos and videos to your Photos.",
+          "NSLocalNetworkUsageDescription": "Twitter uses the local network to discover Cast-enabled devices on your WiFi network.",
+          "NSSpeechRecognitionUsageDescription": "Going forward, whenever you choose to share captions on this device, Apple will provide the service. Doing so helps make sure people of all hearing abilities can access your content.",
+          "NSLocationUsageDescription": "Enjoy the Twitter experience tailored to your location.",
+          "NSCalendarsUsageDescription": "Add events to your calendar from Twitter.",
+          "NSMicrophoneUsageDescription": "Capture and post videos with sound from Twitter.",
+          "NSLocationWhenInUseUsageDescription": "Enjoy the Twitter experience tailored to your location.",
+          "NSFaceIDUsageDescription": "Use FaceID to authenticate on Twitter.",
+          "NSContactsUsageDescription": "We will securely upload your contacts to our servers to help you connect with friends and suggest users to follow on Twitter.",
+          "NSPhotoLibraryUsageDescription": "Easily add photos on Twitter."
+        }
+      },
+      "patreon": {}
+    }
+  ],
+  "news": [
+    {
+      "title": "tweakra1n v4.0 was launched 🎉",
+      "identifier": "news_ywerg8b65k",
+      "caption": "See what's new in the app! ",
+      "date": "2025-05-17T15:47",
+      "tintColor": "#939c95",
+      "imageURL": "https://i.imgur.com/BiiZ6ae.png",
+      "notify": true,
+      "url": "https://tweakrain.pages.dev/ios/app",
+      "appID": null
+    }
+  ]
+}

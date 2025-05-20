@@ -3,7 +3,7 @@
         "id": "syde",
         "title": "Syde",
         "category": "iPA Library",
-        "icon": "https://res.cloudinary.com/glide/image/fetch/f_auto,w_150,h_150,c_lfill/https%3A%2F%2Ffirebasestorage.googleapis.com%2Fv0%2Fb%2Fglide-prod.appspot.com%2Fo%2Ficon-images%252Fanonymous-79bde240-ded0-4e5e-92de-b0722617b116.png%3Falt%3Dmedia%26token%3D0ec3b876-aeaa-485d-8004-90ba36e15aad",
+        "icon": "https://i.imgur.com/FcDbADE.png",
         "description": "Discover, Sideload, and Manage Third-Party IPAs with Syde, Your Sideloading Sydekick.",
         "compatible": "Unknown",
         "get_link": "https://sydeapp.glide.page/",
@@ -14,26 +14,13 @@
         "id": "pojavlauncher",
         "title": "Pojav Launcher",
         "category": "Other",
-        "icon": "https://pojavlauncherteam.github.io/logo.png",
+        "icon": "https://pojavlauncher.app/logo.png",
         "description": "A flexible, fast and open-source Minecraft Java Edition launcher for Android and iOS",
         "compatible": "Unknown",
         "get_link": "https://pojavlauncherteam.github.io/INSTALL.html#ios",
         "type": "App",
         "screenshots": [
 
-        ]
-    },
-     {
-        "id": "ipagalaxy",
-        "title": "iPA Galaxy",
-        "category": "iPA Library",
-        "icon": "https://ipagalaxy.com/icon.png",
-        "description": "Discover various Apps, tweaks, utilities, and games for iOS.",
-        "compatible": "Unknown",
-        "get_link": "https://ipagalaxy.com/",
-        "type": "Website",
-        "screenshots": [
-            "https://i.imgur.com/gK8VtWW.png"
         ]
     },
      {
@@ -53,15 +40,14 @@
     },
      {
         "id": "epicstore",
-        "title": "Epic Store",
+        "title": "Epic Games Store",
         "category": "Other",
-        "icon": "https://pbs.twimg.com/profile_images/1863992704721461248/vzPLCKvV.jpg",
+        "icon": "https://i.imgur.com/YPWFYx4.jpeg",
         "description": "Install and play our games for free on Android devices, iPhones and iPads, then complete in-game challenges to unlock these rewards for Fortnite, Rocket League Sideswipe and Fall Guys Mobile! Dedicated streaming services on mobile devices do not qualify for rewards.",
         "compatible": "17.4 or later (EU)",
         "get_link": "https://store.epicgames.com/download",
         "type": "App",
         "screenshots": [
-            "https://i.imgur.com/mjNiaa3.png"
         ]
     },
      {
@@ -81,7 +67,7 @@
         "id": "folium",
         "title": "Folium",
         "category": "Emulator",
-        "icon": "https://raw.githubusercontent.com/folium-App/Folium/refs/heads/main/Folium-iOS/Assets.xcassets/AppIcon.Appiconset/Icon_Any.png",
+        "icon": "https://folium.emuplace.app/Icon_Favicon.png",
         "description": "Beautifully designed, high performing multi-system emulation in the palm of your hands",
         "compatible": "Unknown",
         "get_link": "https://folium.emuplace.App/",
@@ -160,20 +146,6 @@
             "https://i.imgur.com/1lisoqN.jpeg"
         ]
     },
-
-    {
-        "id": "odin",
-        "title": "Od1n",
-        "category": "Jailbreak",
-        "icon": "",
-        "description": "ios 15.x.x arm64 jailbreak created and managed by yours truly...",
-        "compatible": "14.0 - 15.8.2",
-        "get_link": "https://github.com/pwned4ever/Od1n/releases/download/v2.6.3/OD1N.ipa",
-        "type": "App",
-        "screenshots": [
-            "assets/default.png"
-        ]
-    },
     {
         "id": "trollinstallerx",
         "title": "TrollInstallerX",
@@ -230,7 +202,7 @@
         "id": "shareshortcuts",
         "title": "ShareShortcuts",
         "category": "Other",
-        "icon": "https://shareshortcuts.com/assets/git/brand/shareshortcuts-logo-2x.png",
+        "icon": "https://imazing.com/img/favicon.png",
         "description": "The best Siri Shortcuts community that won't ever charge you for features.",
         "compatible": "Unknown",
         "get_link": "https://shareshortcuts.com",
@@ -255,7 +227,7 @@
         "id": "iconfighub",
         "title": "iConfigHub",
         "category": "Other",
-        "icon": "https://iconfighub.netlify.App/assets/images/iconfig-hub-logo.png",
+        "icon": "https://iconfigrealm.netlify.app/assets/images/iconfig-hub-logo.png",
         "description": "Welcome to iConfig Hub. This website lets you install cool device mods through modified device backups, download screen savers, get TestFlight betas, download cool configuration profiles, and more.",
         "compatible": "Unknown",
         "get_link": "https://iconfighub.netlify.App",
@@ -265,23 +237,10 @@
         ]
     },
     {
-        "id": "icreatepro",
-        "title": "iCreatePro",
-        "category": "Game",
-        "icon": "https://icreate.pro/assets/images/App-circle.png",
-        "description": "GeometryDash mods for iOS.",
-        "compatible": "13.2 or later",
-        "get_link": "https://icreate.pro",
-        "type": "App",
-        "screenshots": [
-            "https://cdn.akamai.steamstatic.com/steam/Apps/322170/capsule_616x353.jpg?t=1624472273"
-        ]
-    },
-    {
         "id": "utm",
         "title": "UTM",
         "category": "Other",
-        "icon": "https://getutm.App/assets/Appicon.png",
+        "icon": "https://getutm.app/assets/appicon.png",
         "description": "Run virtual machines on iOS.",
         "compatible": "11 or later",
         "get_link": "https://docs.getutm.App/installation/ios/",
@@ -455,19 +414,6 @@
         ]
     },
     {
-        "id": "misaka",
-        "title": "misaka beta",
-        "category": "MDC/KFD",
-        "icon": "https://i.imgur.com/mZZGfbz.jpg",
-        "description": " <strong>Warning:This is a beta,we and the developers of this App are not responsible for any damage caused to your device.</strong><br />Misaka is the best way to customize your iPhone or iPad without jailbreak.It's like jailbreak withoutjailbreak.",
-        "compatible": "Unknown",
-        "get_link": "https://github.com/straight-tamago/misaka/releases/download/8.2.4/misaka-v8.2.4.ipa",
-        "type": "App",
-        "screenshots": [
-            "https://i.imgur.com/ar2Rabn.png"
-        ]
-    },
-    {
         "id": "flekst0re",
         "title": "FlekSt0re",
         "category": "3rd Party App Store",
@@ -484,21 +430,6 @@
             "https://i.imgur.com/DxVrTNP.png"
         ]
     },
-    {
-        "id": "purekfd",
-        "title": "PureKFD",
-        "category": "MDC/KFD",
-        "icon": "https://avatars.githubusercontent.com/u/150500347?v=4",
-        "description": "PureKFD is a KFD Focused Package Manager, supporting iOS versions 14.0 through 16.6.1 using KFD CVE-2023-41974 and MDC CVE-2022-46689. PureKFD allows users to customize their experience through a user-friendly interface, utilizingcommunity-developed tweaks available from the community's repositories.",
-        "compatible": "14.0 - 16.6.1",
-        "get_link": "https://github.com/PureKFD/PureKFD/releases/download/5.2/purekfd.ipa",
-        "type": "App",
-        "screenshots": [
-            "https://github.com/PureKFD/PureKFD/blob/main/screenshots/1.png?raw=true",
-            "https://github.com/PureKFD/PureKFD/blob/main/screenshots/2.png?raw=true",
-            "https://github.com/PureKFD/PureKFD/blob/main/screenshots/3.png?raw=true"
-        ]
-    }, 
     {
         "id": "utools",
         "title": "3uTools",
@@ -659,19 +590,6 @@
         ]
     },
     {
-        "id": "acutus",
-        "title": "Acutus",
-        "category": "3rd Party App Store",
-        "icon": "https://acutus.fun/assets/img/icon.png",
-        "description": "EonHub mirror with less ads.",
-        "compatible": "Unknown",
-        "get_link": "https://acutus.fun",
-        "type": "Website",
-        "screenshots": [
-            "https://i.imgur.com/xw0ov7k.png"
-        ]
-    },
-    {
         "id": "oldos",
         "title": "OldOS",
         "category": "Emulator",
@@ -730,24 +648,10 @@
         ]
     },
     {
-        "id": "cpux",
-        "title": "CPU-x",
-        "category": "Other",
-        "icon": "https://i.imgur.com/bQZCYoy.png",
-        "description": "No description available.",
-        "compatible": "13.0 or later",
-        "get_link": "https://Apps.Apple.com/ro/App/cpu-x-dasher-z-battery-life/id1359763765",
-        "type": "App",
-        "device": "iPhone/iPad/Mac",
-        "screenshots": [
-            "https://i.imgur.com/3Z38iX5.png"
-        ]
-    },
-    {
         "id": "eclipse",
         "title": "Eclipse",
         "category": "Emulator",
-        "icon": "https://eclipseemu.me/play/static/icons/Apple-touch-icon.png",
+        "icon": "https://i.imgur.com/c4tecq8.png",
         "description": "The unerevokable multi-emulator for iOS.",
         "compatible": "Unknown",
         "get_link": "https://eclipseemu.me/play",
@@ -769,19 +673,6 @@
         "type": "Website",
         "screenshots": [
             "https://raw.githubusercontent.com/Lake-e/iPad-Calculator/main/images/calculator-screenshot-1.jpeg"
-        ]
-    },
-    {
-        "id": "dzmoha",
-        "title": "DzMohaiPA",
-        "category": "3rd Party App Store",
-        "icon": "https://i.imgur.com/DBqpwwS.png",
-        "description": "No description available.",
-        "compatible": "Unknown",
-        "get_link": "itms-services://?action=download-manifest&url=https://dzmohaipa.com/Snapchat/StoreDz.plist",
-        "type": "Website",
-        "screenshots": [
-            
         ]
     },
     {
@@ -950,7 +841,7 @@
         "id": "postbox",
         "title": "PostBox",
         "category": "Other",
-        "icon": "https://www.postbox.news/assets/images/AppIconSite.webp",
+        "icon": "https://i.imgur.com/b8PazSK.png",
         "description": "PostBoxbrings the latest jailbreak news to your fingertips. Use PostBox to access your favorite packages and repositories while unjailbroken, all without the hassle of constantly searching on the Website. With in-App .deb download and extraction,you can install themes using only your phone.",
         "compatible": "Unknown",
         "get_link": "https://github.com/PostBox-Team/PostBox-Releases/releases/download/beta-8.1/PostBox-0.8.1-beta.ipa",
@@ -1009,22 +900,6 @@
         "type": "Website",
         "screenshots": [
             "https://sidestore.io/hero_render2.12414c8d.webp"
-        ]
-    },
-    {
-        "id": "kurdstore",
-        "title": "KurdStore",
-        "category": "3rd Party App Store",
-        "icon": "https://www.kurdstore.info/icons/Apple-touch-icon.png",
-        "description": "No description available.",
-        "compatible": "Unknown",
-        "get_link": "https://kurdstore.info/",
-        "type": "Website",
-        "screenshots": [
-            "https://i.imgur.com/KATAoDI.png",
-            "https://i.imgur.com/jnaW6sn.png",
-            "https://i.imgur.com/lTUJamz.png",
-            "https://i.imgur.com/0qObDTb.png"
         ]
     }
 ]
