@@ -853,7 +853,7 @@ function shareURL() {
 
          title: "tweakra1n",
 
-         text: "Take your iDevice experience to the next level with our awesome store!",
+         text: "Take your iDevice experience to the next level with our awesome app!",
 
          url: "https://tweakrain.pages.dev/"
 
@@ -863,7 +863,41 @@ function shareURL() {
 
 }
 
+function shareSource() {
 
+   if (navigator.share) {
+
+      navigator.share({
+
+         title: "tweakra1n",
+
+         text: "Official AltStore source provided by tweakra1n",
+
+         url: "https://tweakrain.pages.dev/ios/altstore.json"
+
+      });
+
+   }
+
+}
+function copySource() {
+    navigator.clipboard.writeText('https://tweakrain.pages.dev/ios/altstore.json')
+      .then(() => {
+        app.toast.create({
+          text: 'Source link copied!',
+          position: 'center',
+          closeTimeout: 2000,
+        }).open();
+      })
+      .catch(err => {
+        app.toast.create({
+          text: 'Failed to copy!',
+          position: 'center',
+          closeTimeout: 2000,
+        }).open();
+        console.error('Copy failed:', err);
+      });
+  }
 function reset() {
 
    app.actions.create({
