@@ -1,905 +1,848 @@
-[
-      {
-        "id": "syde",
-        "title": "Syde",
-        "category": "iPA Library",
-        "icon": "https://i.imgur.com/FcDbADE.png",
-        "description": "Discover, Sideload, and Manage Third-Party IPAs with Syde, Your Sideloading Sydekick.",
-        "compatible": "Unknown",
-        "get_link": "https://sydeapp.glide.page/",
-        "type": "Website",
-        "screenshots": ["https://i.imgur.com/71vSVyZ.jpeg"]
-    },
-     {
-        "id": "pojavlauncher",
-        "title": "Pojav Launcher",
-        "category": "Other",
-        "icon": "https://pojavlauncher.app/logo.png",
-        "description": "A flexible, fast and open-source Minecraft Java Edition launcher for Android and iOS",
-        "compatible": "Unknown",
-        "get_link": "https://pojavlauncherteam.github.io/INSTALL.html#ios",
-        "type": "App",
-        "screenshots": [
 
-        ]
-    },
-     {
-        "id": "walls",
-        "title": "Show Walls",
-        "category": "Customisation",
-        "icon": "https://i.imgur.com/wuF5bgM.jpeg",
-        "description": "Discover breathtaking wallpapers from elite creators worldwide. Premium designs, daily updates, and full-res downloads make your device truly yours.",
-        "compatible": "18.0 or later",
-        "get_link": "https://Apps.Apple.com/us/App/show-walls/id6737687624",
-        "type": "App",
-        "screenshots": [
-            "https://i.imgur.com/WVopC0X.jpeg", 
-            "https://i.imgur.com/a9yQVMn.jpeg", 
-            "https://i.imgur.com/QhlHhqs.jpeg"
-        ]
-    },
-     {
-        "id": "epicstore",
-        "title": "Epic Games Store",
-        "category": "Other",
-        "icon": "https://i.imgur.com/YPWFYx4.jpeg",
-        "description": "Install and play our games for free on Android devices, iPhones and iPads, then complete in-game challenges to unlock these rewards for Fortnite, Rocket League Sideswipe and Fall Guys Mobile! Dedicated streaming services on mobile devices do not qualify for rewards.",
-        "compatible": "17.4 or later (EU)",
-        "get_link": "https://store.epicgames.com/download",
-        "type": "App",
-        "screenshots": [
-        ]
-    },
-     {
-        "id": "irespring",
-        "title": "iRespring",
-        "category": "Other",
-        "icon": "https://irespring.pages.dev/favicon.ico",
-        "description": "An elegant and unrevokable Respring utility designed for iOS versions 12.0 to 15.8.3. ",
-        "compatible": "12.0 - 15.8.3",
-        "get_link": "https://irespring.pages.dev",
-        "type": "Website",
-        "screenshots": [
-            "https://i.imgur.com/mjNiaa3.png"
-        ]
-    },
-    {
-        "id": "folium",
-        "title": "Folium",
-        "category": "Emulator",
-        "icon": "https://folium.emuplace.app/Icon_Favicon.png",
-        "description": "Beautifully designed, high performing multi-system emulation in the palm of your hands",
-        "compatible": "Unknown",
-        "get_link": "https://folium.emuplace.App/",
-        "type": "App",
-        "screenshots": [
-            "https://i.imgur.com/gkchQB8.jpeg",
-            "https://i.imgur.com/uqd4MoH.jpeg"
-        ]
-    },
-    {
-        "id": "xinamine",
-        "title": "Xinam1ne",
-        "category": "Jailbreak",
-        "icon": "https://xina.cypwn.xyz/_astro/xina.CtX8K0P4_2ur45K.webp",
-        "description": "A fork of Dopamine. True to the heart of Jailbreaking, Xinam1ne allows you to use Rootfull XinaA15 debs on a Rootless jailbreak. No restrictions imposed by developers.",
-        "compatible": "15.0 -16.6.1",
-        "get_link": "https://api.cypwn.xyz/@extras/xinam1neLatest",
-        "type": "App",
-        "screenshots": [
-            "https://xina.cypwn.xyz/_astro/Mockup.C6qWsl8e_Z19D4Qh.webp",
-            "https://xina.cypwn.xyz/_astro/Mockup2.DotBTKRs_zYdVf.webp"
-        ]
-    },
-    {
-        "id": "iconfig",
-        "title": "iConfig",
-        "category": "Other",
-        "icon": "https://i.imgur.com/hiwG5D1.jpeg",
-        "description": "Web-based tool for creating configuration profiles.",
-        "compatible": "Unknown",
-        "get_link": "https://s0n1c.ca/iconfig/",
-        "type": "Website",
-        "screenshots": [
-            "https://i.imgur.com/vCtM8lM.png",
-            "https://i.imgur.com/FtAIK2m.png"
-        ]
-    },
-    {
-        "id": "altlist",
-        "title": "AltList",
-        "category": "Other",
-        "icon": "https://s0n1c.ca/altlist/icon.png",
-        "description": "An awesome sideloading tool that plays nice with AltStore sources!",
-        "compatible": "Unknown",
-        "get_link": "https://s0n1c.ca/altlist/",
-        "type": "Website",
-        "screenshots": [
-            "https://i.imgur.com/30iSIJW.png",
-            "https://i.imgur.com/IbVjptL.png"
-        ]
-    },
-    {
-        "id": "Appraven",
-        "title": "AppRaven",
-        "category": "Other",
-        "icon": "https://i.imgur.com/I8tG6lq.png",
-        "description": "AppRaven helps to discover the best Apps and games designed just for you! Connect with people who share the same interests and recommend your favourite games to each other.Make a wish list to never miss a sale and save money on the Apps you like the most!",
-        "compatible": "15.0 or later",
-        "get_link": "https://Apps.Apple.com/ro/App/Appraven-Apps-gone-free/id1490607195",
-        "type": "App",
-        "screenshots": [
-            "https://i.imgur.com/cxQekAg.png"
-        ]
-    },
-    {
-        "id": "demus",
-        "title": "Demus",
-        "category": "Other",
-        "icon": "https://i.imgur.com/kXATXtK.png",
-        "description": "An incredible free music streaming service that’s like Apple Music, but without the price tag!",
-        "compatible": "17.0 or later",
-        "get_link": "https://Apps.Apple.com/ro/App/demus-easy-music-streaming/id6474685600",
-        "type": "App",
-        "screenshots": [
-            "https://i.imgur.com/NqzxeFp.jpeg",
-            "https://i.imgur.com/1lisoqN.jpeg"
-        ]
-    },
-    {
-        "id": "trollinstallerx",
-        "title": "TrollInstallerX",
-        "category": "TrollStore",
-        "icon": "https://github.com/alfiecg24/TrollInstallerX/blob/main/Resources/Icon.png?raw=true",
-        "description": "TrollInstallerX is a universal TrollStore installer. It focuses on being extremely reliable and easy to use. It is also very fast, being able to install TrollStore and/or its persistence helper in a matter of seconds on the latest devices.",
-        "compatible": "14.0 - 16.5.1",
-        "get_link": "https://github.com/alfiecg24/TrollInstallerX/releases/download/1.0.2/TrollInstallerX.ipa",
-        "type": "App",
-        "screenshots": ["https://media.idownloadblog.com/wp-content/uploads/2024/04/Successfully-Installed-TrollStore-with-TrollInstallerX.jpg"
-        ]
-    },
-    {
-        "id": "acutecalc",
-        "title": "AcuteCalculator",
-        "category": "Other",
-        "icon": "https://i.imgur.com/AVurVqQ.png",
-        "description": "Advanced graph calculator.Free,no ads and no subscriptions.",
-        "compatible": "16.0 or later",
-        "get_link": "https://Apps.Apple.com/ro/App/acute-calculator/id6476837563",
-        "type": "App",
-        "screenshots": [
-            "https://i.imgur.com/Pbl5FPq.jpeg"
-        ]
-    },
-    {
-        "id": "nekojb",
-        "title": "NekoJB",
-        "category": "Jailbreak",
-        "icon": "https://nekojb.hhls.xyz/nekoJB.webp",
-        "description": "NekoJB is now a fork a Dopamine, modified to add support for rootful, and maybe more in the future.",
-        "compatible": "15.0 -16.6.1",
-        "get_link": "https://nekojb.hhls.xyz",
-        "type": "App",
-        "screenshots": [
-            "https://i.imgur.com/4vOCkTp.png"
-        ]
-    },
-    {
-        "id": "unichar",
-        "title": "UniChar",
-        "category": "Other",
-        "icon": "https://i.imgur.com/MxrKE1e.png",
-        "description": "A remarkable Unicode keyboard without advertisements that resembles the iOS keyboard.",
-        "compatible": "15.0 or later",
-        "get_link": "https://Apps.Apple.com/ro/App/unichar-unicode-keyboard/id880811847",
-        "type": "App",
-        "screenshots": [
-            "https://i.imgur.com/FFDXJe9.jpg",
-            "https://i.imgur.com/rjXsWg3.png"
-        ]
-    },
-    {
-        "id": "shareshortcuts",
-        "title": "ShareShortcuts",
-        "category": "Other",
-        "icon": "https://imazing.com/img/favicon.png",
-        "description": "The best Siri Shortcuts community that won't ever charge you for features.",
-        "compatible": "Unknown",
-        "get_link": "https://shareshortcuts.com",
-        "type": "Website",
-        "screenshots": [
-            "https://imazing.com/img/home/win/1-hero-winos-130x38-570x368@2x.jpg"
-        ]
-    },
-    {
-        "id": "imazing",
-        "title": "iMazing",
-        "category": "DeviceManager",
-        "icon": "https://imazing.com/img/navigation/App-imazing.svg","description": "iMazing is the world’s most trusted software to transfer and save your messages, music, files and data from your iPhone or iPad to your Mac or PC.<br />Gain powerful backup, data extraction, media, and file transfer capabilities, and much more with iMazing.",
-        "compatible": "Unknown",
-        "get_link": "https://imazing.com",
-        "type": "Website",
-        "screenshots": [
-            "https://imazing.com/img/home/win/1-hero-winos-130x38-570x368@2x.jpg"
-        ]
-    },
-    {
-        "id": "iconfighub",
-        "title": "iConfigHub",
-        "category": "Other",
-        "icon": "https://iconfigrealm.netlify.app/assets/images/iconfig-hub-logo.png",
-        "description": "Welcome to iConfig Hub. This website lets you install cool device mods through modified device backups, download screen savers, get TestFlight betas, download cool configuration profiles, and more.",
-        "compatible": "Unknown",
-        "get_link": "https://iconfighub.netlify.App",
-        "type": "Website",
-        "screenshots": [
-            "https://iconfighub.netlify.App/assets/images/18-mp.png"
-        ]
-    },
-    {
-        "id": "utm",
-        "title": "UTM",
-        "category": "Other",
-        "icon": "https://getutm.app/assets/appicon.png",
-        "description": "Run virtual machines on iOS.",
-        "compatible": "11 or later",
-        "get_link": "https://docs.getutm.App/installation/ios/",
-        "type": "App",
-        "screenshots": [
-            "https://cdn.osxdaily.com/wp-content/uploads/2023/06/macos-sonoma-beta-virtual-machine-utm.jpg"
-        ]
-    },
-    {
-        "id": "modmyiphone",
-        "title": "iNNOVATION",
-        "category": "Customisation",
-        "icon": "https://i.imgur.com/Tyn22ul.png",
-        "description": "Give your iOS home and lock screens a makeover with weather info and RSS feeds!",
-        "compatible": "Unknown",
-        "get_link": "https://modmyiphone.dev",
-        "type": "App",
-        "screenshots": [
-            "https://i.imgur.com/H9Eh2Ox.png"
-        ]
-    },
-    {
-        "id": "mockupm",
-        "title": "Mockup M",
-        "category": "Photo &Video",
-        "icon": "https://i.imgur.com/usyD2fq.png",
-        "description": "Super simple mockups.",
-        "compatible": "17.0 or later",
-        "get_link": "https://Apps.Apple.com/ro/App/mockup-m/id6467768436",
-        "type": "App",
-        "screenshots": [
-            "https://i.imgur.com/fNRNn3Q.jpg",
-            "https://i.imgur.com/MJxDF3U.jpg"
-        ]
-    },
-    {
-        "id": "tanarasign",
-        "title": "Tanara Sign",
-        "category": "Sideloading",
-        "icon": "https://i.imgur.com/qQKtJKy.png",
-        "description": "TanaraSign is the first ever multiplatform Codesigning App for every Apple Platform written in 100% SwiftUI.",
-        "compatible": "Unknown",
-        "get_link": "https://github.com/iRayanKhan/TanaraSign/raw/main/TanaraSign.ipa",
-        "type": "App",
-        "screenshots": [
-            "https://i.imgur.com/Ro7Yd7T.png",
-            "https://i.imgur.com/Q4IVo6W.png",
-            "https://i.imgur.com/K9L9Ba5.png"
-        ]
-    },
-    {
-        "id": "watchanimals",
-        "title": "WatchFaces Animals Gallery",
-        "category": "Other",
-        "icon": "https://i.imgur.com/zgPexTc.png",
-        "description": "Coolest animal faces for your Apple Watch!",
-        "compatible": "Unknown",
-        "get_link": "https://Apps.Apple.com/ro/App/watch-faces-gallery-animals/id1661519284",
-        "type": "App",
-        "screenshots": [
-            "https://i.imgur.com/0CzFE1H.jpg"
-        ]
-    },
-    {
-        "id": "solves",
-        "title": "Solves",
-        "category": "Hidden App Store App",
-        "icon": "https://i.imgur.com/e6TxnFh.png",
-        "description": "It's like the iOS Calculator but supercharged!",
-        "compatible": "Unknown",
-        "get_link": "https://Apps.Apple.com/ro/App/solves-calculator-for-all/id1394359548",
-        "type": "App",
-        "screenshots": [
-            "https://i.imgur.com/RbrAKn6.png"
-        ]
-    },
-    {
-        "id": "saily",
-        "title": "SailyDemo",
-        "category": "Other",
-        "icon": "https://sailyteam.github.io/img/icon.png",
-        "description": " <strong>Saily</strong> is a modern, fast, and beautiful package manager for jailbroken devices running iOS or iPadOS 13 and is developed by LakrAream and Brecken Lusk.",
-        "compatible": "13.0 or later",
-        "get_link": "https://github.com/SailyTeam/Saily/releases/download/CI-1654050540/chromatic.relsan.1654050540.ipa",
-        "type": "App",
-        "screenshots": [
-            "https://sailyteam.github.io/img/discover.png",
-            "https://sailyteam.github.io/img/manage2.png",
-            "https://sailyteam.github.io/img/depiction.png"
-        ]
-    },
-    {
-        "id": "sleepsaver",
-        "title": "SleepSaver",
-        "category": "Other",
-        "icon": "https://caspd3v.github.io/SleepSaverSite/img/icon.png",
-        "description": "Apple Screensavers without DemoUnit.",
-        "compatible": "Unknown",
-        "get_link": "https://github.com/caspd3v/SleepSaverJailed/releases/download/1.3.1/SleepSaver.Jailed.1.3.1.ipa",
-        "type": "App",
-        "screenshots": [
-            "https://i.imgur.com/3Pc3QwS.png",
-            "https://i.imgur.com/WJaYsMm.png",
-            "https://i.imgur.com/Sg7PpyM.png"
-        ]
-    },
-    {
-        "id": "textastic",
-        "title": "Textastic",
-        "category": "DeveloperTool",
-        "icon": "https://i.imgur.com/XVUyq10.jpg",
-        "description": "Textastic: the code editor that makes your iPhone and iPad feel like a developer's paradise!",
-        "compatible": "Unknown",
-        "get_link": "https://ia800506.us.archive.org/1/items/textastic-9.9.3-le-ti/Textastic_9.9.3_LeTi.ipa",
-        "type": "App",
-        "screenshots": [
-            "https://i.imgur.com/Lu9IOVY.png",
-            "https://i.imgur.com/tIoVTTH.png"
-        ]
-    },
-    {
-        "id": "taurine",
-        "title": "Taurine",
-        "category": "Jailbreak",
-        "icon": "https://i.imgur.com/nxCA5fR.png",
-        "description": "Time to get amped.",
-        "compatible": "14.0 - 14.8.1",
-        "get_link": "https://github.com/Odyssey-Team/Taurine/releases/download/1.1.7-3/Taurine.1.1.7-3.ipa",
-        "type": "App",
-        "screenshots": [
-            "https://taurine.App/assets/images/iphones.png"
-        ]
-    },
-    {
-        "id": "gbox",
-        "title": "GBox",
-        "category": "Sideloading",
-        "icon": "https://gbox.pub/Public/resources/icon256.png",
-        "description": "GBox is a free no jailbreak required re-sign tool for iOS, also a third-party App store.",
-        "compatible": "14 or later",
-        "get_link": "https://ts.gbox.run/GBox_v4.5.2.ipa",
-        "type": "App",
-        "screenshots": [
-            "https://i.imgur.com/FzFCOTe.png"
-        ]
-    },
-    {
-        "id": "esign",
-        "title": "ESign",
-        "category": "Sideloading",
-        "icon": "https://esign.yyyue.xyz/ESignLogo200.png",
-        "description": "Free iPA signing tool.",
-        "compatible": "11 or later",
-        "get_link": "https://pan.yyyue.xyz/d/esign/esign_5.0.2_unsigned.ipa",
-        "type": "App",
-        "screenshots": [
-            "https://i.imgur.com/ozbY9KF.png"
-        ]
-    },
-    {
-        "id": "uyouplus",
-        "title": "uYou+",
-        "category": "TweakedApp",
-        "icon": "https://img.freepik.com/premium-vector/red-youtube-logo-social-media-logo_197792-1803.jpg",
-        "description": "The coolest modded YouTube App out there!",
-        "compatible": "14 or later",
-        "get_link": "https://github.com/qnblackcat/uYouPlus/releases/download/v18.14.1-3.0/uYouPlus_18.14.1_3.0.ipa",
-        "type": "App",
-        "screenshots": [
-            "https://i.imgur.com/21gbFjQ.jpg"
-        ]
-    },
-    {
-        "id": "flekst0re",
-        "title": "FlekSt0re",
-        "category": "3rd Party App Store",
-        "icon": "https://pbs.twimg.com/profile_images/1333829432134541316/u1UlasW7_400x400.jpg",
-        "description": "FlekSt0re PRO is user-friendly code signing platform for iOS. Choose from our extensive App library or sign your own Apps.",
-        "compatible": "Unknown",
-        "get_link": "https://flekstore.com/pro_App/?d=undefined",
-        "type": "Website",
-        "screenshots": [
-            "https://i.imgur.com/xOoWsqM.png",
-            "https://i.imgur.com/icslIAt.png",
-            "https://i.imgur.com/hh4iHUo.png",
-            "https://i.imgur.com/VUtDqdJ.png",
-            "https://i.imgur.com/DxVrTNP.png"
-        ]
-    },
-    {
-        "id": "utools",
-        "title": "3uTools",
-        "category": "Device Manager",
-        "icon": "https://pbs.twimg.com/profile_images/662108693144686592/s1XHXp1D.png",
-        "description": "The most effective device management solution for iPhone, iPad, and iPod.",
-        "compatible": "Unknown",
-        "get_link": "https://3u.com",
-        "type": "App",
-        "device": "iPhone/iPad/iPod",
-        "screenshots": ["https://m.3u.com/assets/windows_bg0@3x-BBmZer_h.png"
-        ]
-    },
-    {
-        "id": "decryptday",
-        "title": "decrypt.day ",
-        "category": "3rd Party App Store",
-        "icon": "https://cdn.decrypt.day/images/decrypt-logo.webp",
-        "description": "iPA Library of decrypted Apps from App Store",
-        "compatible": "Unknown",
-        "get_link": "https://decrypt.day",
-        "type": "Website",
-        "screenshots": [
-            "https://i.imgur.com/1VC7lZV.png"
-        ]
-    },
-    {
-        "id": "bullfrog",
-        "title": "BullfrogAssistant",
-        "category": "Other",
-        "icon": "https://api.ios222.com/logo256.png",
-        "description": "<strong>Mac or Windows PC required to install on device</strong>",
-        "compatible": "Unknown",
-        "get_link": "https://ios222.com",
-        "type": "App",
-        "screenshots": [
-            "https://i.imgur.com/nt0fRYz.png"
-        ]
-    },
-    {
-        "id": "cypwnipa",
-        "title": "CyPwniPA",
-        "category": "3rd Party App Store",
-        "icon": "https://ipa.cypwn.xyz/serve/icons/CyPwn_Store.png",
-        "description": "No description available.",
-        "compatible": "Unknown",
-        "get_link": "https://ipa.cypwn.xyz",
-        "type": "Website",
-        "screenshots": [
-            "https://i.imgur.com/cur5Z9i.png"
-        ]
-    },
-    {
-        "id": "Starfiles",
-        "title": "Starfiles",
-        "category": "Other",
-        "icon": "https://pbs.twimg.com/profile_images/1615356144603758592/ynEAl2CM_400x400.png",
-        "description": "The biggest iPA library and file sharing site out there.",
-        "compatible": "Unknown",
-        "get_link": "https://starfiles.co",
-        "type": "Website",
-        "screenshots": [
-            
-        ]
-    },
-    {
-        "id": "Appdb",
-        "title": "AppDB",
-        "category": "3rd Party App Store",
-        "icon": "https://pbs.twimg.com/profile_images/1838260547944394752/UfYijXbB.jpg",
-        "description": "No description available.",
-        "compatible": "Unknown",
-        "get_link": "https://Appdb.to",
-        "type": "Website",
-        "device": "iPhone/iPad/Mac",
-        "screenshots": [
-            "https://i.imgur.com/wzJYiEU.png"
-        ]
-    },
-    {
-        "id": "cluckabunga",
-        "title": "Cluckabunga",
-        "category": "MDC/KFD",
-        "icon": "https://i.imgur.com/EfBEhqO.png",
-        "description": "KFDCustomization Tool for iOS 16.2 - 16.5 &16.6b1",
-        "compatible": "16.0 - 16.6b1",
-        "get_link": "https://github.com/leminlimez/Cluckabunga/releases/download/v2.2/Cluckabunga.ipa",
-        "type": "App",
-        "screenshots": [
-            
-        ]
-    },
-    {
-        "id": "cowabunga",
-        "title": "Cowabunga",
-        "category": "MDC/KFD",
-        "icon": "https://user-images.githubusercontent.com/52459150/215552092-9dc1e029-da35-43da-867f-17279e3dc180.png",
-        "description": "MacDirtyCowToolbox",
-        "compatible": "14 - 15.7.1 and 16.0 - 16.1.2",
-        "get_link": "https://github.com/leminlimez/Cowabunga/releases/download/v10.3.2/Cowabunga.ipa",
-        "type": "App",
-        "screenshots": ["https://github.com/leminlimez/Cowabunga/blob/main/Images/Home.PNG?raw=true"
-        ]
-    },
-    {
-        "id": "cowabungalite",
-        "title": "CowabungaLite",
-        "category": "Customisation",
-        "icon": "https://i.imgur.com/HEdpcRN.jpg",
-        "description": " <strong>A Mac or a Windows PC os required to customise your iDevice</strong><br />A jailed customization toolbox for iOS 15+ on all devices.<br /><strong>Please back up your devices before using this software! We are not responsible for damage to your device. If you see the data transferring screen, you MUST select Do Not Transfer Apps and Data</strong>",
-        "compatible": "15 or later",
-        "get_link": "https://github.com/leminlimez/CowabungaLite",
-        "type": "Unknown",
-        "screenshots": [
-            "https://github.com/LeminLimez/CowabungaLite/raw/main/Images/Dark/Explore.png",
-            "https://github.com/LeminLimez/CowabungaLite/raw/main/Images/Dark/Theming.png",
-            "https://github.com/LeminLimez/CowabungaLite/raw/main/Images/Dark/ControlCenter.png"
-        ]
-    },
-    {
-        "id": "Appbox",
-        "title": "AppBox",
-        "category": "3rd Party App Store",
-        "icon": "https://pbs.twimg.com/profile_images/1625585716372684803/E0st7g9Q_400x400.jpg",
-        "description": "Find Apps within minutes without ads, paywalls or subscriptions.",
-        "compatible": "Unknown",
-        "get_link": "https://App.Appbox.click",
-        "type": "Website",
-        "screenshots": [
-            "https://i.imgur.com/H2hEKY9.png"
-        ]
-    },
-    {
-        "id": "zeusme",
-        "title": "zeus.me",
-        "category": "3rd Party App Store",
-        "icon": "https://pbs.twimg.com/profile_images/1691480312390340608/aXPlXWdl_400x400.jpg",
-        "description": "Browse our library of iPAs, with the option of on-device install<br />NOTE: all iPAs on Zeus.me do NOT violate any copyright law. Everything on our site is 100% legal to download.",
-        "compatible": "Unknown",
-        "get_link": "https://zeus.me",
-        "type": "Website",
-        "screenshots": [
-            "https://i.imgur.com/RTW80c0.jpg"
-        ]
-    },
-    {
-        "id": "eonhub",
-        "title": "EonHub",
-        "category": "3rd Party App Store",
-        "icon": "https://www.eonhubApp.com/assets/icon.png",
-        "description": "Simple, Easy, EonHub.<br />One of the finest third-party App stores, equipped with a blacklist protection shield!",
-        "compatible": "Unknown",
-        "get_link": "https://App.eonhubApp.com",
-        "type": "Website",
-        "screenshots": [
-            "https://i.imgur.com/z7UX26D.png",
-            "https://i.imgur.com/15zePnS.png"
-        ]
-    },
-    {
-        "id": "oldos",
-        "title": "OldOS",
-        "category": "Emulator",
-        "icon": "https://pbs.twimg.com/profile_images/1416783489106591746/DGy5_hww_400x400.jpg",
-        "description": "ios 4 beautifully rebuilt in SwiftUI",
-        "compatible": "14 or later",
-        "get_link": "https://github.com/zzanehip/The-OldOS-Project/releases/download/1.0_18/OldOS.ipa",
-        "type": "App",
-        "screenshots": [
-            "https://github.com/zzanehip/The-OldOS-Project/blob/master/Images/Market_1.jpg?raw=true",
-            "https://github.com/zzanehip/The-OldOS-Project/blob/master/Images/Market_2.jpg?raw=true",
-            "https://github.com/zzanehip/The-OldOS-Project/blob/master/Images/Market_3.jpg?raw=true",
-            "https://github.com/zzanehip/The-OldOS-Project/blob/master/Images/Market_4.jpg?raw=true",
-            "https://github.com/zzanehip/The-OldOS-Project/blob/master/Images/Market_5.jpg?raw=true"
-        ]
-    },
-    {
-        "id": "dopamine",
-        "title": "Dopamine",
-        "category": "Jailbreak",
-        "icon": "https://ellekit.space/dopamine/assets/icon.png",
-        "description": "A jailbreak for arm64 (A9 - A11) and arm64e (A12 - A16, M1 - M2)<br />Supported on devices on iOS 15.0 - 16.6.1*<br />A rootless jailbreak",
-        "compatible": "15.0 - 16.5.1",
-        "get_link": "https://github.com/opa334/Dopamine/releases/latest/download/Dopamine.ipa",
-        "type": "App",
-        "screenshots": [
-            "https://i.imgur.com/ihxkwt5.png"
-        ]
-    },
-    {
-        "id": "palera1n",
-        "title": "palera1n",
-        "category": "Jailbreak",
-        "icon": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRLJEES6gzjao1qCndbODNKiyqyiGvmX7xquYhDmCnChA&s",
-        "description": "palera1n is a developer-oriented jailbreak for checkm8 devices (A8-A11)",
-        "compatible": "15.0 - Latest•A8-A11",
-        "get_link": "https://palera.in",
-        "type": "Unknown",
-        "device": "iPhone/iPad/Mac",
-        "screenshots": [
-            
-        ]
-    },
-    {
-        "id": "widgy",
-        "title": "Widgy",
-        "category": "Customisation",
-        "icon": "https://i.imgur.com/miHw4If.png",
-        "description": "The coolest App for widgets!",
-        "compatible": "Unknown",
-        "get_link": "https://Apps.Apple.com/ro/App/widgy-widgets/id1524540481",
-        "type": "App",
-        "device": "iPhone/iPad/Mac/Watch",
-        "screenshots": [
-            "https://i.imgur.com/cyNDl7x.png"
-        ]
-    },
-    {
-        "id": "eclipse",
-        "title": "Eclipse",
-        "category": "Emulator",
-        "icon": "https://i.imgur.com/c4tecq8.png",
-        "description": "The unerevokable multi-emulator for iOS.",
-        "compatible": "Unknown",
-        "get_link": "https://eclipseemu.me/play",
-        "type": "Website",
-        "screenshots": [
-            "https://eclipseemu.me/library.webp",
-            "https://eclipseemu.me/systems.webp",
-            "https://eclipseemu.me/controls.webp"
-        ]
-    },
-    {
-        "id": "calculator",
-        "title": "Calculator",
-        "category": "Other",
-        "icon": "https://lake-e.github.io/iPad-Calculator/images/icon.png",
-        "description": "Calculator for iPad",
-        "compatible": "Unknown",
-        "get_link": "https://lake-e.github.io/iPad-Calculator/index.html",
-        "type": "Website",
-        "screenshots": [
-            "https://raw.githubusercontent.com/Lake-e/iPad-Calculator/main/images/calculator-screenshot-1.jpeg"
-        ]
-    },
-    {
-        "id": "chromahue",
-        "title": "ChromaHue",
-        "category": "Photo & Video",
-        "icon": "https://i.imgur.com/O8vSkca.png",
-        "description": "Chroma Hue lets you create custom wallpapers with a beautiful rgb halo effect and now lets you share your own wallpapers.<br />Chroma Hue is an App that allows you to quickly create custom wallpapers. The wallpapers have a gradient border around them with the colors of your choice. You can also add your own custom images to the wallpapers. I hope you like it,Enjoy!",
-        "compatible": "15.0 or later",
-        "get_link": "https://Apps.Apple.com/ro/App/chroma-hue/id6444013215",
-        "type": "App",
-        "screenshots": [
-            "https://i.imgur.com/d8FN28j.png",
-            "https://i.imgur.com/UTEshBz.png"
-        ]
-    },
-    {
-        "id": "swa",
-        "title": "SWA",
-        "category": "Customisation",
-        "icon": "https://i.imgur.com/nHwtY0G.png",
-        "description": "No description available.",
-        "compatible": "Unknown",
-        "get_link": "https://Apps.Apple.com/ro/App/smart-wallpaper-art/id6447762747",
-        "type": "App",
-        "screenshots": [
-            
-        ]
-    },
-    {
-        "id": "showae",
-        "title": "ShowAE",
-        "category": "Customisation",
-        "icon": "https://i.imgur.com/5FSk0AP.png",
-        "description": "Themeyour Homescreen icons and make your Homescreen amazing with our super easy to use Icon theming App! ShowAE has over 300 unique icon effects so you can theme your icons and have an amazing looking Homescreen!<br />Choose from multiple icon effect layers to create a unique and amazing icon effect.<br />Export a single image to share or automatically Apply to your favourite icons. It’s so simple too!",
-        "compatible": "16.0 or later",
-        "get_link": "https://Apps.Apple.com/ro/App/showae/id6444632255",
-        "type": "App",
-        "screenshots": [
-            "https://i.imgur.com/X82xcIT.png",
-            "https://i.imgur.com/C0Pn8Ii.png",
-            "https://i.imgur.com/5bRAwsB.png"
-        ]
-    },
-    {
-        "id": "screenshotsl",
-        "title": "screenshotSL",
-        "category": "Photo & Video",
-        "icon": "https://i.imgur.com/HYnw1mZ.png",
-        "description": "Make unique mockups for your screenshots.",
-        "compatible": "15.0 or later",
-        "get_link": "https://Apps.Apple.com/ro/App/screenshotsl/id1658857348",
-        "type": "App",
-        "screenshots": [
-            "https://i.imgur.com/VE4PrRG.jpg"
-        ]
-    },
-    {
-        "id": "show",
-        "title": "Show",
-        "category": "Customisation",
-        "icon": "https://i.imgur.com/Dq6nP1H.png",
-        "description": "Customize your homescreen and lock screen like never before.",
-        "compatible": "15.0 or later",
-        "get_link": "https://Apps.Apple.com/ro/App/showcuts/id1615409976",
-        "type": "App",
-        "screenshots": [
-            "https://i.imgur.com/PZ74gwW.jpg"
-        ]
-    },
-    {
-        "id": "morfic",
-        "title": "Morfic",
-        "category": "Photo &Video",
-        "icon": "https://i.imgur.com/5W76IR0.png",
-        "description": "Create beautiful wallpapers easily.",
-        "compatible": "15.0 or later",
-        "get_link": "https://Apps.Apple.com/ro/App/morfic-live-dynamic-wallpaper/id1663728720",
-        "type": "App",
-        "screenshots": [
-            "https://i.imgur.com/2Mm25Yd.png"
-        ]
-    },
-    {
-        "id": "itweakhub",
-        "title": "iTweakHub",
-        "category": "3rd Party App Store",
-        "icon": "https://raw.githubusercontent.com/Ibinou/-new-NoCodeHubInstaller/main/img/FD19EBF5-0177-462C-8C10-9C5B37766B29.png",
-        "description": "Introducing the best and innovative web-based 3rd party App Store for iOS and iPadOS.",
-        "compatible": "Unknown",
-        "get_link": "https://getitweakhub.netlify.App",
-        "type": "Website",
-        "screenshots": [
-            "https://i.imgur.com/uuGayId.png",
-            "https://i.imgur.com/oC3v2LI.png",
-            "https://i.imgur.com/3NvFIR0.png"
-        ]
-    },
-    {
-        "id": "iWebAppstore",
-        "title": "iWebAppStore",
-        "category": "PWA App Store",
-        "icon": "https://i.imgur.com/halVpHZ.png",
-        "description": "No description available.",
-        "compatible": "Unknown",
-        "get_link": "https://enzo-zsh.github.io/iWebAppStore/",
-        "type": "Website",
-        "screenshots": [
-            "https://i.imgur.com/DgWzAJP.png"
-        ]
-    },
-    {
-        "id": "scarlet",
-        "title": "Scarlet",
-        "category": "3rd Party AppStore",
-        "icon": "https://pbs.twimg.com/profile_images/1367920028813787144/cwvAQV9f_400x400.jpg",
-        "description": "Welcome to Scarlet, the fastest and smoothest experience to install and manage your favorite Apps. Scarlet has a range ofoptions the most popular being direct install or installing with the Scarlet computer method.",
-        "compatible": "Unknown",
-        "get_link": "https://usescarlet.com",
-        "type": "App",
-        "device": "iPhone/iPad/Mac",
-        "screenshots": [
-            "https://i.imgur.com/btUCPVM.png"
-        ]
-    },
-    {
-        "id": "zeus",
-        "title": "Zeus",
-        "category": "3rd Party App Store",
-        "icon": "https://i.imgur.com/YlIxZud.png",
-        "description": "Zeus is the leading free signing service for iOS. We provide a top quality service for you to get your favorite tweaked Apps and legacy jailbreaks.",
-        "compatible": "Unknown",
-        "get_link": "https://getzeus.App/App/index.html",
-        "type": "App",
-        "screenshots": [
-            "https://i.imgur.com/HN9AwVQ.jpg"
-        ]
-    },
-    {
-        "id": "sileodemo",
-        "title": "SileoDemo",
-        "category": "Other",
-        "icon": "https://getsileo.App/img/icon.png",
-        "description": "Unpack the full potential of your iDevice.",
-        "compatible": "Unknown",
-        "get_link": "https://github.com/Sileo/Sileo/releases/download/2.3/sileo_demo_2.3.ipa",
-        "type": "App",
-        "screenshots": [
-            "https://getsileo.App/img/comp-dark.png"
-        ]
-    },
-    {
-        "id": "altstore",
-        "title": "AltStore",
-        "category": "Sideloading",
-        "icon": "https://i.imgur.com/O18pZ84.png",
-        "description": "A home for Apps that push the boundaries of iOS. No jailbreak required.",
-        "compatible": "Unknown",
-        "get_link": "https://altstore.io",
-        "type": "App",
-        "screenshots": [
-            "https://altstore.io/images/newmyApp-p-800.png"
-        ]
-    },
-    {
-        "id": "postbox",
-        "title": "PostBox",
-        "category": "Other",
-        "icon": "https://i.imgur.com/b8PazSK.png",
-        "description": "PostBoxbrings the latest jailbreak news to your fingertips. Use PostBox to access your favorite packages and repositories while unjailbroken, all without the hassle of constantly searching on the Website. With in-App .deb download and extraction,you can install themes using only your phone.",
-        "compatible": "Unknown",
-        "get_link": "https://github.com/PostBox-Team/PostBox-Releases/releases/download/beta-8.1/PostBox-0.8.1-beta.ipa",
-        "type": "App",
-        "screenshots": [
-            "https://i.imgur.com/X0DGRez.png"
-        ]
-    },
-    {
-        "id": "broank",
-        "title": "Broank",
-        "category": "Customisation",
-        "icon": "https://i.imgur.com/K8mcMFN.png",
-        "description": "Customizinghas nolimits.",
-        "compatible": "Unknown",
-        "get_link": "https://broank.com",
-        "type": "Website",
-        "screenshots": [
-            "https://raw.githubusercontent.com/Polyphian/repo/master/assets/img/Shortcuts.png"
-        ]
-    },
-    {
-        "id": "jailbreaks",
-        "title": "Jailbreaks",
-        "category": "3rd Party App Store",
-        "icon": "https://jailbreaks.App/img/Jailbreaks.png",
-        "description": "Jailbreaks Appstore",
-        "compatible": "Unknown",
-        "get_link": "https://jailbreaks.App",
-        "type": "Website",
-        "screenshots": [
-            "https://i.imgur.com/GmwEh9R.png"
-        ]
-    },
-    {
-        "id": "tubemax",
-        "title": "TubeMax",
-        "category": "Hidden App Store App",
-        "icon": "https://i.imgur.com/ldy8LVJ.png",
-        "description": "YouTube Premium for free.",
-        "compatible": "Unknown",
-        "get_link": "https://Apps.Apple.com/ro/App/tubemax-videos-music-streams/id1634335563",
-        "type": "Website",
-        "screenshots": [
-            "https://i.imgur.com/HH0AELX.jpg"
-        ]
-    },
-    {
-        "id": "sidestore",
-        "title": "SideStore",
-        "category": "Sideloading",
-        "icon": "https://pbs.twimg.com/profile_images/1610768676201848833/lvEKBXiS_400x400.jpg",
-        "description": "AltStore fork that does not require AltServer.",
-        "compatible": "Unknown",
-        "get_link": "https://sidestore.io",
-        "type": "Website",
-        "screenshots": [
-            "https://sidestore.io/hero_render2.12414c8d.webp"
-        ]
-    }
+[
+  {
+    "id": "syde",
+    "title": "Syde",
+    "category": "iPA Library",
+    "icon": "https://i.imgur.com/FcDbADE.png",
+    "description": "Syde is your ultimate sideloading companion—discover, install, and manage third-party IPA files with ease, all in one streamlined platform.",
+    "compatible": "Unknown",
+    "get_link": "https://sydeapp.glide.page/",
+    "type": "Website",
+    "screenshots": ["https://i.imgur.com/71vSVyZ.jpeg"]
+  },
+  {
+    "id": "pojavlauncher",
+    "title": "Pojav Launcher",
+    "category": "Other",
+    "icon": "https://pojavlauncher.app/logo.png",
+    "description": "Experience Minecraft Java Edition on your Android or iOS device with Pojav Launcher—fast, flexible, and open-source for ultimate compatibility.",
+    "compatible": "Unknown",
+    "get_link": "https://pojavlauncherteam.github.io/INSTALL.html#ios",
+    "type": "App",
+    "screenshots": []
+  },
+  {
+    "id": "walls",
+    "title": "Show Walls",
+    "category": "Customisation",
+    "icon": "https://i.imgur.com/wuF5bgM.jpeg",
+    "description": "Browse stunning wallpapers from top creators worldwide. Enjoy premium designs, daily updates, and high-resolution downloads to personalize your device.",
+    "compatible": "18.0 or later",
+    "get_link": "https://apps.apple.com/us/app/show-walls/id6737687624",
+    "type": "App",
+    "screenshots": [
+      "https://i.imgur.com/WVopC0X.jpeg",
+      "https://i.imgur.com/a9yQVMn.jpeg",
+      "https://i.imgur.com/QhlHhqs.jpeg"
+    ]
+  },
+  {
+    "id": "epicstore",
+    "title": "Epic Games Store",
+    "category": "Other",
+    "icon": "https://i.imgur.com/YPWFYx4.jpeg",
+    "description": "Download, install, and play Epic Games like Fortnite, Rocket League Sideswipe, and Fall Guys Mobile. Unlock in-game rewards and enjoy direct access on Android, iPhone, and iPad (EU only). Streaming services on mobile devices are not eligible for rewards.",
+    "compatible": "17.4 or later (EU)",
+    "get_link": "https://store.epicgames.com/download",
+    "type": "App",
+    "screenshots": []
+  },
+  {
+    "id": "irespring",
+    "title": "iRespring",
+    "category": "Other",
+    "icon": "https://irespring.pages.dev/favicon.ico",
+    "description": "Effortlessly restart your iOS device’s SpringBoard with this elegant, unrevokable respring utility—compatible with iOS 12.0 to 15.8.3.",
+    "compatible": "12.0 - 15.8.3",
+    "get_link": "https://irespring.pages.dev",
+    "type": "Website",
+    "screenshots": [
+      "https://i.imgur.com/mjNiaa3.png"
+    ]
+  },
+  {
+    "id": "folium",
+    "title": "Folium",
+    "category": "Emulator",
+    "icon": "https://folium.emuplace.app/Icon_Favicon.png",
+    "description": "Folium puts high-performance, multi-system emulation in your hands with a beautifully designed interface—play your favorite retro games on the go.",
+    "compatible": "Unknown",
+    "get_link": "https://folium.emuplace.App/",
+    "type": "App",
+    "screenshots": [
+      "https://i.imgur.com/gkchQB8.jpeg",
+      "https://i.imgur.com/uqd4MoH.jpeg"
+    ]
+  },
+  {
+    "id": "iconfig",
+    "title": "iConfig",
+    "category": "Other",
+    "icon": "https://i.imgur.com/hiwG5D1.jpeg",
+    "description": "Easily create and manage custom iOS configuration profiles right from your browser with this web-based tool.",
+    "compatible": "Unknown",
+    "get_link": "https://s0n1c.ca/iconfig/",
+    "type": "Website",
+    "screenshots": [
+      "https://i.imgur.com/vCtM8lM.png",
+      "https://i.imgur.com/FtAIK2m.png"
+    ]
+  },
+  {
+    "id": "altlist",
+    "title": "AltList",
+    "category": "Other",
+    "icon": "https://s0n1c.ca/altlist/icon.png",
+    "description": "AltList makes sideloading easy—browse and manage apps from AltStore sources with a user-friendly web interface.",
+    "compatible": "Unknown",
+    "get_link": "https://s0n1c.ca/altlist/",
+    "type": "Website",
+    "screenshots": [
+      "https://i.imgur.com/30iSIJW.png",
+      "https://i.imgur.com/IbVjptL.png"
+    ]
+  },
+  {
+    "id": "Appraven",
+    "title": "AppRaven",
+    "category": "Other",
+    "icon": "https://i.imgur.com/I8tG6lq.png",
+    "description": "Discover the best apps and games tailored to your interests. Connect with like-minded users, get recommendations, and never miss a sale with wish lists and price alerts.",
+    "compatible": "15.0 or later",
+    "get_link": "https://Apps.Apple.com/ro/App/Appraven-Apps-gone-free/id1490607195",
+    "type": "App",
+    "screenshots": [
+      "https://i.imgur.com/cxQekAg.png"
+    ]
+  },
+  {
+    "id": "demus",
+    "title": "Demus",
+    "category": "Other",
+    "icon": "https://i.imgur.com/kXATXtK.png",
+    "description": "Enjoy unlimited free music streaming with Demus—your alternative to paid services like Apple Music. ",
+    "compatible": "17.0 or later",
+    "get_link": "https://Apps.Apple.com/ro/App/demus-easy-music-streaming/id6474685600",
+    "type": "App",
+    "screenshots": [
+      "https://i.imgur.com/NqzxeFp.jpeg",
+      "https://i.imgur.com/1lisoqN.jpeg"
+    ]
+  },
+  {
+    "id": "trollinstallerx",
+    "title": "TrollInstallerX",
+    "category": "TrollStore",
+    "icon": "https://github.com/alfiecg24/TrollInstallerX/blob/main/Resources/Icon.png?raw=true",
+    "description": "TrollInstallerX is a universal TrollStore installer designed for speed and reliability. Instantly install TrollStore or its persistence helper on modern devices in just seconds.",
+    "compatible": "14.0 - 16.5.1",
+    "get_link": "https://github.com/alfiecg24/TrollInstallerX/releases/download/1.0.2/TrollInstallerX.ipa",
+    "type": "App",
+    "screenshots": [
+      "https://media.idownloadblog.com/wp-content/uploads/2024/04/Successfully-Installed-TrollStore-with-TrollInstallerX.jpg"
+    ]
+  },
+  {
+    "id": "acutecalc",
+    "title": "AcuteCalculator",
+    "category": "Other",
+    "icon": "https://i.imgur.com/AVurVqQ.png",
+    "description": "Advanced, ad-free graphing calculator with no subscriptions—powerful math tools at your fingertips.",
+    "compatible": "16.0 or later",
+    "get_link": "https://apps.apple.com/ro/app/acute-calculator/id6476837563",
+    "type": "App",
+    "screenshots": [
+      "https://i.imgur.com/Pbl5FPq.jpeg"
+    ]
+  },
+  {
+    "id": "nekojb",
+    "title": "NekoJB",
+    "category": "Jailbreak",
+    "icon": "https://nekojb.hhls.xyz/nekoJB.webp",
+    "description": "NekoJB, a Dopamine fork, adds full support for rootful jailbreaks and more—offering expanded capabilities on iOS 15.0 to 16.6.1.",
+    "compatible": "15.0 -16.6.1",
+    "get_link": "https://nekojb.hhls.xyz",
+    "type": "App",
+    "screenshots": [
+      "https://i.imgur.com/4vOCkTp.png"
+    ]
+  },
+  {
+    "id": "unichar",
+    "title": "UniChar",
+    "category": "Other",
+    "icon": "https://i.imgur.com/MxrKE1e.png",
+    "description": "The ultimate Unicode keyboard for iOS—no ads, full customization, and a native feel for streamlined symbol input.",
+    "compatible": "15.0 or later",
+    "get_link": "https://Apps.Apple.com/ro/App/unichar-unicode-keyboard/id880811847",
+    "type": "App",
+    "screenshots": [
+      "https://i.imgur.com/FFDXJe9.jpg",
+      "https://i.imgur.com/rjXsWg3.png"
+    ]
+  },
+  {
+    "id": "shareshortcuts",
+    "title": "ShareShortcuts",
+    "category": "Other",
+    "icon": "https://shareshortcuts.com/apple-touch-icon.png?v=jw7gjavNbw",
+    "description": "Join the top Siri Shortcuts community and access an ever-growing library of free, user-contributed automations—no paywalls, ever.",
+    "compatible": "Unknown",
+    "get_link": "https://shareshortcuts.com",
+    "type": "Website",
+    "screenshots": [
+    ]
+  },
+  {
+    "id": "imazing",
+    "title": "iMazing",
+    "category": "Device Management",
+    "icon": "https://imazing.com/img/imazing3-logo.svg",
+    "description": "iMazing is the trusted tool for transferring and backing up your iPhone or iPad’s data to Mac or PC—powerful backups, media transfers, data extraction, and more.",
+    "compatible": "Unknown",
+    "get_link": "https://imazing.com",
+    "type": "Website",
+    "screenshots": [
+      "https://imazing.com/img/home/win/1-hero-winos-130x38-570x368@2x.jpg"
+    ]
+  },
+  {
+    "id": "iconfighub",
+    "title": "iConfigHub",
+    "category": "Other",
+    "icon": "https://iconfigrealm.netlify.app/assets/images/iconfig-hub-logo.png",
+    "description": "Install creative device mods, download screen savers, join TestFlight betas, and access exclusive configuration profiles—all in one hub.",
+    "compatible": "Unknown",
+    "get_link": "https://iconfighub.netlify.App",
+    "type": "Website",
+    "screenshots": [
+      "https://iconfighub.netlify.App/assets/images/18-mp.png"
+    ]
+  },
+  {
+    "id": "utm",
+    "title": "UTM",
+    "category": "Other",
+    "icon": "https://getutm.app/assets/appicon.png",
+    "description": "Run full-featured virtual machines on iOS, bringing the power of desktop computing to your mobile device.",
+    "compatible": "11 or later",
+    "get_link": "https://docs.getutm.App/installation/ios/",
+    "type": "App",
+    "screenshots": [
+      "https://cdn.osxdaily.com/wp-content/uploads/2023/06/macos-sonoma-beta-virtual-machine-utm.jpg"
+    ]
+  },
+  {
+    "id": "modmyiphone",
+    "title": "iNNOVATION",
+    "category": "Customisation",
+    "icon": "https://i.imgur.com/Tyn22ul.png",
+    "description": "Transform your iOS home and lock screens with live weather, RSS feeds, and custom widgets for a personalized experience.",
+    "compatible": "Unknown",
+    "get_link": "https://modmyiphone.dev",
+    "type": "App",
+    "screenshots": [
+      "https://i.imgur.com/H9Eh2Ox.png"
+    ]
+  },
+  {
+    "id": "mockupm",
+    "title": "Mockup M",
+    "category": "Photo &Video",
+    "icon": "https://i.imgur.com/usyD2fq.png",
+    "description": "Effortlessly create beautiful device mockups for your screenshots with a simple, intuitive app.",
+    "compatible": "17.0 or later",
+    "get_link": "https://Apps.Apple.com/ro/App/mockup-m/id6467768436",
+    "type": "App",
+    "screenshots": [
+      "https://i.imgur.com/fNRNn3Q.jpg",
+      "https://i.imgur.com/MJxDF3U.jpg"
+    ]
+  },
+  {
+    "id": "tanarasign",
+    "title": "Tanara Sign",
+    "category": "Sideloading",
+    "icon": "https://i.imgur.com/qQKtJKy.png",
+    "description": "TanaraSign is the first multiplatform code-signing app for all Apple platforms—built entirely in SwiftUI for seamless and secure IPA signing.",
+    "compatible": "Unknown",
+    "get_link": "https://github.com/iRayanKhan/TanaraSign/raw/main/TanaraSign.ipa",
+    "type": "App",
+    "screenshots": [
+      "https://i.imgur.com/Ro7Yd7T.png",
+      "https://i.imgur.com/Q4IVo6W.png",
+      "https://i.imgur.com/K9L9Ba5.png"
+    ]
+  },
+  {
+    "id": "watchanimals",
+    "title": "WatchFaces Animals Gallery",
+    "category": "Other",
+    "icon": "https://i.imgur.com/zgPexTc.png",
+    "description": "Explore a curated collection of stunning animal watch faces for your Apple Watch and give your wrist a unique flair.",
+    "compatible": "Unknown",
+    "get_link": "https://Apps.Apple.com/ro/App/watch-faces-gallery-animals/id1661519284",
+    "type": "App",
+    "screenshots": [
+      "https://i.imgur.com/0CzFE1H.jpg"
+    ]
+  },
+  {
+    "id": "solves",
+    "title": "Solves",
+    "category": "Hidden App Store App",
+    "icon": "https://i.imgur.com/e6TxnFh.png",
+    "description": "Solves takes the iOS Calculator to the next level with advanced features and a supercharged interface.",
+    "compatible": "Unknown",
+    "get_link": "https://Apps.Apple.com/ro/App/solves-calculator-for-all/id1394359548",
+    "type": "App",
+    "screenshots": [
+      "https://i.imgur.com/RbrAKn6.png"
+    ]
+  },
+  {
+    "id": "saily",
+    "title": "SailyDemo",
+    "category": "Other",
+    "icon": "https://sailyteam.github.io/img/icon.png",
+    "description": "Saily is a modern, fast, and visually stunning package manager for jailbroken iOS and iPadOS devices—developed by LakrAream and Brecken Lusk.",
+    "compatible": "13.0 or later",
+    "get_link": "https://github.com/SailyTeam/Saily/releases/download/CI-1654050540/chromatic.relsan.1654050540.ipa",
+    "type": "App",
+    "screenshots": [
+      "https://sailyteam.github.io/img/discover.png",
+      "https://sailyteam.github.io/img/manage2.png",
+      "https://sailyteam.github.io/img/depiction.png"
+    ]
+  },
+  {
+    "id": "sleepsaver",
+    "title": "SleepSaver",
+    "category": "Other",
+    "icon": "https://caspd3v.github.io/SleepSaverSite/img/icon.png",
+    "description": "Enjoy Apple’s legendary screensavers—minus the DemoUnit watermark—on your device, with SleepSaver.",
+    "compatible": "Unknown",
+    "get_link": "https://github.com/caspd3v/SleepSaverJailed/releases/download/1.3.1/SleepSaver.Jailed.1.3.1.ipa",
+    "type": "App",
+    "screenshots": [
+      "https://i.imgur.com/3Pc3QwS.png",
+      "https://i.imgur.com/WJaYsMm.png",
+      "https://i.imgur.com/Sg7PpyM.png"
+    ]
+  },
+  {
+    "id": "textastic",
+    "title": "Textastic",
+    "category": "DeveloperTool",
+    "icon": "https://i.imgur.com/XVUyq10.jpg",
+    "description": "Turn your iPhone or iPad into a developer’s paradise with Textastic—a powerful, feature-rich code editor for mobile.",
+    "compatible": "Unknown",
+    "get_link": "https://ia800506.us.archive.org/1/items/textastic-9.9.3-le-ti/Textastic_9.9.3_LeTi.ipa",
+    "type": "App",
+    "screenshots": [
+      "https://i.imgur.com/Lu9IOVY.png",
+      "https://i.imgur.com/tIoVTTH.png"
+    ]
+  },
+  {
+    "id": "taurine",
+    "title": "Taurine",
+    "category": "Jailbreak",
+    "icon": "https://i.imgur.com/nxCA5fR.png",
+    "description": "Get amped with Taurine—a fast, reliable jailbreak for iOS 14.0 to 14.8.1.",
+    "compatible": "14.0 - 14.8.1",
+    "get_link": "https://github.com/Odyssey-Team/Taurine/releases/download/1.1.7-3/Taurine.1.1.7-3.ipa",
+    "type": "App",
+    "screenshots": [
+      "https://taurine.App/assets/images/iphones.png"
+    ]
+  },
+  {
+    "id": "gbox",
+    "title": "GBox",
+    "category": "Sideloading",
+    "icon": "https://gbox.pub/Public/resources/icon256.png",
+    "description": "GBox is a powerful, free resigning tool for iOS—no jailbreak required. Sign and install third-party apps with ease.",
+    "compatible": "14 or later",
+    "get_link": "https://ts.gbox.run/GBox_v4.5.2.ipa",
+    "type": "App",
+    "screenshots": [
+      "https://i.imgur.com/FzFCOTe.png"
+    ]
+  },
+  {
+    "id": "esign",
+    "title": "ESign",
+    "category": "Sideloading",
+    "icon": "https://esign.yyyue.xyz/ESignLogo200.png",
+    "description": "Sign and install IPA files for free on your iOS device with ESign—a user-friendly, powerful IPA signing app.",
+    "compatible": "11 or later",
+    "get_link": "https://pan.yyyue.xyz/d/esign/esign_5.0.2_unsigned.ipa",
+    "type": "App",
+    "screenshots": [
+      "https://i.imgur.com/ozbY9KF.png"
+    ]
+  },
+  {
+    "id": "uyouplus",
+    "title": "uYou+",
+    "category": "TweakedApp",
+    "icon": "https://img.freepik.com/premium-vector/red-youtube-logo-social-media-logo_197792-1803.jpg",
+    "description": "uYou+ is the ultimate modded YouTube app—enjoy advanced features for an enhanced video experience.",
+    "compatible": "14 or later",
+    "get_link": "https://github.com/qnblackcat/uYouPlus/releases/download/v18.14.1-3.0/uYouPlus_18.14.1_3.0.ipa",
+    "type": "App",
+    "screenshots": [
+      "https://i.imgur.com/21gbFjQ.jpg"
+    ]
+  },
+  {
+    "id": "flekst0re",
+    "title": "FlekSt0re",
+    "category": "3rd Party App Store",
+    "icon": "https://pbs.twimg.com/profile_images/1333829432134541316/u1UlasW7_400x400.jpg",
+    "description": "FlekSt0re PRO is a user-friendly code-signing platform for iOS. Choose from an extensive app library or sign your own apps—no hassle.",
+    "compatible": "Unknown",
+    "get_link": "https://flekstore.com/pro_App/?d=undefined",
+    "type": "Website",
+    "screenshots": [
+      "https://i.imgur.com/xOoWsqM.png",
+      "https://i.imgur.com/icslIAt.png",
+      "https://i.imgur.com/hh4iHUo.png",
+      "https://i.imgur.com/VUtDqdJ.png",
+      "https://i.imgur.com/DxVrTNP.png"
+    ]
+  },
+  {
+    "id": "utools",
+    "title": "3uTools",
+    "category": "Device Management",
+    "icon": "https://pbs.twimg.com/profile_images/662108693144686592/s1XHXp1D.png",
+    "description": "Complete device management for iPhone, iPad, and iPod—backup, transfer, jailbreak, and more in one powerful suite.",
+    "compatible": "Unknown",
+    "get_link": "https://3u.com",
+    "type": "App",
+    "device": "iPhone/iPad/iPod",
+    "screenshots": [
+      "https://m.3u.com/assets/windows_bg0@3x-BBmZer_h.png"
+    ]
+  },
+  {
+    "id": "bullfrog",
+    "title": "BullfrogAssistant",
+    "category": "Other",
+    "icon": "https://api.ios222.com/logo256.png",
+    "description": "Easily install and manage apps on your device with BullfrogAssistant—a Mac or Windows PC is required for installation.",
+    "compatible": "Unknown",
+    "get_link": "https://ios222.com",
+    "type": "App",
+    "screenshots": [
+      "https://i.imgur.com/nt0fRYz.png"
+    ]
+  },
+  {
+    "id": "cypwnipa",
+    "title": "CyPwniPA",
+    "category": "3rd Party App Store",
+    "icon": "https://ipa.cypwn.xyz/serve/icons/CyPwn_Store.png",
+    "description": "CyPwniPA brings a curated collection of third-party and modded IPAs—discover new apps for your iOS device.",
+    "compatible": "Unknown",
+    "get_link": "https://ipa.cypwn.xyz",
+    "type": "Website",
+    "screenshots": [
+      "https://i.imgur.com/cur5Z9i.png"
+    ]
+  },
+  {
+    "id": "Appdb",
+    "title": "AppDB",
+    "category": "3rd Party App Store",
+    "icon": "https://pbs.twimg.com/profile_images/1838260547944394752/UfYijXbB.jpg",
+    "description": "AppDB is your gateway to a massive selection of third-party, tweaked, and modded apps for iPhone, iPad, and Mac.",
+    "compatible": "Unknown",
+    "get_link": "https://Appdb.to",
+    "type": "Website",
+    "device": "iPhone/iPad/Mac",
+    "screenshots": [
+      "https://i.imgur.com/wzJYiEU.png"
+    ]
+  },
+  {
+    "id": "cluckabunga",
+    "title": "Cluckabunga",
+    "category": "MDC/KFD",
+    "icon": "https://i.imgur.com/EfBEhqO.png",
+    "description": "Cluckabunga is a powerful KFD customization tool for iOS 16.2–16.6b1, enabling deep system tweaks and enhancements.",
+    "compatible": "16.0 - 16.6b1",
+    "get_link": "https://github.com/leminlimez/Cluckabunga/releases/download/v2.2/Cluckabunga.ipa",
+    "type": "App",
+    "screenshots": []
+  },
+  {
+    "id": "cowabunga",
+    "title": "Cowabunga",
+    "category": "MDC/KFD",
+    "icon": "https://user-images.githubusercontent.com/52459150/215552092-9dc1e029-da35-43da-867f-17279e3dc180.png",
+    "description": "Cowabunga is the ultimate MacDirtyCow toolbox for iOS 14–15.7.1 and 16.0–16.1.2, offering system tweaks, theming, and more.",
+    "compatible": "14 - 15.7.1 and 16.0 - 16.1.2",
+    "get_link": "https://github.com/leminlimez/Cowabunga/releases/download/v10.3.2/Cowabunga.ipa",
+    "type": "App",
+    "screenshots": [
+      "https://github.com/leminlimez/Cowabunga/blob/main/Images/Home.PNG?raw=true"
+    ]
+  },
+  {
+    "id": "cowabungalite",
+    "title": "CowabungaLite",
+    "category": "Customisation",
+    "icon": "https://i.imgur.com/HEdpcRN.jpg",
+    "description": "CowabungaLite is a jailed customization toolbox for iOS 15+, requiring a Mac or Windows PC. Backup your device before use!",
+    "compatible": "15 or later",
+    "get_link": "https://github.com/leminlimez/CowabungaLite",
+    "type": "Unknown",
+    "screenshots": [
+      "https://github.com/LeminLimez/CowabungaLite/raw/main/Images/Dark/Explore.png",
+      "https://github.com/LeminLimez/CowabungaLite/raw/main/Images/Dark/Theming.png",
+      "https://github.com/LeminLimez/CowabungaLite/raw/main/Images/Dark/ControlCenter.png"
+    ]
+  },
+  {
+    "id": "Appbox",
+    "title": "AppBox",
+    "category": "3rd Party App Store",
+    "icon": "https://pbs.twimg.com/profile_images/1625585716372684803/E0st7g9Q_400x400.jpg",
+    "description": "AppBox lets you find and download apps in minutes—no ads, no paywalls, no subscriptions.",
+    "compatible": "Unknown",
+    "get_link": "https://App.Appbox.click",
+    "type": "Website",
+    "screenshots": [
+      "https://i.imgur.com/H2hEKY9.png"
+    ]
+  },
+ 
+  {
+    "id": "eonhub",
+    "title": "EonHub",
+    "category": "3rd Party App Store",
+    "icon": "https://www.eonhubApp.com/assets/icon.png",
+    "description": "EonHub is a top-rated third-party app store with an intuitive interface and built-in blacklist protection.",
+    "compatible": "Unknown",
+    "get_link": "https://App.eonhubApp.com",
+    "type": "Website",
+    "screenshots": [
+      "https://i.imgur.com/z7UX26D.png",
+      "https://i.imgur.com/15zePnS.png"
+    ]
+  },
+  {
+    "id": "oldos",
+    "title": "OldOS",
+    "category": "Emulator",
+    "icon": "https://pbs.twimg.com/profile_images/1416783489106591746/DGy5_hww_400x400.jpg",
+    "description": "Relive the nostalgia of iOS 4, beautifully rebuilt in SwiftUI. Experience a classic interface on your modern device.",
+    "compatible": "14 or later",
+    "get_link": "https://github.com/zzanehip/The-OldOS-Project/releases/download/1.0_18/OldOS.ipa",
+    "type": "App",
+    "screenshots": [
+      "https://github.com/zzanehip/The-OldOS-Project/blob/master/Images/Market_1.jpg?raw=true",
+      "https://github.com/zzanehip/The-OldOS-Project/blob/master/Images/Market_2.jpg?raw=true",
+      "https://github.com/zzanehip/The-OldOS-Project/blob/master/Images/Market_3.jpg?raw=true",
+      "https://github.com/zzanehip/The-OldOS-Project/blob/master/Images/Market_4.jpg?raw=true",
+      "https://github.com/zzanehip/The-OldOS-Project/blob/master/Images/Market_5.jpg?raw=true"
+    ]
+  },
+  {
+    "id": "dopamine",
+    "title": "Dopamine",
+    "category": "Jailbreak",
+    "icon": "https://ellekit.space/dopamine/assets/icon.png",
+    "description": "Dopamine is a rootless jailbreak for arm64/arm64e (A9–A16, M1–M2) devices, supporting iOS 15.0–16.6.1.",
+    "compatible": "15.0 - 16.5.1",
+    "get_link": "https://github.com/opa334/Dopamine/releases/latest/download/Dopamine.ipa",
+    "type": "App",
+    "screenshots": [
+      "https://i.imgur.com/ihxkwt5.png"
+    ]
+  },
+  {
+    "id": "palera1n",
+    "title": "palera1n",
+    "category": "Jailbreak",
+    "icon": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRLJEES6gzjao1qCndbODNKiyqyiGvmX7xquYhDmCnChA&s",
+    "description": "palera1n is a developer-focused jailbreak for checkm8 devices (A8–A11)—the foundation for advanced iOS development.",
+    "compatible": "15.0 - Latest•A8-A11",
+    "get_link": "https://palera.in",
+    "type": "Unknown",
+    "device": "iPhone/iPad/Mac",
+    "screenshots": []
+  },
+  {
+    "id": "widgy",
+    "title": "Widgy",
+    "category": "Customisation",
+    "icon": "https://i.imgur.com/miHw4If.png",
+    "description": "Explore limitless widget customization with Widgy—create, share, and personalize widgets for your iPhone, iPad, or Apple Watch.",
+    "compatible": "Unknown",
+    "get_link": "https://Apps.Apple.com/ro/App/widgy-widgets/id1524540481",
+    "type": "App",
+    "device": "iPhone/iPad/Mac/Watch",
+    "screenshots": [
+      "https://i.imgur.com/cyNDl7x.png"
+    ]
+  },
+  {
+    "id": "eclipse",
+    "title": "Eclipse",
+    "category": "Emulator",
+    "icon": "https://i.imgur.com/c4tecq8.png",
+    "description": "Eclipse is an unrevokable multi-system emulator for iOS—play classic games from multiple consoles right in your browser.",
+    "compatible": "Unknown",
+    "get_link": "https://eclipseemu.me/play",
+    "type": "Website",
+    "screenshots": [
+      "https://eclipseemu.me/library.webp",
+      "https://eclipseemu.me/systems.webp",
+      "https://eclipseemu.me/controls.webp"
+    ]
+  },
+  {
+    "id": "calculator",
+    "title": "Calculator",
+    "category": "Other",
+    "icon": "https://lake-e.github.io/iPad-Calculator/images/icon.png",
+    "description": "A simple, web-based calculator for iPad—clean design, essential features, and always accessible.",
+    "compatible": "Unknown",
+    "get_link": "https://lake-e.github.io/iPad-Calculator/index.html",
+    "type": "Website",
+    "screenshots": [
+      "https://raw.githubusercontent.com/Lake-e/iPad-Calculator/main/images/calculator-screenshot-1.jpeg"
+    ]
+  },
+  {
+    "id": "chromahue",
+    "title": "ChromaHue",
+    "category": "Photo & Video",
+    "icon": "https://i.imgur.com/O8vSkca.png",
+    "description": "ChromaHue lets you create custom wallpapers with vibrant RGB halo effects—add your own images, customize gradients, and share your creations.",
+    "compatible": "15.0 or later",
+    "get_link": "https://Apps.Apple.com/ro/App/chroma-hue/id6444013215",
+    "type": "App",
+    "screenshots": [
+      "https://i.imgur.com/d8FN28j.png",
+      "https://i.imgur.com/UTEshBz.png"
+    ]
+  },
+  {
+    "id": "swa",
+    "title": "SWA",
+    "category": "Customisation",
+    "icon": "https://i.imgur.com/nHwtY0G.png",
+    "description": "SWA lets you transform your home and lock screens with unique, smart wallpapers and creative customization options.",
+    "compatible": "Unknown",
+    "get_link": "https://Apps.Apple.com/ro/App/smart-wallpaper-art/id6447762747",
+    "type": "App",
+    "screenshots": []
+  },
+  {
+    "id": "showae",
+    "title": "ShowAE",
+    "category": "Customisation",
+    "icon": "https://i.imgur.com/5FSk0AP.png",
+    "description": "ShowAE lets you theme your home screen icons with over 300 unique effects. Create custom icon styles, layer effects, and export or apply them effortlessly.",
+    "compatible": "16.0 or later",
+    "get_link": "https://Apps.Apple.com/ro/App/showae/id6444632255",
+    "type": "App",
+    "screenshots": [
+      "https://i.imgur.com/X82xcIT.png",
+      "https://i.imgur.com/C0Pn8Ii.png",
+      "https://i.imgur.com/5bRAwsB.png"
+    ]
+  },
+  {
+    "id": "screenshotsl",
+    "title": "screenshotSL",
+    "category": "Photo & Video",
+    "icon": "https://i.imgur.com/HYnw1mZ.png",
+    "description": "Create eye-catching mockups for your screenshots instantly with screenshotSL—perfect for developers and designers alike.",
+    "compatible": "15.0 or later",
+    "get_link": "https://Apps.Apple.com/ro/App/screenshotsl/id1658857348",
+    "type": "App",
+    "screenshots": [
+      "https://i.imgur.com/VE4PrRG.jpg"
+    ]
+  },
+  {
+    "id": "show",
+    "title": "Show",
+    "category": "Customisation",
+    "icon": "https://i.imgur.com/Dq6nP1H.png",
+    "description": "Unlock powerful customization for your home and lock screens—design and personalize your iOS experience like never before.",
+    "compatible": "15.0 or later",
+    "get_link": "https://Apps.Apple.com/ro/App/showcuts/id1615409976",
+    "type": "App",
+    "screenshots": [
+      "https://i.imgur.com/PZ74gwW.jpg"
+    ]
+  },
+  {
+    "id": "morfic",
+    "title": "Morfic",
+    "category": "Photo &Video",
+    "icon": "https://i.imgur.com/5W76IR0.png",
+    "description": "Morfic makes it easy to create beautiful, dynamic wallpapers. Personalize your device with unique, artistic backgrounds.",
+    "compatible": "15.0 or later",
+    "get_link": "https://Apps.Apple.com/ro/App/morfic-live-dynamic-wallpaper/id1663728720",
+    "type": "App",
+    "screenshots": [
+      "https://i.imgur.com/2Mm25Yd.png"
+    ]
+  },
+  {
+    "id": "itweakhub",
+    "title": "iTweakHub",
+    "category": "3rd Party App Store",
+    "icon": "https://raw.githubusercontent.com/Ibinou/-new-NoCodeHubInstaller/main/img/FD19EBF5-0177-462C-8C10-9C5B37766B29.png",
+    "description": "iTweakHub is an innovative web-based third-party app store for iOS and iPadOS, featuring an extensive library and easy installation.",
+    "compatible": "Unknown",
+    "get_link": "https://getitweakhub.netlify.App",
+    "type": "Website",
+    "screenshots": [
+      "https://i.imgur.com/uuGayId.png",
+      "https://i.imgur.com/oC3v2LI.png",
+      "https://i.imgur.com/3NvFIR0.png"
+    ]
+  },
+  {
+    "id": "iWebAppstore",
+    "title": "iWebAppStore",
+    "category": "PWA App Store",
+    "icon": "https://i.imgur.com/halVpHZ.png",
+    "description": "Browse and install a variety of web-based progressive web apps (PWAs) for iOS on iWebAppStore.",
+    "compatible": "Unknown",
+    "get_link": "https://enzo-zsh.github.io/iWebAppStore/",
+    "type": "Website",
+    "screenshots": [
+      "https://i.imgur.com/DgWzAJP.png"
+    ]
+  },
+  {
+    "id": "scarlet",
+    "title": "Scarlet",
+    "category": "3rd Party AppStore",
+    "icon": "https://pbs.twimg.com/profile_images/1367920028813787144/cwvAQV9f_400x400.jpg",
+    "description": "Scarlet delivers the fastest, smoothest experience for installing and managing your favorite apps, with direct and computer-based install options.",
+    "compatible": "Unknown",
+    "get_link": "https://usescarlet.com",
+    "type": "App",
+    "device": "iPhone/iPad/Mac",
+    "screenshots": [
+      "https://i.imgur.com/btUCPVM.png"
+    ]
+  },
+  {
+    "id": "zeus",
+    "title": "Zeus",
+    "category": "3rd Party App Store",
+    "icon": "https://i.imgur.com/YlIxZud.png",
+    "description": "Zeus is a leading free signing service for iOS—get your favorite tweaked apps and classic jailbreak tools effortlessly.",
+    "compatible": "Unknown",
+    "get_link": "https://getzeus.app/app/index.html",
+    "type": "App",
+    "screenshots": [
+      "https://i.imgur.com/HN9AwVQ.jpg"
+    ]
+  },
+  {
+    "id": "sileodemo",
+    "title": "SileoDemo",
+    "category": "Other",
+    "icon": "https://getsileo.App/img/icon.png",
+    "description": "Unlock the full potential of your iDevice with SileoDemo—a modern package manager demo for iOS.",
+    "compatible": "Unknown",
+    "get_link": "https://github.com/Sileo/Sileo/releases/download/2.3/sileo_demo_2.3.ipa",
+    "type": "App",
+    "screenshots": [
+      "https://getsileo.App/img/comp-dark.png"
+    ]
+  },
+  {
+    "id": "altstore",
+    "title": "AltStore",
+    "category": "Sideloading",
+    "icon": "https://i.imgur.com/O18pZ84.png",
+    "description": "AltStore is the home for apps that push iOS boundaries—install apps outside the App Store, no jailbreak required.",
+    "compatible": "Unknown",
+    "get_link": "https://altstore.io",
+    "type": "App",
+    "screenshots": [
+      "https://altstore.io/images/newmyApp-p-800.png"
+    ]
+  },
+  {
+    "id": "postbox",
+    "title": "PostBox",
+    "category": "Other",
+    "icon": "https://i.imgur.com/b8PazSK.png",
+    "description": "Stay up to date with the latest jailbreak news and packages. Download and extract .deb files—even on unjailbroken devices.",
+    "compatible": "Unknown",
+    "get_link": "https://github.com/PostBox-Team/PostBox-Releases/releases/download/beta-8.1/PostBox-0.8.1-beta.ipa",
+    "type": "App",
+    "screenshots": [
+      "https://i.imgur.com/X0DGRez.png"
+    ]
+  },
+  {
+    "id": "broank",
+    "title": "Broank",
+    "category": "Customisation",
+    "icon": "https://i.imgur.com/K8mcMFN.png",
+    "description": "Broank breaks all limits in customization—personalize your device with a wide range of tools and shortcuts.",
+    "compatible": "Unknown",
+    "get_link": "https://broank.com",
+    "type": "Website",
+    "screenshots": [
+      "https://raw.githubusercontent.com/Polyphian/repo/master/assets/img/Shortcuts.png"
+    ]
+  },
+  {
+    "id": "jailbreaks",
+    "title": "Jailbreaks",
+    "category": "3rd Party App Store",
+    "icon": "https://jailbreaks.App/img/Jailbreaks.png",
+    "description": "Jailbreaks is your one-stop app store for all major jailbreak tools, utilities, and resources.",
+    "compatible": "Unknown",
+    "get_link": "https://jailbreaks.App",
+    "type": "Website",
+    "screenshots": [
+      "https://i.imgur.com/GmwEh9R.png"
+    ]
+  },
+  {
+    "id": "tubemax",
+    "title": "TubeMax",
+    "category": "Hidden App Store App",
+    "icon": "https://i.imgur.com/ldy8LVJ.png",
+    "description": "TubeMax brings you YouTube Premium features for free—enjoy ad-free streaming and background playback.",
+    "compatible": "Unknown",
+    "get_link": "https://Apps.Apple.com/ro/App/tubemax-videos-music-streams/id1634335563",
+    "type": "Website",
+    "screenshots": [
+      "https://i.imgur.com/HH0AELX.jpg"
+    ]
+  },
+  {
+    "id": "sidestore",
+    "title": "SideStore",
+    "category": "Sideloading",
+    "icon": "https://pbs.twimg.com/profile_images/1610768676201848833/lvEKBXiS_400x400.jpg",
+    "description": "SideStore is a fork of AltStore that works independently—sideload apps on iOS without needing AltServer.",
+    "compatible": "Unknown",
+    "get_link": "https://sidestore.io",
+    "type": "Website",
+    "screenshots": [
+      "https://sidestore.io/hero_render2.12414c8d.webp"
+    ]
+  }
 ]
